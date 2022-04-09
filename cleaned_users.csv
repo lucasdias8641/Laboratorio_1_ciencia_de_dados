@@ -1,0 +1,6041 @@
+UserID;Gender;Occupation;Zip-code;idade
+1;F;10;Michigan;0
+2;M;16;Luisiana;8
+3;M;15;Minnesota;5
+4;M;7;Massachusetts;7
+5;M;20;Minnesota;5
+6;F;9;Minnesota;8
+7;M;1;Connecticut;6
+8;M;12;Nova Iorque (estado);6
+9;M;17;Illinois;5
+10;F;1;Califórnia;7
+11;F;1;Maine;5
+12;M;12;Flórida;5
+13;M;1;Califórnia;7
+14;M;0;Illinois;7
+15;M;7;Virgínia;5
+16;F;0;Maryland;6
+17;M;1;Califórnia;8
+18;F;3;Califórnia;4
+19;M;10;Michigan;2
+20;M;14;Minnesota;5
+21;M;16;Washington;3
+22;M;15;Wisconsin;4
+23;M;0;Califórnia;7
+24;F;7;Nova Iorque (estado);5
+25;M;4;Massachusetts;4
+26;M;7;Virgínia;5
+27;M;11;Pensilvânia;5
+28;F;1;Nova Iorque (estado);5
+29;M;7;Flórida;6
+30;F;7;Pensilvânia;6
+31;M;7;Connecticut;9
+32;F;0;Pensilvânia;5
+33;M;3;Minnesota;7
+34;F;0;Massachusetts;4
+35;M;1;Massachusetts;7
+36;M;3;Califórnia;6
+37;F;9;Kansas;5
+38;F;4;Massachusetts;4
+39;M;4;Illinois;3
+40;M;0;Nova Iorque (estado);7
+41;F;4;Pensilvânia;3
+42;M;8;Virgínia;6
+43;M;12;Illinois;4
+44;M;17;Washington;7
+45;F;16;Califórnia;7
+46;M;19;Texas;4
+47;M;4;Califórnia;4
+48;M;4;Califórnia;6
+49;M;12;Texas;4
+50;F;2;Washington;5
+51;F;10;Nova Iorque (estado);0
+52;M;4;Arkansas;3
+53;M;0;;4
+54;M;1;Minnesota;7
+55;F;12;Minnesota;6
+56;M;20;Illinois;6
+57;M;19;Geórgia (Estados Unidos);4
+58;M;2;Geórgia (Estados Unidos);5
+59;F;1;Minnesota;8
+60;M;1;Arkansas;8
+61;M;17;Califórnia;6
+62;F;3;Washington;6
+63;M;4;Wisconsin;3
+64;M;1;Wisconsin;4
+65;M;12;Minnesota;6
+66;M;18;Dakota do Sul;6
+67;F;5;Illinois;7
+68;M;4;Wisconsin;3
+69;F;1;Massachusetts;5
+70;M;4;Wisconsin;3
+71;M;14;Califórnia;5
+72;F;0;Minnesota;7
+73;M;4;Wisconsin;4
+74;M;14;Califórnia;6
+75;F;10;Massachusetts;0
+76;M;7;Minnesota;7
+77;M;4;Pensilvânia;4
+78;F;1;Washington;7
+79;F;0;Washington;7
+80;M;1;Michigan;9
+81;F;0;Illinois;6
+82;M;17;Michigan;6
+83;F;2;Califórnia;5
+84;M;4;Wisconsin;3
+85;M;4;Califórnia;4
+86;F;10;Wisconsin;0
+87;M;14;Michigan;5
+88;F;1;Massachusetts;7
+89;F;9;Arizona;8
+90;M;13;Arizona;9
+91;M;7;Nova Jérsia;6
+92;F;4;Ohio;4
+93;M;17;Califórnia;5
+94;M;17;Carolina do Norte;5
+95;M;0;Washington;7
+96;F;16;Texas;5
+97;F;3;Kansas;6
+98;F;7;Flórida;7
+99;F;10;Pensilvânia;0
+100;M;17;Califórnia;7
+101;F;3;Flórida;4
+102;M;19;Maryland;6
+103;M;7;Califórnia;7
+104;M;12;;5
+105;M;12;Califórnia;7
+106;F;11;Texas;6
+107;M;18;Missouri;7
+108;M;12;Geórgia (Estados Unidos);6
+109;M;15;Califórnia;7
+110;M;2;Califórnia;6
+111;M;15;Minnesota;6
+112;M;16;Oregon;6
+113;M;12;Tennessee;4
+114;F;2;Idaho;5
+115;M;17;Carolina do Norte;5
+116;M;17;Minnesota;5
+117;M;17;Flórida;6
+118;M;17;Virgínia;6
+119;F;10;Texas;2
+120;M;11;Carolina do Norte;5
+121;M;7;Texas;7
+122;F;4;Califórnia;4
+123;M;9;Kansas;7
+124;M;7;Califórnia;8
+125;M;14;Massachusetts;7
+126;M;9;Washington;3
+127;F;3;Massachusetts;7
+128;M;6;Tennessee;9
+129;M;11;;6
+130;M;17;Iowa;7
+131;M;4;Connecticut;4
+132;M;17;Alasca;5
+133;F;0;Minnesota;5
+134;M;0;Kansas;6
+135;M;4;Washington, D.C.;3
+136;M;2;Maryland;4
+137;F;6;Texas;7
+138;M;20;Maryland;4
+139;F;20;Ohio;4
+140;F;1;Minnesota;6
+141;M;13;Illinois;6
+142;M;7;Nova Iorque (estado);6
+143;M;3;Missouri;4
+144;M;17;Carolina do Sul;6
+145;M;4;Pensilvânia;4
+146;F;20;Nova Iorque (estado);6
+147;M;4;Califórnia;4
+148;M;17;Dakota do Sul;8
+149;M;1;Carolina do Sul;6
+150;M;7;Washington;6
+151;F;20;Arizona;5
+152;M;4;Michigan;4
+153;M;10;Iowa;1
+154;M;20;Califórnia;8
+155;M;12;Nova Jérsia;6
+156;F;7;Nova Iorque (estado);7
+157;M;16;Nova Iorque (estado);7
+158;M;7;Carolina do Norte;8
+159;F;0;Tennessee;7
+160;M;7;Nova Iorque (estado);7
+161;M;16;Washington;7
+162;F;4;Califórnia;4
+163;M;4;Arizona;4
+164;F;13;Califórnia;8
+165;M;16;Washington;4
+166;M;4;Califórnia;4
+167;F;11;Nova Iorque (estado);5
+168;F;0;Indiana;7
+169;M;7;Minnesota;6
+170;M;11;Nova Jérsia;6
+171;F;17;Minnesota;8
+172;M;3;Nova Jérsia;6
+173;M;0;Ohio;5
+174;M;16;Maryland;5
+175;F;2;Califórnia;6
+176;F;3;Minnesota;4
+177;M;1;Wisconsin;8
+178;M;17;Wisconsin;9
+179;M;0;Massachusetts;6
+180;M;12;Massachusetts;7
+181;M;17;Flórida;4
+182;M;4;Nova Hampshire;4
+183;F;1;Minnesota;7
+184;F;0;Pensilvânia;5
+185;M;0;Nova Iorque (estado);7
+186;M;5;Califórnia;4
+187;F;1;Califórnia;7
+188;M;16;Texas;9
+189;M;0;Illinois;4
+190;M;17;Minnesota;6
+191;M;4;Maine;3
+192;M;1;Nova Iorque (estado);4
+193;F;15;Ohio;7
+194;F;10;Carolina do Sul;0
+195;M;12;Nova Iorque (estado);6
+196;F;9;Califórnia;6
+197;M;14;Nova Iorque (estado);4
+198;M;12;Minnesota;5
+199;M;4;Idaho;3
+200;F;4;Utah;4
+201;F;2;Minnesota;6
+202;M;4;Wisconsin;4
+203;F;4;Wisconsin;3
+204;M;7;Califórnia;5
+205;M;12;Oregon;6
+206;M;17;;5
+207;M;12;Califórnia;6
+208;M;17;Minnesota;6
+209;M;1;Califórnia;6
+210;F;10;Virgínia Ocidental;0
+211;M;17;Califórnia;7
+212;M;16;Wisconsin;6
+213;F;4;Massachusetts;4
+214;M;20;Colorado;3
+215;M;14;Califórnia;6
+216;M;13;Iowa;7
+217;M;4;Virgínia;4
+218;M;14;Califórnia;6
+219;F;4;Minnesota;6
+220;M;12;Virgínia;5
+221;F;0;Califórnia;6
+222;M;1;Minnesota;6
+223;M;17;Carolina do Norte;5
+224;F;4;Nova Iorque (estado);4
+225;M;7;Nova Iorque (estado);5
+226;M;1;Califórnia;6
+227;M;20;Califórnia;6
+228;M;15;Minnesota;5
+229;M;10;Maine;4
+230;M;1;Ohio;7
+231;M;3;Minnesota;5
+232;M;20;Minnesota;5
+233;F;20;Tennessee;7
+234;M;7;Mississippi;7
+235;M;0;Washington;6
+236;M;5;Minnesota;5
+237;M;6;Indiana;6
+238;F;7;Califórnia;8
+239;M;19;Califórnia;4
+240;M;17;Minnesota;7
+241;M;20;Minnesota;7
+242;F;4;Wisconsin;4
+243;M;16;Nova Iorque (estado);4
+244;M;7;Pensilvânia;8
+245;M;16;Missouri;6
+246;F;4;Illinois;4
+247;M;17;Califórnia;5
+248;M;17;Arkansas;3
+249;F;14;Michigan;3
+250;M;16;Nova Iorque (estado);6
+251;M;17;Minnesota;9
+252;M;12;Califórnia;6
+253;F;11;Oregon;6
+254;M;17;Michigan;7
+255;M;0;Arizona;7
+256;M;16;Minnesota;7
+257;M;18;Minnesota;4
+258;M;7;Minnesota;6
+259;M;1;Illinois;6
+260;M;19;Washington;3
+261;M;20;Texas;5
+262;F;1;Nebraska;5
+263;F;7;Virgínia;6
+264;M;0;Maryland;6
+265;F;7;Minnesota;6
+266;M;11;Texas;6
+267;M;12;Minnesota;7
+268;F;12;Carolina do Sul;3
+269;M;2;Minnesota;4
+270;M;14;Minnesota;8
+271;M;4;Michigan;4
+272;M;0;Colorado;4
+273;M;4;Minnesota;4
+274;M;4;Minnesota;3
+275;M;0;Michigan;6
+276;M;16;Massachusetts;7
+277;F;1;Washington;6
+278;M;18;Illinois;7
+279;M;14;Califórnia;6
+280;M;7;Pensilvânia;8
+281;F;0;Califórnia;7
+282;M;17;Califórnia;5
+283;M;0;Nova Iorque (estado);5
+284;M;12;Califórnia;5
+285;F;0;Califórnia;6
+286;M;1;Wisconsin;5
+287;M;13;Califórnia;7
+288;F;12;Oregon;5
+289;F;0;Nova Iorque (estado);6
+290;F;20;Califórnia;5
+291;M;12;Minnesota;6
+292;M;7;Pensilvânia;7
+293;M;1;Minnesota;8
+294;F;9;Ohio;7
+295;M;0;Colorado;4
+296;M;5;Nevada;8
+297;M;2;Oregon;4
+298;F;4;Pensilvânia;3
+299;M;12;Oregon;6
+300;M;7;Texas;5
+301;M;4;Illinois;4
+302;M;4;Maine;3
+303;M;7;Washington, D.C.;5
+304;M;0;Minnesota;5
+305;F;0;Minnesota;3
+306;M;0;Wisconsin;4
+307;M;16;Califórnia;8
+308;M;2;Nova Iorque (estado);5
+309;M;4;Pensilvânia;6
+310;F;4;Geórgia (Estados Unidos);3
+311;M;4;Geórgia (Estados Unidos);4
+312;F;2;Maryland;8
+313;F;4;Massachusetts;3
+314;F;9;Indiana;9
+315;F;1;Minnesota;8
+316;M;13;Califórnia;8
+317;M;7;Tennessee;7
+318;F;13;Minnesota;8
+319;F;6;Flórida;8
+320;M;6;Alasca;7
+321;M;4;Minnesota;4
+322;M;17;Minnesota;8
+323;M;12;Wisconsin;7
+324;M;17;Minnesota;6
+325;F;3;Minnesota;8
+326;M;11;Virgínia Ocidental;8
+327;M;18;Minnesota;6
+328;M;12;Colorado;6
+329;M;7;Massachusetts;7
+330;M;7;Califórnia;8
+331;M;7;Minnesota;5
+332;M;1;Minnesota;8
+333;M;2;Minnesota;6
+334;F;2;Minnesota;8
+335;M;18;Minnesota;7
+336;M;0;Washington;3
+337;M;19;Colorado;4
+338;M;7;Minnesota;6
+339;M;7;Colorado;8
+340;F;3;Carolina do Norte;5
+341;F;13;Califórnia;8
+342;M;12;Minnesota;3
+343;F;3;Minnesota;7
+344;M;14;Texas;6
+345;M;12;Califórnia;6
+346;F;0;Minnesota;5
+347;F;1;Minnesota;9
+348;M;7;Minnesota;8
+349;M;10;Nova Jérsia;0
+350;M;20;Nova Jérsia;7
+351;M;4;Minnesota;4
+352;M;4;Illinois;4
+353;F;7;Califórnia;7
+354;M;1;Minnesota;7
+355;M;3;Minnesota;3
+356;M;20;Minnesota;8
+357;M;0;Washington;3
+358;F;1;Maryland;8
+359;M;17;Minnesota;6
+360;M;17;Carolina do Norte;6
+361;F;14;Califórnia;5
+362;M;20;Minnesota;7
+363;M;10;Minnesota;3
+364;F;1;Indiana;6
+365;F;4;Massachusetts;4
+366;M;15;Minnesota;8
+367;M;12;Minnesota;8
+368;M;0;Califórnia;5
+369;M;1;Minnesota;6
+370;M;17;Virgínia;4
+371;M;4;Massachusetts;4
+372;F;4;Arkansas;3
+373;F;2;Minnesota;6
+374;F;14;Minnesota;6
+375;M;2;Minnesota;6
+376;M;1;Colorado;6
+377;M;17;Minnesota;5
+378;F;0;Minnesota;4
+379;F;1;Wisconsin;7
+380;M;2;Califórnia;4
+381;M;17;Nevada;7
+382;F;20;Kansas;6
+383;F;7;Texas;5
+384;M;11;Minnesota;6
+385;M;6;Nebraska;5
+386;M;0;Minnesota;5
+387;F;7;Minnesota;7
+388;F;0;Nova Iorque (estado);6
+389;M;6;Nebraska;6
+390;M;4;Minnesota;5
+391;M;11;Maryland;7
+392;M;7;Washington, D.C.;4
+393;M;17;Minnesota;7
+394;M;0;Minnesota;4
+395;M;5;Minnesota;4
+396;M;1;Minnesota;5
+397;M;17;Maryland;6
+398;M;17;Minnesota;5
+399;F;6;Minnesota;7
+400;F;3;Minnesota;4
+401;M;0;Minnesota;4
+402;M;11;Minnesota;5
+403;M;4;Massachusetts;4
+404;M;4;Nova Iorque (estado);3
+405;M;1;Nova Iorque (estado);8
+406;M;20;Minnesota;5
+407;M;17;Nevada;4
+408;M;11;Massachusetts;5
+409;M;12;Minnesota;4
+410;F;1;Minnesota;5
+411;F;1;Ohio;7
+412;M;15;Minnesota;6
+413;M;11;Minnesota;6
+414;M;0;Minnesota;6
+415;F;0;Minnesota;6
+416;M;14;Minnesota;7
+417;F;0;Iowa;5
+418;F;3;Wisconsin;6
+419;M;3;Minnesota;4
+420;M;1;Minnesota;7
+421;F;3;Minnesota;7
+422;M;17;Minnesota;8
+423;M;4;Minnesota;4
+424;M;17;Minnesota;6
+425;M;12;Minnesota;5
+426;M;4;Minnesota;4
+427;M;12;Minnesota;6
+428;F;4;Minnesota;4
+429;M;0;Wisconsin;4
+430;F;10;Minnesota;4
+431;M;10;Minnesota;3
+432;M;16;Minnesota;7
+433;M;6;Minnesota;8
+434;F;3;Washington;7
+435;M;7;Minnesota;6
+436;M;4;Ohio;4
+437;M;17;Minnesota;6
+438;M;11;Wisconsin;4
+439;M;14;Minnesota;7
+440;M;1;Flórida;9
+441;M;1;Minnesota;6
+442;M;1;Minnesota;5
+443;M;3;Minnesota;6
+444;M;0;Minnesota;8
+445;M;12;Minnesota;7
+446;F;0;Minnesota;7
+447;F;11;Minnesota;7
+448;M;17;Colorado;4
+449;M;7;Arizona;6
+450;M;1;Virgínia;7
+451;M;13;Wisconsin;8
+452;M;17;Minnesota;8
+453;M;4;Minnesota;3
+454;M;20;Minnesota;6
+455;F;2;Minnesota;6
+456;M;0;Minnesota;7
+457;M;4;Wisconsin;4
+458;M;16;Minnesota;7
+459;F;4;Minnesota;4
+460;M;18;Minnesota;7
+461;M;7;Minnesota;8
+462;M;16;Minnesota;3
+463;M;7;Minnesota;5
+464;F;4;Minnesota;4
+465;M;19;Califórnia;4
+466;M;5;Minnesota;5
+467;F;3;Minnesota;7
+468;F;10;Minnesota;0
+469;M;6;Minnesota;6
+470;F;10;Minnesota;0
+471;M;7;Nova Jérsia;6
+472;M;0;Minnesota;7
+473;F;4;Minnesota;4
+474;M;17;Califórnia;6
+475;F;2;Minnesota;5
+476;M;0;Minnesota;6
+477;M;14;Minnesota;7
+478;M;16;Minnesota;8
+479;M;12;Minnesota;5
+480;F;4;Minnesota;4
+481;M;7;Minnesota;7
+482;M;14;Minnesota;5
+483;M;12;Minnesota;3
+484;F;10;Minnesota;0
+485;M;7;Minnesota;9
+486;M;0;Califórnia;8
+487;F;17;Minnesota;7
+488;M;12;Minnesota;5
+489;M;4;Minnesota;4
+490;M;10;Minnesota;1
+491;M;4;Minnesota;4
+492;M;12;Minnesota;6
+493;M;7;Minnesota;8
+494;F;0;Pensilvânia;6
+495;M;10;Minnesota;4
+496;M;4;Minnesota;4
+497;F;17;Minnesota;5
+498;M;17;Minnesota;7
+499;F;1;Minnesota;5
+500;F;2;Minnesota;3
+501;M;2;Minnesota;5
+502;M;6;Minnesota;6
+503;M;11;Oklahoma;7
+504;M;2;Pensilvânia;5
+505;M;17;Tennessee;6
+506;M;16;Minnesota;5
+507;F;0;Minnesota;5
+508;M;12;Minnesota;6
+509;M;2;Minnesota;6
+510;M;12;Minnesota;4
+511;F;4;Pensilvânia;7
+512;M;0;Minnesota;7
+513;M;0;Minnesota;5
+514;M;2;Minnesota;6
+515;M;1;Minnesota;6
+516;F;14;Minnesota;9
+517;F;14;Minnesota;5
+518;F;12;Texas;7
+519;F;14;Minnesota;6
+520;F;20;Minnesota;6
+521;M;7;Minnesota;8
+522;M;12;Minnesota;5
+523;M;7;Minnesota;8
+524;M;0;Califórnia;4
+525;M;6;Pensilvânia;7
+526;M;17;Califórnia;7
+527;F;2;Nova Iorque (estado);4
+528;F;17;Idaho;4
+529;M;12;Califórnia;6
+530;M;2;Nova Iorque (estado);5
+531;F;14;Maryland;3
+532;M;7;Califórnia;5
+533;M;12;Carolina do Norte;6
+534;M;15;Minnesota;4
+535;M;6;Califórnia;6
+536;M;20;Massachusetts;6
+537;M;14;Nova Jérsia;7
+538;M;16;Califórnia;9
+539;M;2;Minnesota;5
+540;M;1;Pensilvânia;4
+541;F;4;;4
+542;M;4;Texas;4
+543;M;5;Minnesota;6
+544;M;12;Califórnia;6
+545;M;17;Massachusetts;6
+546;F;0;Tennessee;6
+547;M;12;Texas;7
+548;F;16;Havaí;7
+549;M;6;Wisconsin;6
+550;M;8;Maryland;7
+551;M;20;Minnesota;7
+552;M;18;Virgínia;7
+553;M;2;Califórnia;5
+554;M;12;Califórnia;5
+555;M;4;Wisconsin;3
+556;F;9;Tennessee;4
+557;M;1;Geórgia (Estados Unidos);9
+558;M;20;Minnesota;6
+559;F;7;Illinois;5
+560;M;15;Colorado;7
+561;F;14;Missouri;4
+562;M;20;Michigan;6
+563;M;4;Wisconsin;5
+564;M;1;Michigan;7
+565;M;16;Ohio;6
+566;M;17;Califórnia;5
+567;M;20;Iowa;6
+568;F;17;Delaware;8
+569;F;4;Oregon;4
+570;M;4;Flórida;5
+571;M;5;Califórnia;7
+572;M;4;Illinois;3
+573;F;2;Washington;6
+574;M;19;Califórnia;5
+575;M;12;Califórnia;5
+576;F;15;Maryland;7
+577;M;0;Massachusetts;6
+578;M;17;Califórnia;4
+579;M;5;Flórida;4
+580;M;10;Nova Jérsia;0
+581;M;14;Oklahoma;7
+582;M;4;Kansas;4
+583;F;0;Michigan;6
+584;F;0;Califórnia;5
+585;M;1;Wisconsin;3
+586;M;14;Wisconsin;7
+587;M;20;Califórnia;6
+588;F;11;Virgínia;5
+589;M;2;Califórnia;4
+590;F;6;Washington;7
+591;M;0;Texas;6
+592;M;0;Califórnia;3
+593;F;1;Califórnia;7
+594;F;13;Illinois;9
+595;M;7;Nova Iorque (estado);5
+596;F;1;Massachusetts;5
+597;M;12;Colorado;7
+598;M;7;Califórnia;7
+599;M;6;Wisconsin;8
+600;M;17;Kansas;7
+601;F;20;Connecticut;4
+602;F;6;Nova Iorque (estado);9
+603;F;6;Flórida;5
+604;M;17;Flórida;7
+605;F;4;Ohio;4
+606;F;10;Michigan;1
+607;M;0;Ohio;6
+608;M;4;Pensilvânia;4
+609;M;7;Nova Iorque (estado);5
+610;M;4;Texas;5
+611;M;0;Maryland;6
+612;M;7;Califórnia;8
+613;M;20;Nova Iorque (estado);6
+614;M;1;Califórnia;6
+615;M;17;Flórida;8
+616;M;7;Califórnia;6
+617;F;7;Califórnia;4
+618;M;0;Oklahoma;4
+619;F;1;Califórnia;4
+620;M;0;Nova Iorque (estado);4
+621;M;4;Califórnia;4
+622;M;0;Califórnia;6
+623;M;17;Illinois;6
+624;M;1;Texas;4
+625;F;12;Ohio;6
+626;M;4;Texas;4
+627;M;2;Oregon;8
+628;F;0;Maryland;6
+629;F;10;Michigan;0
+630;F;14;Colorado;6
+631;M;17;Carolina do Norte;7
+632;M;17;Nova Jérsia;7
+633;M;17;Califórnia;6
+634;F;10;Michigan;1
+635;M;17;Flórida;9
+636;M;20;Califórnia;4
+637;M;12;Oregon;7
+638;M;6;Texas;5
+639;M;17;Arizona;7
+640;M;4;Indiana;4
+641;F;0;Minnesota;6
+642;F;1;Texas;6
+643;M;2;Virgínia;6
+644;M;20;Califórnia;6
+645;M;20;Nova Iorque (estado);6
+646;M;7;Nova Jérsia;7
+647;M;12;Arizona;6
+648;F;12;Califórnia;6
+649;M;4;Colorado;5
+650;M;17;Michigan;6
+651;M;7;Maryland;6
+652;M;20;Nova Iorque (estado);4
+653;M;13;Califórnia;9
+654;M;7;Texas;8
+655;F;2;Califórnia;6
+656;F;16;Califórnia;7
+657;F;13;Flórida;7
+658;F;0;Nova Iorque (estado);5
+659;F;0;Carolina do Norte;5
+660;M;16;Luisiana;7
+661;M;1;Nova Iorque (estado);7
+662;M;4;Washington;4
+663;F;7;Nova Iorque (estado);6
+664;M;18;Oklahoma;6
+665;M;2;Nova Iorque (estado);3
+666;F;0;Nova Jérsia;4
+667;M;18;Washington;6
+668;F;3;Maryland;4
+669;M;17;Geórgia (Estados Unidos);6
+670;M;12;Geórgia (Estados Unidos);6
+671;M;4;Illinois;3
+672;M;7;Indiana;6
+673;M;20;Nova Iorque (estado);5
+674;M;17;Maryland;6
+675;M;20;Massachusetts;6
+676;M;16;Minnesota;4
+677;M;2;Califórnia;7
+678;M;0;Flórida;5
+679;M;16;Carolina do Sul;6
+680;M;12;Tennessee;6
+681;M;7;Geórgia (Estados Unidos);7
+682;M;4;Carolina do Norte;5
+683;M;4;Carolina do Norte;6
+684;M;4;Carolina do Norte;5
+685;M;4;Carolina do Norte;5
+686;M;4;Carolina do Norte;3
+687;F;7;Nova Iorque (estado);5
+688;M;13;Nova Iorque (estado);9
+689;F;0;Michigan;7
+690;M;12;Califórnia;6
+691;M;11;Havaí;6
+692;F;0;Arizona;6
+693;M;12;Washington;7
+694;M;4;Texas;3
+695;F;1;Maine;4
+696;M;12;Califórnia;5
+697;F;6;Oregon;7
+698;M;4;Texas;4
+699;M;0;Oklahoma;4
+700;M;17;Nova Iorque (estado);8
+701;F;4;Massachusetts;4
+702;M;7;Califórnia;6
+703;F;1;Ohio;9
+704;F;8;Arizona;6
+705;M;4;Michigan;5
+706;M;20;Texas;7
+707;M;7;Pensilvânia;7
+708;M;0;Tennessee;6
+709;M;0;Califórnia;4
+710;M;20;Arizona;6
+711;M;18;Colorado;5
+712;M;0;Califórnia;6
+713;M;7;Texas;7
+714;M;4;Texas;4
+715;M;0;Wisconsin;4
+716;M;4;Washington;4
+717;M;11;Califórnia;5
+718;M;2;Califórnia;4
+719;M;0;Texas;0
+720;M;0;Minnesota;4
+721;F;9;Oregon;7
+722;M;12;Minnesota;6
+723;M;12;Washington;6
+724;M;13;Califórnia;8
+725;M;11;Nova Jérsia;9
+726;F;9;Texas;5
+727;M;11;Califórnia;6
+728;M;6;Nova Iorque (estado);5
+729;M;12;Arizona;6
+730;M;0;Nova Iorque (estado);5
+731;M;3;Minnesota;7
+732;M;7;Nova Jérsia;6
+733;M;16;Geórgia (Estados Unidos);6
+734;M;7;Califórnia;5
+735;M;14;Maine;5
+736;M;12;Nova Jérsia;3
+737;M;19;Wisconsin;0
+738;M;17;Washington;3
+739;M;12;Minnesota;6
+740;M;14;Virgínia;5
+741;M;5;Ohio;6
+742;M;0;Wisconsin;4
+743;F;2;Illinois;2
+744;M;17;Texas;6
+745;M;10;Califórnia;0
+746;F;19;Califórnia;3
+747;M;4;Washington;4
+748;M;0;Illinois;5
+749;M;18;Minnesota;6
+750;F;9;Nova Iorque (estado);6
+751;F;17;Oregon;5
+752;F;3;Oregon;6
+753;M;10;Kentucky;1
+754;M;7;Tennessee;6
+755;F;0;Califórnia;7
+756;M;0;Califórnia;7
+757;M;12;Oregon;6
+758;M;7;Pensilvânia;6
+759;F;3;Nevada;9
+760;M;15;Califórnia;8
+761;M;7;Alasca;4
+762;M;10;Missouri;0
+763;M;10;Rhode Island;4
+764;M;20;Arizona;4
+765;M;17;Oklahoma;5
+766;F;7;Califórnia;5
+767;M;12;Ohio;5
+768;M;12;Pensilvânia;6
+769;M;17;Massachusetts;7
+770;M;4;Washington;4
+771;F;1;Texas;8
+772;M;12;Nevada;3
+773;M;6;Michigan;5
+774;M;4;Virgínia;4
+775;M;17;Minnesota;0
+776;F;3;Califórnia;6
+777;M;19;Novo México;4
+778;M;17;Flórida;3
+779;M;0;Illinois;5
+780;M;17;Califórnia;4
+781;M;4;Califórnia;4
+782;M;1;Carolina do Norte;9
+783;M;4;Wisconsin;5
+784;M;0;Nova Iorque (estado);4
+785;M;19;Carolina do Sul;4
+786;M;0;Minnesota;6
+787;M;4;Texas;4
+788;M;0;Tennessee;5
+789;M;1;Kansas;4
+790;M;17;Ohio;5
+791;M;7;Carolina do Norte;7
+792;M;17;Massachusetts;6
+793;F;14;Tennessee;7
+794;M;20;Nova Iorque (estado);8
+795;F;14;Pensilvânia;6
+796;M;6;Washington;7
+797;F;7;;8
+798;F;20;Michigan;4
+799;F;5;Washington;5
+800;F;12;Arkansas;6
+801;F;20;Califórnia;5
+802;M;16;Virgínia;6
+803;M;4;Kansas;3
+804;M;20;Califórnia;5
+805;M;12;Tennessee;6
+806;M;0;Flórida;7
+807;M;4;Nevada;4
+808;M;7;Arizona;5
+809;M;17;Luisiana;6
+810;M;12;Washington;6
+811;M;0;Califórnia;8
+812;M;6;Tennessee;5
+813;M;4;Luisiana;3
+814;F;4;Califórnia;4
+815;M;4;Tennessee;5
+816;M;0;Califórnia;7
+817;M;4;Kentucky;4
+818;M;4;Illinois;4
+819;M;7;Illinois;6
+820;M;7;Texas;6
+821;M;2;Nova Iorque (estado);4
+822;F;1;Nova Jérsia;6
+823;M;0;Califórnia;6
+824;M;12;Califórnia;7
+825;M;1;Mississippi;8
+826;F;1;Colorado;6
+827;M;2;Minnesota;7
+828;M;4;Luisiana;4
+829;M;19;Wisconsin;1
+830;M;7;Illinois;6
+831;F;0;Maryland;7
+832;M;2;Pensilvânia;4
+833;M;7;Indiana;6
+834;F;12;Texas;7
+835;M;0;Califórnia;9
+836;M;11;Nova Iorque (estado);6
+837;M;7;Nova Jérsia;9
+838;M;17;Califórnia;8
+839;M;0;Washington;5
+840;F;3;Rhode Island;6
+841;F;14;Califórnia;8
+842;F;0;Minnesota;4
+843;M;7;Michigan;4
+844;M;0;Califórnia;6
+845;F;0;Washington, D.C.;4
+846;M;5;Colorado;5
+847;F;7;Colorado;6
+848;M;15;Califórnia;5
+849;M;3;Texas;6
+850;M;0;Illinois;6
+851;M;4;Texas;4
+852;M;5;Califórnia;6
+853;M;17;Minnesota;5
+854;F;16;Ohio;5
+855;F;2;Arkansas;3
+856;F;6;Massachusetts;7
+857;M;17;Nova Iorque (estado);6
+858;M;14;Nova Iorque (estado);6
+859;M;12;Nova Iorque (estado);6
+860;M;0;Texas;4
+861;M;7;Tennessee;6
+862;M;7;Nova Iorque (estado);6
+863;M;7;Illinois;6
+864;F;0;Oregon;5
+865;M;1;Califórnia;6
+866;M;10;Nova Jérsia;0
+867;M;12;Califórnia;7
+868;M;17;Massachusetts;7
+869;M;20;Califórnia;4
+870;F;1;Massachusetts;4
+871;M;10;Texas;0
+872;M;1;Maryland;8
+873;M;6;Pensilvânia;8
+874;M;15;Virgínia Ocidental;7
+875;M;10;Califórnia;1
+876;M;4;Ohio;5
+877;M;0;Califórnia;6
+878;M;2;Massachusetts;4
+879;M;16;Califórnia;7
+880;M;17;Califórnia;7
+881;M;14;Texas;4
+882;M;2;Massachusetts;4
+883;F;14;Califórnia;6
+884;M;10;Michigan;2
+885;M;0;Michigan;7
+886;F;0;Nova Iorque (estado);8
+887;F;16;Minnesota;8
+888;F;10;Nova Jérsia;2
+889;M;20;Nova Iorque (estado);7
+890;M;4;Califórnia;3
+891;M;1;Colorado;5
+892;M;0;Texas;6
+893;F;6;Arizona;8
+894;M;4;Geórgia (Estados Unidos);4
+895;M;1;Flórida;8
+896;M;15;Califórnia;4
+897;M;6;Califórnia;5
+898;M;7;Texas;6
+899;F;1;Geórgia (Estados Unidos);6
+900;F;13;Califórnia;9
+901;F;0;Califórnia;9
+902;M;0;Ohio;9
+903;M;13;Texas;9
+904;M;20;Califórnia;7
+905;F;12;Carolina do Norte;7
+906;M;10;Luisiana;1
+907;F;6;Califórnia;7
+908;F;1;Califórnia;8
+909;M;7;Califórnia;7
+910;F;0;Washington;7
+911;M;0;Washington;8
+912;F;2;Califórnia;6
+913;M;0;Maryland;6
+914;F;9;Geórgia (Estados Unidos);6
+915;M;7;Arkansas;5
+916;F;1;Califórnia;5
+917;M;6;Califórnia;7
+918;F;1;Califórnia;7
+919;F;1;Califórnia;6
+920;M;4;Califórnia;4
+921;M;17;Califórnia;5
+922;M;16;Michigan;8
+923;M;7;Tennessee;6
+924;M;17;Washington;8
+925;F;3;Michigan;6
+926;M;10;Nova Jérsia;0
+927;F;20;Califórnia;5
+928;F;16;Washington;9
+929;M;15;Wisconsin;6
+930;M;5;Washington;5
+931;F;1;Connecticut;9
+932;F;6;Oregon;6
+933;M;1;Michigan;7
+934;F;7;Oregon;6
+935;M;14;Illinois;7
+936;M;4;Flórida;4
+937;M;15;Illinois;5
+938;F;1;Massachusetts;5
+939;F;20;;6
+940;M;10;Texas;1
+941;M;20;Ohio;4
+942;F;6;Arizona;8
+943;F;12;Nova Jérsia;7
+944;M;0;Califórnia;6
+945;M;7;Michigan;7
+946;M;7;Michigan;6
+947;M;0;Maryland;3
+948;M;12;Ohio;8
+949;M;17;Havaí;8
+950;M;7;Maryland;6
+951;M;2;Nova Iorque (estado);7
+952;M;16;Oregon;8
+953;M;20;Oregon;8
+954;F;0;Maryland;4
+955;F;7;Califórnia;8
+956;M;1;Minnesota;7
+957;M;1;Carolina do Sul;6
+958;M;2;Michigan;6
+959;M;11;Ohio;8
+960;M;10;Ohio;0
+961;M;10;Nova Iorque (estado);4
+962;F;1;Colorado;5
+963;M;0;Michigan;5
+964;M;7;Califórnia;5
+965;M;7;Nova Iorque (estado);9
+966;M;2;Califórnia;8
+967;F;0;Ohio;4
+968;M;12;Califórnia;8
+969;F;11;Pensilvânia;5
+970;M;0;Carolina do Norte;6
+971;M;12;Ohio;5
+972;M;1;Massachusetts;7
+973;F;1;Colorado;4
+974;M;19;Califórnia;7
+975;M;0;Washington;6
+976;M;14;Nevada;6
+977;M;2;Colorado;5
+978;M;0;Pensilvânia;3
+979;M;10;Michigan;0
+980;M;6;Califórnia;5
+981;M;20;Massachusetts;5
+982;F;9;Califórnia;6
+983;F;16;Washington;5
+984;M;16;Califórnia;7
+985;M;4;Flórida;6
+986;F;0;Pensilvânia;8
+987;F;17;Michigan;6
+988;M;11;Michigan;7
+989;M;0;Maryland;8
+990;M;6;Nova Iorque (estado);3
+991;F;9;Michigan;5
+992;F;3;Massachusetts;6
+993;M;0;Ohio;5
+994;M;2;Califórnia;4
+995;F;4;Havaí;4
+996;M;17;Washington;5
+997;M;19;Pensilvânia;2
+998;M;20;Nova Iorque (estado);7
+999;M;15;Illinois;5
+1000;F;6;Califórnia;6
+1001;M;4;Califórnia;4
+1002;M;11;Nova Jérsia;8
+1003;M;2;Pensilvânia;6
+1004;M;3;Califórnia;5
+1005;M;11;Nova Jérsia;6
+1006;M;4;Wisconsin;4
+1007;M;12;Massachusetts;8
+1008;M;3;Texas;7
+1009;M;7;Michigan;7
+1010;M;0;Nova Iorque (estado);5
+1011;M;8;Califórnia;6
+1012;F;1;Geórgia (Estados Unidos);7
+1013;M;13;Massachusetts;9
+1014;F;17;Nova Hampshire;7
+1015;M;3;Nova Iorque (estado);6
+1016;M;16;Illinois;8
+1017;M;0;Geórgia (Estados Unidos);7
+1018;M;4;Califórnia;4
+1019;M;1;Illinois;6
+1020;M;20;Califórnia;3
+1021;M;0;Califórnia;6
+1022;M;3;;6
+1023;M;13;Califórnia;8
+1024;F;1;Oklahoma;7
+1025;M;16;Flórida;6
+1026;F;0;Pensilvânia;7
+1027;M;4;Texas;4
+1028;F;7;Nova Hampshire;7
+1029;M;0;Washington, D.C.;5
+1030;M;7;Oregon;5
+1031;M;16;Delaware;6
+1032;M;16;Pensilvânia;8
+1033;M;5;Illinois;6
+1034;F;1;Wyoming;6
+1035;M;2;Pensilvânia;4
+1036;M;7;Carolina do Norte;6
+1037;M;7;Massachusetts;7
+1038;F;15;;8
+1039;F;1;Massachusetts;6
+1040;M;11;Texas;5
+1041;M;2;Califórnia;7
+1042;M;5;Califórnia;6
+1043;F;11;Novo México;8
+1044;M;20;Arkansas;6
+1045;F;10;Texas;0
+1046;M;18;Wisconsin;9
+1047;M;0;Illinois;3
+1048;M;6;Texas;6
+1049;M;14;Califórnia;7
+1050;M;1;Oregon;5
+1051;F;0;Illinois;5
+1052;F;2;Texas;7
+1053;M;0;Pensilvânia;6
+1054;M;10;Texas;1
+1055;M;0;Califórnia;7
+1056;M;0;Michigan;1
+1057;M;17;Oklahoma;7
+1058;M;1;Oregon;5
+1059;F;0;Oregon;5
+1060;M;10;Nova Iorque (estado);4
+1061;M;0;Indiana;7
+1062;M;19;Montana;8
+1063;M;7;Iowa;6
+1064;M;7;Califórnia;5
+1065;F;0;Califórnia;6
+1066;M;12;Massachusetts;7
+1067;M;12;Califórnia;7
+1068;F;4;Texas;4
+1069;M;20;Washington;5
+1070;F;2;Washington, D.C.;7
+1071;M;16;Nova Iorque (estado);7
+1072;F;7;Nova Jérsia;6
+1073;F;6;Arkansas;5
+1074;M;17;Michigan;7
+1075;F;6;Illinois;5
+1076;F;3;Carolina do Norte;6
+1077;M;3;Illinois;6
+1078;F;9;Califórnia;7
+1079;M;7;Washington;5
+1080;M;7;Nova Jérsia;8
+1081;M;4;Nebraska;4
+1082;M;7;Michigan;7
+1083;M;0;Carolina do Norte;8
+1084;M;19;Nova Hampshire;2
+1085;M;7;Flórida;5
+1086;M;4;Washington;3
+1087;M;16;Nova Jérsia;6
+1088;F;10;Washington;1
+1089;M;6;Tennessee;6
+1090;M;7;Califórnia;6
+1091;M;5;;4
+1092;F;4;Michigan;3
+1093;M;14;Illinois;7
+1094;F;0;Califórnia;3
+1095;F;6;Nova Jérsia;8
+1096;M;10;Colorado;1
+1097;M;17;Califórnia;4
+1098;M;7;Califórnia;7
+1099;M;17;Texas;5
+1100;M;0;Illinois;5
+1101;M;1;Connecticut;6
+1102;M;1;Minnesota;4
+1103;F;7;Illinois;7
+1104;M;11;Nova Iorque (estado);6
+1105;M;6;Michigan;7
+1106;M;4;Califórnia;4
+1107;F;1;Massachusetts;8
+1108;M;1;Califórnia;8
+1109;M;10;;4
+1110;F;6;Texas;9
+1111;F;16;Ohio;8
+1112;M;6;Pensilvânia;4
+1113;M;4;Oregon;4
+1114;F;9;Texas;4
+1115;F;1;Illinois;6
+1116;M;15;Califórnia;6
+1117;M;14;Nova Iorque (estado);4
+1118;M;13;Massachusetts;8
+1119;M;1;Califórnia;6
+1120;M;4;Califórnia;4
+1121;M;7;Texas;8
+1122;M;14;Massachusetts;8
+1123;M;0;Califórnia;7
+1124;M;2;Illinois;5
+1125;F;4;Wisconsin;4
+1126;M;16;Nova Iorque (estado);8
+1127;M;0;Nova Iorque (estado);5
+1128;M;1;Arkansas;6
+1129;M;17;Virgínia;7
+1130;M;7;Illinois;4
+1131;M;13;Nova Iorque (estado);9
+1132;M;12;Washington;4
+1133;M;2;Califórnia;4
+1134;M;20;Pensilvânia;4
+1135;M;13;Washington;8
+1136;F;7;Califórnia;7
+1137;M;4;Nova Iorque (estado);3
+1138;M;12;Nova Iorque (estado);4
+1139;M;1;Califórnia;5
+1140;F;2;Oklahoma;7
+1141;F;3;Utah;5
+1142;M;1;Ohio;4
+1143;M;7;Califórnia;7
+1144;M;7;Califórnia;6
+1145;M;3;Califórnia;8
+1146;F;16;Colorado;4
+1147;M;20;Washington;4
+1148;M;17;Califórnia;6
+1149;M;12;Washington;6
+1150;F;20;Texas;5
+1151;M;15;Indiana;5
+1152;M;4;Geórgia (Estados Unidos);4
+1153;M;10;Flórida;3
+1154;F;10;Wisconsin;0
+1155;M;12;Califórnia;5
+1156;F;2;Flórida;8
+1157;M;7;Geórgia (Estados Unidos);7
+1158;F;1;Washington;6
+1159;M;0;Michigan;4
+1160;M;14;Nova Jérsia;4
+1161;M;0;Nova Iorque (estado);6
+1162;F;0;Oregon;6
+1163;M;10;Luisiana;0
+1164;F;19;Califórnia;5
+1165;M;12;Ohio;5
+1166;M;6;Califórnia;9
+1167;F;1;Minnesota;7
+1168;F;0;Califórnia;5
+1169;M;20;Califórnia;6
+1170;M;3;Nova Iorque (estado);8
+1171;M;12;Califórnia;7
+1172;F;0;Illinois;5
+1173;F;7;Nova Iorque (estado);6
+1174;F;16;Califórnia;4
+1175;F;2;Califórnia;5
+1176;M;1;Ohio;8
+1177;F;17;Massachusetts;5
+1178;M;0;Michigan;9
+1179;M;1;Califórnia;7
+1180;F;20;Califórnia;8
+1181;M;7;Maryland;6
+1182;M;10;Califórnia;0
+1183;M;19;Califórnia;6
+1184;F;4;Califórnia;6
+1185;F;1;Oregon;6
+1186;M;19;Washington;4
+1187;F;0;Califórnia;0
+1188;M;7;Arkansas;7
+1189;M;0;Arizona;5
+1190;M;0;Washington;7
+1191;F;0;Washington;7
+1192;M;16;Washington;8
+1193;M;12;Califórnia;5
+1194;F;1;Califórnia;6
+1195;F;10;Nova Iorque (estado);2
+1196;F;14;Maryland;4
+1197;M;1;Ohio;7
+1198;M;10;Michigan;0
+1199;M;13;Texas;8
+1200;M;0;Oregon;0
+1201;M;4;Utah;4
+1202;M;12;Oregon;6
+1203;F;1;Connecticut;5
+1204;M;7;Califórnia;5
+1205;F;0;Indiana;8
+1206;F;7;Flórida;8
+1207;M;0;Ohio;8
+1208;M;0;Nova Iorque (estado);6
+1209;M;7;Califórnia;7
+1210;M;17;Carolina do Norte;6
+1211;M;4;Nova Iorque (estado);3
+1212;F;1;Illinois;8
+1213;M;0;Califórnia;8
+1214;M;13;Califórnia;8
+1215;M;17;Virgínia;7
+1216;M;2;Califórnia;6
+1217;M;12;Califórnia;5
+1218;M;15;Nova Iorque (estado);9
+1219;M;7;Nova Iorque (estado);4
+1220;M;10;Michigan;0
+1221;M;0;Pensilvânia;4
+1222;M;0;Iowa;6
+1223;M;2;Illinois;6
+1224;M;13;Massachusetts;8
+1225;M;7;Illinois;7
+1226;M;20;Nova Jérsia;3
+1227;M;1;Califórnia;8
+1228;M;1;Califórnia;6
+1229;F;4;Michigan;6
+1230;M;11;Califórnia;5
+1231;M;12;Illinois;5
+1232;F;4;Ohio;3
+1233;F;20;Califórnia;7
+1234;M;4;Califórnia;4
+1235;F;7;Califórnia;4
+1236;F;1;Michigan;5
+1237;M;4;Flórida;4
+1238;F;20;Nova Iorque (estado);6
+1239;F;20;Iowa;6
+1240;F;14;Massachusetts;4
+1241;M;10;Nova Iorque (estado);0
+1242;F;0;Nova Iorque (estado);6
+1243;M;15;Califórnia;6
+1244;M;4;Maryland;6
+1245;M;17;Colorado;5
+1246;M;4;Washington;4
+1247;M;0;Califórnia;7
+1248;F;20;Califórnia;6
+1249;M;2;Califórnia;6
+1250;M;0;Nova Iorque (estado);8
+1251;M;7;Michigan;5
+1252;M;13;Califórnia;8
+1253;F;20;Texas;7
+1254;F;1;Massachusetts;4
+1255;M;17;Califórnia;5
+1256;M;20;Nova Iorque (estado);5
+1257;F;14;Utah;4
+1258;M;7;Maryland;7
+1259;M;7;;7
+1260;M;17;Carolina do Norte;5
+1261;M;4;Kentucky;4
+1262;M;4;Virgínia;6
+1263;M;10;Colorado;2
+1264;M;1;Wisconsin;5
+1265;F;20;Michigan;4
+1266;M;4;Pensilvânia;5
+1267;M;15;Nova Iorque (estado);5
+1268;M;2;Nova Iorque (estado);7
+1269;F;13;Massachusetts;8
+1270;M;6;Nova Iorque (estado);5
+1271;F;6;Wisconsin;7
+1272;M;20;Michigan;3
+1273;M;2;Pensilvânia;6
+1274;M;7;Tennessee;7
+1275;M;17;Mississippi;7
+1276;M;17;Califórnia;6
+1277;F;0;Connecticut;3
+1278;M;4;Washington;4
+1279;M;1;Washington;6
+1280;M;10;Oregon;1
+1281;M;19;Oregon;5
+1282;M;1;Washington;8
+1283;F;1;Califórnia;4
+1284;M;16;Flórida;7
+1285;M;4;Washington;6
+1286;M;17;Califórnia;6
+1287;F;7;Califórnia;8
+1288;F;19;Califórnia;6
+1289;M;6;Texas;7
+1290;M;0;Califórnia;7
+1291;F;0;Nova Iorque (estado);6
+1292;M;7;Califórnia;5
+1293;M;5;Illinois;5
+1294;F;20;Nova Iorque (estado);8
+1295;F;6;Califórnia;7
+1296;M;0;Texas;0
+1297;M;7;Califórnia;5
+1298;M;6;Flórida;7
+1299;M;14;Massachusetts;4
+1300;M;10;Oregon;0
+1301;F;2;Nova Iorque (estado);6
+1302;M;4;Arizona;4
+1303;M;19;Califórnia;5
+1304;M;14;Oregon;4
+1305;M;20;Califórnia;7
+1306;M;3;Missouri;5
+1307;M;13;Texas;8
+1308;M;10;Texas;0
+1309;M;14;Texas;5
+1310;M;0;Califórnia;7
+1311;M;10;Califórnia;3
+1312;M;14;Illinois;5
+1313;M;4;Ohio;3
+1314;F;4;Nebraska;4
+1315;M;7;Texas;7
+1316;M;2;Iowa;7
+1317;M;7;Washington;7
+1318;M;16;Califórnia;4
+1319;F;3;Washington;4
+1320;M;4;Maryland;5
+1321;F;14;Flórida;6
+1322;M;0;Califórnia;8
+1323;F;2;Nova Iorque (estado);6
+1324;M;16;Nova Jérsia;6
+1325;M;1;Texas;5
+1326;F;0;Washington;5
+1327;M;10;Nova Iorque (estado);0
+1328;M;14;Illinois;6
+1329;M;14;Illinois;4
+1330;M;1;Califórnia;8
+1331;M;0;Nova Iorque (estado);7
+1332;M;7;Rhode Island;5
+1333;M;17;Connecticut;5
+1334;M;7;Nova Iorque (estado);8
+1335;M;0;Nova Iorque (estado);6
+1336;F;20;Califórnia;8
+1337;M;17;Oregon;8
+1338;M;0;Califórnia;4
+1339;M;18;Arizona;6
+1340;M;7;Nova Iorque (estado);6
+1341;M;7;Nova Iorque (estado);4
+1342;M;0;Califórnia;6
+1343;M;14;Califórnia;6
+1344;F;9;Ohio;5
+1345;F;2;Texas;5
+1346;M;20;Carolina do Norte;7
+1347;F;1;Nova Iorque (estado);4
+1348;F;10;Maine;0
+1349;M;7;Nova Iorque (estado);7
+1350;F;0;Califórnia;6
+1351;F;17;Washington;6
+1352;M;20;Califórnia;6
+1353;M;10;Califórnia;1
+1354;F;2;Califórnia;6
+1355;F;20;Maine;7
+1356;F;4;Califórnia;4
+1357;M;0;Flórida;7
+1358;M;17;Michigan;6
+1359;M;1;Nova Iorque (estado);6
+1360;M;20;Nova Iorque (estado);5
+1361;F;0;Oregon;6
+1362;M;12;Texas;7
+1363;M;7;Massachusetts;7
+1364;F;2;Oregon;7
+1365;F;10;Illinois;0
+1366;M;10;Nevada;0
+1367;M;12;Wisconsin;5
+1368;F;3;Iowa;5
+1369;M;5;Nova Iorque (estado);5
+1370;M;2;Califórnia;6
+1371;F;2;Illinois;7
+1372;M;10;Califórnia;0
+1373;F;1;Minnesota;6
+1374;M;1;Califórnia;8
+1375;F;5;Califórnia;7
+1376;F;1;Flórida;7
+1377;M;16;Missouri;6
+1378;F;7;Maryland;7
+1379;F;13;Califórnia;8
+1380;M;10;Dakota do Norte;0
+1381;M;11;Nevada;3
+1382;F;1;Califórnia;7
+1383;F;7;Delaware;4
+1384;M;10;Washington;4
+1385;F;5;Califórnia;5
+1386;F;0;Nova Jérsia;6
+1387;F;13;Califórnia;7
+1388;M;20;Novo México;8
+1389;M;17;Delaware;6
+1390;M;16;Washington;6
+1391;M;15;Maryland;7
+1392;M;3;Califórnia;7
+1393;M;4;Connecticut;4
+1394;F;3;Califórnia;6
+1395;M;2;Nova Jérsia;4
+1396;F;12;Califórnia;5
+1397;M;7;Minnesota;6
+1398;F;16;Califórnia;9
+1399;M;17;Nova Iorque (estado);4
+1400;M;7;Califórnia;5
+1401;F;1;Califórnia;4
+1402;M;4;Califórnia;4
+1403;F;0;Wisconsin;5
+1404;M;16;Califórnia;8
+1405;M;13;Flórida;8
+1406;M;4;Califórnia;5
+1407;F;15;Wisconsin;6
+1408;M;0;Califórnia;5
+1409;M;4;Oregon;3
+1410;M;7;Califórnia;8
+1411;M;1;Nova Jérsia;6
+1412;M;17;Califórnia;6
+1413;M;3;Washington;3
+1414;M;4;Arizona;3
+1415;M;14;Virgínia;7
+1416;M;14;Washington;5
+1417;M;16;Nova Iorque (estado);7
+1418;M;4;Michigan;4
+1419;F;1;Califórnia;5
+1420;M;4;Massachusetts;4
+1421;F;10;Wisconsin;0
+1422;M;17;Minnesota;6
+1423;M;4;Nova Jérsia;6
+1424;M;0;Carolina do Norte;7
+1425;M;10;Nova Jérsia;0
+1426;M;14;Califórnia;4
+1427;M;12;Maryland;6
+1428;F;11;Kentucky;7
+1429;F;3;Nova Iorque (estado);7
+1430;M;4;Oregon;3
+1431;M;6;Califórnia;9
+1432;M;1;Califórnia;7
+1433;F;14;Michigan;4
+1434;F;10;;0
+1435;M;14;Michigan;5
+1436;F;6;Oregon;7
+1437;M;3;Nevada;8
+1438;M;2;Maryland;4
+1439;M;3;Washington;6
+1440;M;12;Califórnia;7
+1441;M;16;Wisconsin;6
+1442;M;2;Nova Iorque (estado);4
+1443;M;2;Washington;7
+1444;F;4;Califórnia;5
+1445;M;2;Washington;4
+1446;M;12;Nova Iorque (estado);6
+1447;M;4;Colorado;4
+1448;F;3;Pensilvânia;5
+1449;M;20;Pensilvânia;6
+1450;M;4;Califórnia;4
+1451;M;20;Califórnia;7
+1452;F;13;Califórnia;8
+1453;M;14;Pensilvânia;6
+1454;M;4;Califórnia;4
+1455;F;0;Califórnia;7
+1456;M;2;Washington;5
+1457;M;1;Califórnia;6
+1458;M;0;Nova Jérsia;1
+1459;F;0;Colorado;6
+1460;F;4;Califórnia;3
+1461;F;0;Califórnia;7
+1462;M;16;Califórnia;6
+1463;M;16;Califórnia;7
+1464;M;12;Texas;6
+1465;M;16;Califórnia;8
+1466;M;4;Carolina do Sul;4
+1467;M;5;Oregon;5
+1468;M;14;Pensilvânia;0
+1469;M;20;Califórnia;8
+1470;M;4;Califórnia;4
+1471;M;17;Nova Iorque (estado);5
+1472;M;7;Califórnia;5
+1473;M;14;Connecticut;6
+1474;M;4;Washington;6
+1475;F;2;Texas;5
+1476;F;0;Califórnia;4
+1477;F;1;Califórnia;7
+1478;M;10;Califórnia;2
+1479;F;2;Califórnia;8
+1480;M;20;Califórnia;5
+1481;M;17;Texas;6
+1482;M;7;Califórnia;6
+1483;M;4;Wisconsin;4
+1484;M;12;Nova Jérsia;5
+1485;F;9;Colorado;6
+1486;M;16;Califórnia;5
+1487;M;7;Nova Jérsia;6
+1488;M;7;Califórnia;6
+1489;F;2;Illinois;7
+1490;M;7;Califórnia;8
+1491;M;4;Connecticut;4
+1492;M;12;Washington;5
+1493;F;14;Illinois;6
+1494;M;17;Tennessee;5
+1495;M;0;Texas;4
+1496;M;17;Califórnia;5
+1497;M;5;Colorado;8
+1498;M;4;Massachusetts;3
+1499;M;10;Pensilvânia;0
+1500;M;17;Washington;4
+1501;M;11;Texas;5
+1502;M;4;Nova Iorque (estado);3
+1503;M;12;Califórnia;5
+1504;M;19;Maryland;4
+1505;M;11;Califórnia;7
+1506;M;7;Nova Jérsia;5
+1507;M;17;Califórnia;6
+1508;F;10;Califórnia;2
+1509;M;0;Nova Iorque (estado);0
+1510;F;1;Michigan;5
+1511;M;12;Nova Jérsia;6
+1512;M;20;Nova Iorque (estado);5
+1513;F;16;Califórnia;6
+1514;M;4;Oregon;4
+1515;M;16;Michigan;5
+1516;F;12;Wisconsin;5
+1517;M;0;Nova Iorque (estado);4
+1518;M;2;Califórnia;5
+1519;M;4;Tennessee;4
+1520;M;17;Califórnia;5
+1521;F;7;Nova Jérsia;5
+1522;M;20;Nova Iorque (estado);6
+1523;M;17;Califórnia;5
+1524;M;4;Connecticut;4
+1525;F;16;Califórnia;6
+1526;M;17;Colorado;9
+1527;M;10;Texas;4
+1528;M;15;Califórnia;5
+1529;M;4;Oregon;4
+1530;M;4;Wisconsin;5
+1531;M;17;Illinois;7
+1532;M;14;Ohio;4
+1533;M;1;Arkansas;7
+1534;M;12;Nova Iorque (estado);7
+1535;F;20;Califórnia;3
+1536;F;3;Wyoming;6
+1537;M;20;Massachusetts;4
+1538;M;3;Virgínia;5
+1539;M;3;Massachusetts;5
+1540;M;0;Oregon;7
+1541;M;17;Virgínia;8
+1542;M;17;Nova Iorque (estado);4
+1543;M;11;Nova Iorque (estado);5
+1544;M;12;Missouri;6
+1545;M;20;Washington, D.C.;5
+1546;M;4;Virgínia;5
+1547;M;13;Massachusetts;8
+1548;M;1;Wisconsin;6
+1549;M;6;Maryland;6
+1550;M;4;Nova Iorque (estado);3
+1551;M;11;Washington, D.C.;4
+1552;M;20;Nova Iorque (estado);7
+1553;F;15;Missouri;5
+1554;F;12;Pensilvânia;6
+1555;F;0;Washington, D.C.;4
+1556;M;4;Michigan;4
+1557;F;4;Nova Iorque (estado);3
+1558;M;6;Illinois;4
+1559;M;8;Nova Iorque (estado);6
+1560;F;3;Arizona;5
+1561;F;4;Nova Iorque (estado);4
+1562;M;20;Ohio;4
+1563;F;10;Novo México;1
+1564;M;1;Massachusetts;8
+1565;M;17;Texas;7
+1566;M;16;Texas;6
+1567;M;12;Connecticut;5
+1568;F;10;Califórnia;0
+1569;F;13;Nova Jérsia;8
+1570;M;17;Texas;4
+1571;M;20;Washington;5
+1572;F;3;Massachusetts;5
+1573;M;0;Texas;2
+1574;M;6;Colorado;6
+1575;F;7;Califórnia;7
+1576;F;9;Arizona;7
+1577;M;0;Arkansas;8
+1578;M;4;Maryland;4
+1579;M;0;Illinois;5
+1580;F;4;Texas;4
+1581;F;4;Nova Iorque (estado);4
+1582;M;0;Nova Iorque (estado);4
+1583;M;6;Califórnia;6
+1584;M;19;Ohio;5
+1585;M;20;Califórnia;8
+1586;M;7;Texas;7
+1587;F;3;Geórgia (Estados Unidos);5
+1588;M;11;Maryland;5
+1589;M;0;Califórnia;6
+1590;M;1;Califórnia;6
+1591;M;7;Virgínia Ocidental;7
+1592;M;7;Iowa;6
+1593;M;16;Texas;5
+1594;F;20;Nova Iorque (estado);6
+1595;M;1;Califórnia;6
+1596;F;5;Michigan;3
+1597;M;12;Nova Iorque (estado);4
+1598;M;13;Texas;6
+1599;M;0;Califórnia;5
+1600;M;7;Nova Jérsia;6
+1601;M;12;Wyoming;5
+1602;F;7;Nova Iorque (estado);6
+1603;F;0;Nova Iorque (estado);5
+1604;M;11;Iowa;5
+1605;F;0;Carolina do Norte;4
+1606;F;3;Minnesota;6
+1607;M;1;Massachusetts;7
+1608;M;11;Texas;5
+1609;F;9;Connecticut;6
+1610;M;11;Minnesota;5
+1611;M;0;Nova Hampshire;5
+1612;M;17;Nova Iorque (estado);5
+1613;M;20;Illinois;3
+1614;M;0;Califórnia;7
+1615;F;7;Nova Iorque (estado);7
+1616;M;0;Pensilvânia;6
+1617;M;12;Ohio;5
+1618;M;0;Ohio;7
+1619;M;3;Michigan;8
+1620;M;20;Michigan;5
+1621;M;4;Nova Iorque (estado);6
+1622;M;4;Wisconsin;4
+1623;M;15;Nova Jérsia;7
+1624;M;0;Connecticut;5
+1625;M;0;Maine;7
+1626;M;4;Nova Iorque (estado);4
+1627;M;17;Califórnia;4
+1628;M;20;Califórnia;4
+1629;M;4;Nova Iorque (estado);3
+1630;M;17;Califórnia;7
+1631;F;0;Califórnia;8
+1632;M;16;Califórnia;5
+1633;F;7;Alasca;7
+1634;F;0;Tennessee;8
+1635;M;0;Oregon;5
+1636;F;19;Illinois;5
+1637;M;0;Califórnia;9
+1638;F;17;Califórnia;4
+1639;M;17;Califórnia;5
+1640;M;17;Califórnia;6
+1641;M;0;Califórnia;5
+1642;M;13;Illinois;8
+1643;M;2;Califórnia;7
+1644;M;12;Califórnia;4
+1645;F;9;Illinois;4
+1646;M;20;Califórnia;6
+1647;M;18;Washington;4
+1648;M;14;Arizona;8
+1649;M;19;Washington;4
+1650;M;19;Califórnia;6
+1651;M;12;Califórnia;6
+1652;M;16;Washington;5
+1653;M;0;Califórnia;4
+1654;F;0;Califórnia;7
+1655;M;4;Califórnia;4
+1656;M;17;Califórnia;5
+1657;F;0;Nova Iorque (estado);7
+1658;F;6;Califórnia;6
+1659;F;9;Alasca;4
+1660;F;2;Califórnia;5
+1661;M;7;Colorado;7
+1662;M;12;Califórnia;6
+1663;M;4;Texas;4
+1664;F;4;Texas;4
+1665;M;17;Novo México;7
+1666;M;14;Pensilvânia;5
+1667;M;16;Washington;7
+1668;M;2;Califórnia;6
+1669;F;17;Texas;5
+1670;F;13;Califórnia;8
+1671;M;0;Washington;7
+1672;M;17;Califórnia;5
+1673;M;10;Washington;0
+1674;M;2;Califórnia;6
+1675;F;6;Oregon;6
+1676;M;4;Califórnia;3
+1677;M;14;Oregon;4
+1678;F;17;Oregon;4
+1679;M;12;Washington;5
+1680;M;20;Califórnia;5
+1681;M;4;Texas;3
+1682;M;2;Washington;6
+1683;F;7;Washington;6
+1684;M;3;Arizona;3
+1685;M;12;Califórnia;7
+1686;M;12;Califórnia;6
+1687;M;3;Arizona;6
+1688;F;4;Flórida;4
+1689;M;5;Washington;6
+1690;M;16;Washington;7
+1691;F;17;Arizona;5
+1692;M;20;Oregon;6
+1693;M;12;Washington;5
+1694;M;12;Washington;6
+1695;M;1;Oregon;5
+1696;M;7;Califórnia;6
+1697;F;4;Washington;4
+1698;M;2;Oregon;6
+1699;F;19;Washington;5
+1700;M;20;Washington;5
+1701;F;4;Oregon;5
+1702;M;10;Oregon;4
+1703;M;15;Texas;3
+1704;M;4;Washington;5
+1705;F;4;Arizona;4
+1706;M;20;Pensilvânia;5
+1707;M;1;Califórnia;8
+1708;M;0;Missouri;6
+1709;M;0;Oklahoma;5
+1710;M;0;Califórnia;4
+1711;F;4;Geórgia (Estados Unidos);4
+1712;M;0;Oklahoma;5
+1713;M;0;Indiana;6
+1714;M;17;Ohio;5
+1715;M;16;Wisconsin;5
+1716;M;0;Ohio;6
+1717;F;6;Geórgia (Estados Unidos);8
+1718;M;4;Ohio;4
+1719;M;16;Illinois;4
+1720;M;4;Califórnia;4
+1721;M;19;Luisiana;4
+1722;M;0;Arkansas;7
+1723;M;17;Illinois;7
+1724;M;4;;3
+1725;M;19;Kansas;4
+1726;M;2;Illinois;6
+1727;M;16;Iowa;7
+1728;M;4;Nova Iorque (estado);3
+1729;M;7;Wisconsin;6
+1730;F;4;Illinois;3
+1731;F;0;Califórnia;4
+1732;M;4;Nova Iorque (estado);3
+1733;M;14;Ohio;4
+1734;M;17;Califórnia;7
+1735;M;20;Geórgia (Estados Unidos);4
+1736;M;8;;8
+1737;M;20;Indiana;7
+1738;M;16;Geórgia (Estados Unidos);6
+1739;M;16;Texas;9
+1740;M;1;Califórnia;8
+1741;M;7;Califórnia;6
+1742;M;15;Nova Jérsia;4
+1743;M;17;Texas;7
+1744;M;12;Iowa;7
+1745;M;0;Califórnia;7
+1746;M;4;Flórida;5
+1747;M;0;Califórnia;5
+1748;M;1;Maine;8
+1749;M;2;Nova Iorque (estado);5
+1750;M;5;Nova Iorque (estado);8
+1751;M;20;Texas;6
+1752;M;3;Havaí;6
+1753;M;6;Califórnia;6
+1754;M;19;Carolina do Norte;3
+1755;F;4;Texas;4
+1756;F;1;Texas;5
+1757;M;4;Texas;5
+1758;F;0;Flórida;5
+1759;M;16;Maryland;5
+1760;F;3;Califórnia;5
+1761;M;0;Arkansas;6
+1762;M;14;Texas;5
+1763;M;7;Texas;7
+1764;M;0;Texas;4
+1765;M;4;Nova Iorque (estado);3
+1766;F;0;Califórnia;7
+1767;M;20;Texas;6
+1768;M;16;Texas;7
+1769;M;17;Texas;5
+1770;M;16;Texas;6
+1771;M;17;Texas;6
+1772;M;2;Califórnia;8
+1773;M;4;Nova Jérsia;4
+1774;M;17;Washington;5
+1775;M;4;Luisiana;5
+1776;M;0;Ohio;5
+1777;M;20;Pensilvânia;6
+1778;M;4;Califórnia;4
+1779;M;1;Texas;4
+1780;M;1;Maryland;7
+1781;F;0;Nova Jérsia;6
+1782;M;0;Virgínia;7
+1783;M;4;Nova Iorque (estado);4
+1784;M;20;Pensilvânia;4
+1785;M;4;Maine;4
+1786;M;1;Arizona;7
+1787;M;8;Califórnia;4
+1788;M;2;Pensilvânia;7
+1789;M;10;Pensilvânia;0
+1790;M;0;Pensilvânia;5
+1791;M;4;Pensilvânia;4
+1792;F;2;Wisconsin;6
+1793;M;4;Washington, D.C.;5
+1794;M;11;Maryland;5
+1795;M;17;Maryland;4
+1796;M;11;Maryland;8
+1797;M;7;Iowa;6
+1798;M;11;Maryland;7
+1799;M;11;Luisiana;6
+1800;M;4;Luisiana;4
+1801;F;6;Wisconsin;5
+1802;M;4;Virgínia;3
+1803;M;2;Iowa;5
+1804;M;7;Virgínia;6
+1805;M;4;Virgínia;4
+1806;M;4;Maryland;3
+1807;M;17;Maryland;4
+1808;F;4;Maryland;4
+1809;F;14;Nova Iorque (estado);5
+1810;M;13;Califórnia;7
+1811;M;2;Nova Jérsia;9
+1812;F;12;Michigan;5
+1813;F;6;Califórnia;7
+1814;M;7;Nova Iorque (estado);8
+1815;M;1;Geórgia (Estados Unidos);0
+1816;F;9;Minnesota;6
+1817;M;1;Wisconsin;6
+1818;M;8;Massachusetts;0
+1819;F;12;Ohio;6
+1820;M;20;Iowa;6
+1821;M;20;Ohio;4
+1822;F;0;Wisconsin;6
+1823;F;1;Califórnia;7
+1824;F;4;Ohio;4
+1825;M;7;Iowa;5
+1826;M;11;Michigan;7
+1827;F;1;Nova Jérsia;5
+1828;M;4;Nova Jérsia;4
+1829;M;16;Nova Jérsia;5
+1830;M;4;Nova Iorque (estado);3
+1831;M;4;Wisconsin;4
+1832;F;4;Nova Iorque (estado);4
+1833;M;17;Nova Jérsia;4
+1834;M;5;Nova Iorque (estado);6
+1835;M;19;Nova Iorque (estado);6
+1836;M;0;Nova Iorque (estado);5
+1837;M;2;Nova Jérsia;6
+1838;M;7;Nova Iorque (estado);6
+1839;M;4;Nova Jérsia;4
+1840;M;12;Nova Iorque (estado);5
+1841;M;0;Califórnia;3
+1842;M;4;Wisconsin;4
+1843;M;12;Nova Iorque (estado);6
+1844;F;4;Wisconsin;4
+1845;M;2;Nova Iorque (estado);5
+1846;M;12;Califórnia;7
+1847;M;4;Illinois;3
+1848;M;5;Nova Iorque (estado);6
+1849;M;7;Nova Iorque (estado);6
+1850;M;5;Nova Iorque (estado);4
+1851;M;19;Montana;5
+1852;M;12;Nova Iorque (estado);6
+1853;M;0;Califórnia;8
+1854;M;0;Califórnia;5
+1855;M;4;Califórnia;4
+1856;M;7;Califórnia;8
+1857;M;10;Califórnia;1
+1858;F;4;Montana;4
+1859;F;4;Missouri;5
+1860;M;16;Califórnia;8
+1861;M;16;Califórnia;8
+1862;M;14;Califórnia;8
+1863;M;4;Califórnia;4
+1864;M;7;Califórnia;6
+1865;F;1;Califórnia;3
+1866;M;7;Califórnia;5
+1867;M;7;Califórnia;8
+1868;M;11;Califórnia;8
+1869;M;14;Califórnia;7
+1870;M;13;Arizona;8
+1871;F;1;Indiana;7
+1872;M;20;Califórnia;8
+1873;M;7;Massachusetts;6
+1874;M;7;Califórnia;7
+1875;M;12;Califórnia;6
+1876;M;12;Califórnia;5
+1877;F;20;Califórnia;7
+1878;M;10;Califórnia;1
+1879;M;4;Carolina do Sul;6
+1880;M;0;Califórnia;7
+1881;M;2;Califórnia;7
+1882;M;16;Califórnia;7
+1883;F;0;Califórnia;8
+1884;M;20;Califórnia;7
+1885;M;17;Califórnia;8
+1886;M;12;Califórnia;6
+1887;M;15;Califórnia;9
+1888;M;12;Califórnia;6
+1889;M;14;Colorado;3
+1890;M;6;Califórnia;8
+1891;M;1;Califórnia;7
+1892;M;20;Califórnia;6
+1893;F;0;Califórnia;7
+1894;F;7;Califórnia;7
+1895;M;14;Nevada;6
+1896;M;13;Califórnia;8
+1897;F;2;Califórnia;8
+1898;M;12;Califórnia;4
+1899;F;6;Massachusetts;7
+1900;M;12;Califórnia;8
+1901;M;7;Califórnia;8
+1902;M;19;Califórnia;5
+1903;M;0;Califórnia;6
+1904;M;1;Geórgia (Estados Unidos);4
+1905;F;20;Califórnia;6
+1906;F;5;Califórnia;5
+1907;M;17;Califórnia;6
+1908;M;13;Califórnia;8
+1909;M;4;Nevada;3
+1910;M;10;Califórnia;0
+1911;F;4;Califórnia;3
+1912;M;4;Califórnia;5
+1913;M;17;Califórnia;5
+1914;F;14;Califórnia;7
+1915;M;13;Massachusetts;7
+1916;M;7;Califórnia;7
+1917;M;10;Califórnia;4
+1918;F;6;Califórnia;7
+1919;M;0;Califórnia;1
+1920;F;7;Colorado;6
+1921;M;12;Califórnia;8
+1922;F;7;Califórnia;5
+1923;M;7;Califórnia;6
+1924;F;6;Califórnia;8
+1925;M;7;Califórnia;8
+1926;F;0;Califórnia;0
+1927;M;7;Califórnia;7
+1928;M;10;Califórnia;1
+1929;F;10;Califórnia;1
+1930;M;15;Califórnia;6
+1931;M;2;Califórnia;6
+1932;M;7;Califórnia;5
+1933;M;19;Califórnia;4
+1934;M;17;Califórnia;5
+1935;M;10;Califórnia;0
+1936;M;0;Califórnia;6
+1937;M;11;Califórnia;5
+1938;F;2;Califórnia;6
+1939;F;2;Califórnia;6
+1940;M;12;Califórnia;5
+1941;M;17;Califórnia;6
+1942;M;5;Maine;7
+1943;M;4;Califórnia;4
+1944;F;4;Califórnia;4
+1945;M;20;Califórnia;5
+1946;M;14;Califórnia;5
+1947;M;7;Califórnia;5
+1948;M;10;Califórnia;1
+1949;M;17;Califórnia;4
+1950;M;12;Michigan;5
+1951;F;4;Califórnia;4
+1952;M;1;Califórnia;6
+1953;F;2;Califórnia;5
+1954;M;16;Califórnia;5
+1955;M;19;Nova Hampshire;0
+1956;M;0;Ohio;6
+1957;F;4;Virgínia;4
+1958;F;1;Pensilvânia;5
+1959;F;13;Wisconsin;8
+1960;M;7;Minnesota;7
+1961;F;3;Califórnia;8
+1962;F;1;Illinois;4
+1963;F;9;Califórnia;8
+1964;F;6;Nevada;5
+1965;M;17;Michigan;9
+1966;M;20;Califórnia;5
+1967;M;7;Califórnia;7
+1968;M;11;Arizona;5
+1969;F;3;Califórnia;5
+1970;M;13;Nevada;7
+1971;F;14;Colorado;5
+1972;M;17;Califórnia;7
+1973;M;1;Virgínia;5
+1974;M;17;Nova Iorque (estado);7
+1975;M;4;Oregon;4
+1976;M;5;Dakota do Norte;7
+1977;M;6;Massachusetts;8
+1978;M;10;Ohio;0
+1979;M;17;Michigan;9
+1980;M;7;Connecticut;6
+1981;M;1;Colorado;8
+1982;M;10;Colorado;1
+1983;M;14;Califórnia;6
+1984;M;10;Califórnia;3
+1985;M;12;Califórnia;7
+1986;M;13;Califórnia;8
+1987;M;17;Illinois;5
+1988;F;1;Arizona;5
+1989;M;6;Massachusetts;8
+1990;M;7;Arizona;6
+1991;M;20;Michigan;5
+1992;M;4;Arizona;4
+1993;M;17;Alasca;7
+1994;M;2;Nevada;6
+1995;M;1;Arizona;6
+1996;M;0;Arizona;6
+1997;M;0;Utah;5
+1998;F;9;Virgínia;8
+1999;F;3;Massachusetts;7
+2000;M;4;Ohio;4
+2001;M;1;Michigan;8
+2002;F;13;Massachusetts;9
+2003;M;10;Colorado;0
+2004;M;19;Wisconsin;7
+2005;M;4;Dakota do Norte;4
+2006;M;0;Missouri;6
+2007;M;16;Colorado;8
+2008;M;3;Michigan;5
+2009;F;7;Illinois;7
+2010;M;4;Colorado;4
+2011;F;3;Massachusetts;7
+2012;M;4;Michigan;5
+2013;M;0;Illinois;7
+2014;M;4;Wisconsin;4
+2015;M;4;Massachusetts;4
+2016;F;2;Maryland;8
+2017;M;17;Alabama;5
+2018;M;16;Indiana;7
+2019;M;1;Carolina do Norte;8
+2020;M;7;Ohio;5
+2021;M;0;Illinois;5
+2022;M;7;Illinois;6
+2023;M;4;Minnesota;4
+2024;M;19;Connecticut;2
+2025;M;13;Nova Hampshire;9
+2026;M;16;Michigan;8
+2027;F;9;Michigan;6
+2028;M;6;Ohio;7
+2029;F;12;Nova Iorque (estado);6
+2030;M;4;Texas;5
+2031;M;20;Illinois;6
+2032;M;14;Ohio;7
+2033;F;20;Califórnia;7
+2034;F;2;Massachusetts;7
+2035;F;0;Ohio;3
+2036;F;14;Califórnia;5
+2037;M;14;Massachusetts;9
+2038;F;1;Flórida;7
+2039;M;16;Illinois;8
+2040;F;7;Massachusetts;6
+2041;F;20;Virgínia;5
+2042;M;10;Texas;1
+2043;M;14;Tennessee;5
+2044;F;0;Michigan;7
+2045;F;0;Virgínia;1
+2046;M;1;Califórnia;7
+2047;M;10;Connecticut;1
+2048;M;6;Michigan;8
+2049;F;0;Nova Iorque (estado);7
+2050;F;3;Alasca;6
+2051;M;7;Califórnia;6
+2052;M;10;Indiana;0
+2053;M;11;Connecticut;7
+2054;M;12;Nova Hampshire;5
+2055;M;11;Michigan;7
+2056;M;4;Minnesota;6
+2057;M;1;Michigan;6
+2058;F;1;Connecticut;8
+2059;M;0;Ohio;7
+2060;M;1;Michigan;0
+2061;M;1;Ohio;8
+2062;M;4;Ohio;4
+2063;M;4;Ohio;6
+2064;M;1;Massachusetts;7
+2065;M;6;Indiana;6
+2066;F;6;Wisconsin;5
+2067;M;16;Connecticut;8
+2068;F;12;Ohio;6
+2069;M;15;Texas;9
+2070;F;6;Nova Iorque (estado);6
+2071;M;7;Massachusetts;7
+2072;F;12;Maryland;8
+2073;F;4;Nova Iorque (estado);3
+2074;M;4;Michigan;4
+2075;F;4;Nova Iorque (estado);5
+2076;M;4;Nova Iorque (estado);4
+2077;M;0;Minnesota;3
+2078;M;4;Nova Iorque (estado);4
+2079;M;10;Ohio;0
+2080;M;11;Tennessee;6
+2081;M;17;Michigan;4
+2082;M;19;Michigan;0
+2083;M;4;Missouri;4
+2084;M;4;Virgínia;4
+2085;M;0;Connecticut;4
+2086;M;14;Michigan;6
+2087;M;0;Tennessee;6
+2088;M;7;Illinois;8
+2089;M;17;Pensilvânia;7
+2090;M;17;Michigan;7
+2091;F;20;Michigan;6
+2092;M;1;Michigan;9
+2093;M;0;Michigan;4
+2094;M;2;Illinois;6
+2095;M;13;Dakota do Norte;8
+2096;F;17;Flórida;5
+2097;M;5;Michigan;4
+2098;M;20;Michigan;7
+2099;F;0;Michigan;3
+2100;F;0;Virgínia;5
+2101;M;16;Michigan;6
+2102;M;11;Michigan;6
+2103;M;12;Nova Hampshire;7
+2104;M;15;Illinois;7
+2105;M;1;Virgínia;5
+2106;F;20;;4
+2107;M;1;Virgínia;5
+2108;M;10;Illinois;0
+2109;M;16;Nova Iorque (estado);6
+2110;M;11;Indiana;8
+2111;M;13;Flórida;9
+2112;F;12;Virgínia;7
+2113;M;6;Maine;5
+2114;M;18;Maryland;4
+2115;M;17;Massachusetts;6
+2116;M;4;Michigan;3
+2117;M;13;Michigan;8
+2118;M;14;Massachusetts;5
+2119;M;4;Nova Iorque (estado);6
+2120;M;0;Massachusetts;1
+2121;M;13;Massachusetts;8
+2122;M;12;Illinois;7
+2123;F;0;Nova Iorque (estado);6
+2124;M;0;Nova Iorque (estado);6
+2125;M;3;Indiana;6
+2126;M;14;Massachusetts;9
+2127;M;4;Nova Iorque (estado);3
+2128;F;1;Indiana;7
+2129;M;5;Maine;5
+2130;M;0;Nova Hampshire;7
+2131;M;0;Massachusetts;5
+2132;M;14;Massachusetts;8
+2133;F;10;Massachusetts;0
+2134;M;10;Massachusetts;3
+2135;M;1;Massachusetts;7
+2136;M;18;Nova Iorque (estado);6
+2137;F;10;;0
+2138;F;4;Novo México;4
+2139;F;3;Flórida;7
+2140;M;14;Indiana;7
+2141;F;16;Michigan;7
+2142;F;14;Indiana;7
+2143;M;4;Flórida;4
+2144;M;0;Indiana;3
+2145;M;10;Flórida;4
+2146;M;2;Califórnia;3
+2147;F;0;Illinois;3
+2148;F;0;Colorado;4
+2149;M;0;Illinois;5
+2150;F;4;Virgínia;3
+2151;M;13;Flórida;8
+2152;M;4;Virgínia;3
+2153;M;16;Oregon;4
+2154;M;12;Nebraska;5
+2155;F;10;Iowa;1
+2156;M;19;Minnesota;4
+2157;F;3;Ohio;4
+2158;M;12;Illinois;6
+2159;F;14;Illinois;7
+2160;F;19;Indiana;4
+2161;F;2;Califórnia;6
+2162;F;10;Alabama;1
+2163;M;0;Novo México;3
+2164;M;0;Califórnia;6
+2165;M;7;Flórida;6
+2166;M;10;Washington;0
+2167;F;6;Califórnia;5
+2168;M;10;Illinois;0
+2169;M;0;Califórnia;0
+2170;F;16;Washington;8
+2171;M;0;Michigan;6
+2172;M;20;Illinois;4
+2173;M;13;Novo México;8
+2174;M;12;Novo México;8
+2175;M;4;Washington;5
+2176;M;19;Oklahoma;0
+2177;F;20;Califórnia;6
+2178;M;14;Arizona;7
+2179;F;0;Carolina do Norte;5
+2180;M;12;Carolina do Norte;5
+2181;M;0;Ohio;4
+2182;F;4;Illinois;5
+2183;F;1;Nova Iorque (estado);8
+2184;M;4;Ohio;4
+2185;M;17;Carolina do Norte;7
+2186;M;5;Kentucky;3
+2187;M;16;Illinois;7
+2188;F;19;Illinois;4
+2189;M;10;Illinois;1
+2190;F;15;Carolina do Norte;6
+2191;M;4;Ohio;4
+2192;F;0;Carolina do Norte;6
+2193;M;10;Kentucky;1
+2194;M;17;Ohio;6
+2195;M;10;Illinois;0
+2196;M;12;Ohio;6
+2197;F;1;Carolina do Norte;5
+2198;F;9;Indiana;6
+2199;M;10;Illinois;0
+2200;M;1;Illinois;6
+2201;M;20;Indiana;8
+2202;F;10;Nova Iorque (estado);2
+2203;M;12;Wisconsin;7
+2204;M;3;Califórnia;9
+2205;F;7;Nova Iorque (estado);6
+2206;M;7;Nova Iorque (estado);7
+2207;M;4;Nova Jérsia;4
+2208;M;0;Nova Iorque (estado);6
+2209;M;7;Nova Iorque (estado);6
+2210;M;17;Novo México;7
+2211;M;6;Massachusetts;7
+2212;M;4;Colorado;4
+2213;F;0;Illinois;6
+2214;F;1;Indiana;5
+2215;F;0;Califórnia;6
+2216;F;20;Illinois;5
+2217;M;10;Ohio;0
+2218;M;17;Missouri;6
+2219;M;6;Illinois;5
+2220;F;3;Califórnia;8
+2221;M;17;Califórnia;8
+2222;F;1;Nova Iorque (estado);7
+2223;M;2;Illinois;6
+2224;M;12;Illinois;6
+2225;M;5;Havaí;5
+2226;F;7;Carolina do Norte;5
+2227;M;14;Illinois;8
+2228;M;12;Illinois;5
+2229;M;0;Illinois;7
+2230;F;1;Illinois;7
+2231;M;11;Arizona;7
+2232;M;14;Illinois;5
+2233;F;3;Illinois;6
+2234;M;1;Arizona;8
+2235;M;10;Indiana;0
+2236;M;10;Havaí;0
+2237;F;6;Nova Iorque (estado);6
+2238;F;4;Flórida;5
+2239;M;10;Illinois;4
+2240;M;12;Missouri;7
+2241;M;5;Illinois;7
+2242;M;4;Illinois;4
+2243;M;2;;7
+2244;M;10;Illinois;1
+2245;M;10;Illinois;0
+2246;M;0;Illinois;5
+2247;M;2;Illinois;7
+2248;F;12;Indiana;6
+2249;M;5;Illinois;5
+2250;M;19;Illinois;4
+2251;M;14;Illinois;6
+2252;F;1;Massachusetts;3
+2253;F;0;Indiana;7
+2254;M;5;Flórida;7
+2255;F;6;Ohio;6
+2256;F;15;Montana;7
+2257;F;4;Montana;4
+2258;F;4;Nova Iorque (estado);4
+2259;F;16;Luisiana;9
+2260;F;20;Indiana;5
+2261;M;5;Flórida;6
+2262;M;17;Michigan;7
+2263;M;6;Luisiana;5
+2264;F;7;Tennessee;7
+2265;M;13;Illinois;8
+2266;F;2;Michigan;8
+2267;F;13;Tennessee;9
+2268;F;1;Indiana;6
+2269;F;0;Nova Iorque (estado);7
+2270;M;1;Nova Iorque (estado);4
+2271;M;14;Nova Iorque (estado);7
+2272;M;0;Arkansas;5
+2273;M;6;Virgínia;6
+2274;M;2;Geórgia (Estados Unidos);4
+2275;M;7;Mississippi;9
+2276;M;13;Ohio;9
+2277;F;9;Nova Iorque (estado);7
+2278;M;17;Massachusetts;8
+2279;M;7;Nova Jérsia;8
+2280;M;6;Oklahoma;8
+2281;M;11;Michigan;7
+2282;M;2;Flórida;8
+2283;M;18;Ohio;6
+2284;M;20;Califórnia;6
+2285;F;10;Nova Iorque (estado);1
+2286;M;17;Wyoming;6
+2287;M;0;Connecticut;8
+2288;M;10;Nova Iorque (estado);0
+2289;F;1;Iowa;7
+2290;M;0;Illinois;6
+2291;M;1;Nova Iorque (estado);7
+2292;M;15;Nova Iorque (estado);7
+2293;F;3;Michigan;8
+2294;M;13;Michigan;9
+2295;M;11;Arkansas;7
+2296;F;6;Virgínia;6
+2297;M;13;Iowa;8
+2298;M;17;Texas;6
+2299;F;10;Nova Iorque (estado);4
+2300;M;13;Michigan;8
+2301;F;12;Massachusetts;5
+2302;M;12;Michigan;8
+2303;M;17;Nova Jérsia;7
+2304;M;12;Califórnia;7
+2305;M;20;Michigan;7
+2306;F;4;Massachusetts;4
+2307;M;17;Massachusetts;5
+2308;F;16;Michigan;7
+2309;F;0;Nova Jérsia;7
+2310;M;12;Michigan;7
+2311;F;4;Virgínia;5
+2312;M;0;Nova Iorque (estado);7
+2313;F;6;Michigan;7
+2314;F;1;Nova Iorque (estado);5
+2315;M;7;Michigan;8
+2316;M;0;Nova Iorque (estado);6
+2317;F;9;Dakota do Sul;7
+2318;M;7;Michigan;9
+2319;M;7;Michigan;6
+2320;F;1;Connecticut;8
+2321;M;7;Geórgia (Estados Unidos);5
+2322;F;13;Michigan;8
+2323;M;3;Nova Iorque (estado);6
+2324;M;17;Iowa;6
+2325;F;4;Carolina do Norte;4
+2326;M;4;Massachusetts;4
+2327;M;10;Michigan;4
+2328;M;7;Nova Iorque (estado);8
+2329;F;15;Oregon;8
+2330;M;7;Michigan;7
+2331;M;1;Michigan;9
+2332;M;14;Massachusetts;8
+2333;M;6;Nova Iorque (estado);8
+2334;F;7;Massachusetts;8
+2335;M;17;Michigan;7
+2336;M;18;Nova Iorque (estado);6
+2337;M;17;Michigan;7
+2338;M;17;Nova Iorque (estado);7
+2339;F;3;Iowa;8
+2340;M;2;Michigan;6
+2341;M;1;Nova Iorque (estado);9
+2342;M;3;Michigan;6
+2343;F;1;Massachusetts;7
+2344;M;12;Massachusetts;5
+2345;M;16;Washington;7
+2346;F;10;Michigan;0
+2347;M;1;Michigan;6
+2348;M;12;Connecticut;8
+2349;M;8;Iowa;5
+2350;M;4;Ohio;3
+2351;F;0;Nova Iorque (estado);5
+2352;M;13;Kentucky;8
+2353;F;9;Illinois;6
+2354;M;11;Califórnia;7
+2355;F;9;Nova Iorque (estado);7
+2356;F;16;Nova Iorque (estado);8
+2357;F;14;Nova Iorque (estado);7
+2358;F;6;Connecticut;8
+2359;M;13;Nova Iorque (estado);8
+2360;M;6;Nova Iorque (estado);8
+2361;M;7;Michigan;9
+2362;M;14;Califórnia;4
+2363;M;14;Califórnia;8
+2364;F;9;Nova Iorque (estado);8
+2365;M;7;Nova Iorque (estado);7
+2366;F;16;Massachusetts;7
+2367;F;9;Michigan;6
+2368;F;13;Nova Iorque (estado);9
+2369;M;14;Connecticut;7
+2370;M;1;Nova Iorque (estado);8
+2371;F;7;Connecticut;7
+2372;F;7;Massachusetts;7
+2373;M;7;Califórnia;7
+2374;M;14;Califórnia;5
+2375;F;7;Nova Iorque (estado);8
+2376;M;1;Nova Iorque (estado);4
+2377;M;0;Connecticut;7
+2378;M;3;Texas;6
+2379;M;18;Nova Iorque (estado);4
+2380;M;4;Virgínia;5
+2381;F;9;Nova Iorque (estado);6
+2382;M;13;Montana;8
+2383;F;14;Califórnia;6
+2384;M;17;Illinois;6
+2385;F;2;Massachusetts;7
+2386;F;0;Connecticut;5
+2387;M;17;Flórida;6
+2388;M;5;Connecticut;8
+2389;M;16;Tennessee;5
+2390;F;6;Flórida;6
+2391;M;18;Nova Iorque (estado);8
+2392;F;3;Connecticut;8
+2393;M;13;Nova Iorque (estado);9
+2394;M;6;Tennessee;6
+2395;M;7;Nova Jérsia;6
+2396;F;0;Maryland;4
+2397;F;11;Ohio;6
+2398;M;0;Washington;6
+2399;M;17;Nova Iorque (estado);7
+2400;F;16;Califórnia;5
+2401;M;4;Virgínia;4
+2402;M;17;Flórida;7
+2403;M;4;Tennessee;4
+2404;M;7;Missouri;4
+2405;M;8;Texas;8
+2406;F;12;Massachusetts;8
+2407;M;16;Nova Iorque (estado);6
+2408;F;1;Massachusetts;7
+2409;F;9;Connecticut;7
+2410;M;7;Connecticut;8
+2411;F;14;Massachusetts;7
+2412;M;13;Massachusetts;8
+2413;F;7;Connecticut;8
+2414;M;1;Michigan;5
+2415;M;7;Virgínia;6
+2416;M;7;Massachusetts;7
+2417;M;1;Wisconsin;7
+2418;F;10;Connecticut;0
+2419;M;0;Connecticut;5
+2420;M;7;Tennessee;8
+2421;M;7;Ohio;6
+2422;F;9;Rhode Island;8
+2423;F;9;Massachusetts;7
+2424;M;17;Califórnia;6
+2425;F;14;Ohio;6
+2426;M;0;Massachusetts;8
+2427;F;14;Califórnia;6
+2428;M;17;Ohio;7
+2429;M;2;Virgínia;6
+2430;M;4;Virgínia;5
+2431;F;4;Virgínia;6
+2432;M;4;Virgínia;5
+2433;M;4;Virgínia;6
+2434;M;4;Virgínia;6
+2435;M;4;Virgínia;5
+2436;M;7;Virgínia;6
+2437;M;4;Virgínia;5
+2438;M;1;Virgínia;6
+2439;M;17;Michigan;7
+2440;M;17;Massachusetts;8
+2441;F;6;Kentucky;7
+2442;M;17;Alabama;7
+2443;F;0;Michigan;6
+2444;F;4;Kentucky;7
+2445;M;0;Michigan;6
+2446;M;7;Nova Iorque (estado);4
+2447;M;14;Nova Hampshire;6
+2448;M;6;Tennessee;6
+2449;M;13;Tennessee;8
+2450;M;16;Massachusetts;7
+2451;M;12;Tennessee;7
+2452;M;7;Massachusetts;7
+2453;M;7;Minnesota;6
+2454;M;0;Oregon;4
+2455;M;7;Michigan;6
+2456;M;5;Michigan;5
+2457;M;0;Illinois;6
+2458;M;7;Arizona;5
+2459;M;7;Ohio;7
+2460;F;1;Alabama;8
+2461;M;4;Washington;3
+2462;M;1;Ohio;7
+2463;M;7;Flórida;5
+2464;F;4;Ohio;4
+2465;M;6;Ohio;7
+2466;M;15;Califórnia;5
+2467;M;10;Ohio;1
+2468;M;1;Ohio;8
+2469;M;4;Califórnia;5
+2470;M;18;Iowa;6
+2471;M;13;Washington;7
+2472;M;18;Tennessee;6
+2473;M;12;Washington;5
+2474;M;12;Idaho;5
+2475;F;18;Washington;5
+2476;M;12;Texas;8
+2477;M;0;Kentucky;7
+2478;M;1;Tennessee;8
+2479;F;1;Virgínia;6
+2480;F;20;Califórnia;4
+2481;M;14;Nova Hampshire;7
+2482;F;3;Tennessee;8
+2483;M;13;Califórnia;8
+2484;M;5;Geórgia (Estados Unidos);7
+2485;M;14;Califórnia;7
+2486;M;12;Washington;4
+2487;M;7;Minnesota;7
+2488;F;2;Geórgia (Estados Unidos);7
+2489;F;9;Tennessee;6
+2490;M;12;Califórnia;4
+2491;M;7;Virgínia;6
+2492;F;2;Tennessee;7
+2493;M;2;Califórnia;7
+2494;M;4;Iowa;3
+2495;F;4;Minnesota;3
+2496;M;1;Tennessee;8
+2497;F;14;Tennessee;8
+2498;M;18;Luisiana;8
+2499;M;0;Alabama;8
+2500;M;1;Carolina do Sul;8
+2501;M;15;Tennessee;5
+2502;M;13;Michigan;9
+2503;M;17;Pensilvânia;6
+2504;M;7;Washington;6
+2505;M;7;Minnesota;5
+2506;F;14;Washington;5
+2507;M;4;Califórnia;5
+2508;F;3;Texas;7
+2509;M;5;Alabama;6
+2510;M;7;Tennessee;6
+2511;M;7;Pensilvânia;6
+2512;F;14;Alabama;7
+2513;M;1;Tennessee;8
+2514;M;14;Tennessee;9
+2515;M;12;Tennessee;7
+2516;F;6;Tennessee;7
+2517;F;9;Wisconsin;7
+2518;M;7;Nova Iorque (estado);5
+2519;F;2;Nova Iorque (estado);7
+2520;F;2;Califórnia;8
+2521;M;17;Michigan;7
+2522;M;11;Illinois;4
+2523;M;17;Michigan;6
+2524;F;9;Tennessee;8
+2525;F;1;Tennessee;6
+2526;M;13;Tennessee;8
+2527;M;15;Alabama;6
+2528;M;0;Tennessee;8
+2529;F;9;Califórnia;7
+2530;M;0;Kentucky;4
+2531;F;7;Iowa;7
+2532;F;13;Tennessee;9
+2533;F;3;Michigan;6
+2534;F;6;Tennessee;8
+2535;F;2;Nova Hampshire;9
+2536;M;13;Tennessee;9
+2537;M;11;Tennessee;7
+2538;M;13;Tennessee;8
+2539;M;7;Flórida;6
+2540;F;6;Kentucky;7
+2541;F;5;Michigan;6
+2542;F;13;Tennessee;7
+2543;F;0;Kentucky;6
+2544;M;1;Iowa;7
+2545;M;13;Tennessee;9
+2546;F;13;Tennessee;9
+2547;F;0;Tennessee;6
+2548;F;6;Tennessee;6
+2549;M;13;Tennessee;9
+2550;M;7;Tennessee;7
+2551;M;12;Washington;6
+2552;F;9;Carolina do Sul;6
+2553;M;7;Carolina do Sul;6
+2554;M;1;Oregon;5
+2555;M;7;Nova Iorque (estado);8
+2556;M;4;Massachusetts;5
+2557;F;19;Massachusetts;4
+2558;M;17;Wisconsin;8
+2559;M;10;Wisconsin;4
+2560;F;6;Utah;7
+2561;M;15;Connecticut;5
+2562;M;0;Washington;4
+2563;M;13;Wisconsin;7
+2564;F;20;Ohio;6
+2565;M;5;Flórida;6
+2566;M;17;Califórnia;6
+2567;M;0;Connecticut;6
+2568;M;17;Geórgia (Estados Unidos);4
+2569;M;0;Ohio;7
+2570;F;14;Califórnia;9
+2571;M;17;;7
+2572;M;14;Texas;6
+2573;M;16;Califórnia;7
+2574;M;6;Connecticut;8
+2575;M;7;Texas;6
+2576;M;17;Oregon;3
+2577;M;7;Texas;4
+2578;M;7;Califórnia;8
+2579;M;15;Califórnia;6
+2580;F;1;Nova Iorque (estado);7
+2581;M;11;Illinois;6
+2582;F;1;Oregon;5
+2583;M;7;Pensilvânia;6
+2584;F;1;Califórnia;9
+2585;M;15;Missouri;7
+2586;M;20;Indiana;6
+2587;M;7;Minnesota;6
+2588;F;13;Texas;9
+2589;M;0;Pensilvânia;5
+2590;M;4;Califórnia;4
+2591;M;1;Iowa;3
+2592;M;7;Colorado;7
+2593;M;16;Califórnia;8
+2594;M;7;Geórgia (Estados Unidos);6
+2595;M;4;Pensilvânia;4
+2596;M;7;Michigan;8
+2597;F;0;Califórnia;7
+2598;M;17;Maryland;5
+2599;M;12;Wisconsin;5
+2600;M;14;Pensilvânia;5
+2601;M;16;Carolina do Norte;7
+2602;M;12;Califórnia;7
+2603;M;17;Pensilvânia;6
+2604;M;0;Ohio;6
+2605;M;7;Texas;7
+2606;M;7;Flórida;8
+2607;F;0;Michigan;8
+2608;F;1;Nova Iorque (estado);6
+2609;F;12;Minnesota;8
+2610;M;7;Michigan;7
+2611;M;3;Nova Jérsia;5
+2612;F;3;Califórnia;7
+2613;M;1;Califórnia;6
+2614;M;7;Pensilvânia;5
+2615;M;7;Maryland;5
+2616;M;7;Massachusetts;6
+2617;F;15;Illinois;7
+2618;F;4;Wisconsin;4
+2619;M;12;Califórnia;7
+2620;M;4;Indiana;4
+2621;M;0;Indiana;3
+2622;F;6;Carolina do Norte;7
+2623;M;1;Geórgia (Estados Unidos);8
+2624;F;0;Ohio;6
+2625;M;7;Illinois;6
+2626;M;1;Maine;8
+2627;M;1;Connecticut;5
+2628;F;2;Nova Iorque (estado);5
+2629;M;11;Pensilvânia;5
+2630;F;5;Texas;3
+2631;F;1;Nova Iorque (estado);8
+2632;M;0;Ohio;9
+2633;F;9;Nova Jérsia;6
+2634;M;1;Pensilvânia;9
+2635;M;0;Connecticut;6
+2636;M;12;Texas;3
+2637;F;20;Ohio;7
+2638;M;14;Connecticut;6
+2639;F;6;Colorado;5
+2640;M;12;Texas;6
+2641;M;6;Pensilvânia;4
+2642;M;0;Flórida;4
+2643;M;17;Washington;7
+2644;M;15;Ohio;4
+2645;M;7;Illinois;5
+2646;M;17;Pensilvânia;7
+2647;F;11;Pensilvânia;7
+2648;M;17;Carolina do Norte;5
+2649;M;16;Colorado;6
+2650;M;7;Texas;7
+2651;M;14;Nova Iorque (estado);8
+2652;M;20;Utah;6
+2653;M;7;Califórnia;5
+2654;F;9;Michigan;6
+2655;M;7;Kansas;7
+2656;M;13;Flórida;9
+2657;F;10;Indiana;0
+2658;M;7;Illinois;5
+2659;M;14;Massachusetts;6
+2660;M;17;Carolina do Norte;8
+2661;M;13;Pensilvânia;8
+2662;M;17;Massachusetts;5
+2663;F;4;Massachusetts;5
+2664;M;7;Iowa;6
+2665;M;11;Washington;6
+2666;M;16;Missouri;7
+2667;F;6;Nova Jérsia;6
+2668;F;4;Califórnia;6
+2669;M;0;Virgínia;7
+2670;M;6;Califórnia;7
+2671;F;12;Wisconsin;6
+2672;M;7;Maine;7
+2673;M;7;Texas;7
+2674;M;4;Califórnia;6
+2675;M;18;Washington;6
+2676;M;20;Texas;8
+2677;F;7;Kansas;6
+2678;M;6;Michigan;5
+2679;F;4;Massachusetts;4
+2680;M;12;Massachusetts;6
+2681;F;4;Michigan;5
+2682;M;4;Ohio;3
+2683;M;7;Illinois;7
+2684;F;0;Pensilvânia;3
+2685;M;7;Massachusetts;7
+2686;M;0;Arizona;6
+2687;M;10;Nova Jérsia;0
+2688;M;17;Wisconsin;5
+2689;M;12;Carolina do Norte;5
+2690;M;7;Virgínia;5
+2691;M;4;Connecticut;4
+2692;F;4;Nova Iorque (estado);4
+2693;M;13;Arkansas;8
+2694;M;4;Califórnia;3
+2695;M;11;Indiana;6
+2696;M;7;Virgínia;5
+2697;F;17;Novo México;8
+2698;F;2;Nova Iorque (estado);6
+2699;F;13;Oklahoma;8
+2700;M;7;Geórgia (Estados Unidos);5
+2701;M;1;Illinois;7
+2702;M;6;Missouri;7
+2703;M;11;Iowa;6
+2704;M;13;Arkansas;8
+2705;M;1;Carolina do Norte;5
+2706;F;1;Carolina do Norte;6
+2707;M;13;Virgínia;9
+2708;M;7;Ohio;5
+2709;F;0;Illinois;6
+2710;M;17;Califórnia;6
+2711;F;4;Massachusetts;4
+2712;F;19;Flórida;4
+2713;M;7;Havaí;5
+2714;M;4;Havaí;4
+2715;F;4;Havaí;8
+2716;F;4;Havaí;8
+2717;M;4;Havaí;6
+2718;F;4;Havaí;5
+2719;M;12;Washington;5
+2720;M;0;Maryland;7
+2721;M;14;Pensilvânia;7
+2722;M;7;Maryland;6
+2723;F;9;Carolina do Norte;5
+2724;F;2;Carolina do Norte;7
+2725;M;7;Geórgia (Estados Unidos);7
+2726;M;11;Massachusetts;7
+2727;M;11;Illinois;5
+2728;M;12;Carolina do Norte;6
+2729;M;7;Pensilvânia;8
+2730;M;11;Michigan;6
+2731;M;7;Nova Iorque (estado);7
+2732;M;17;Califórnia;7
+2733;M;17;Califórnia;7
+2734;F;4;Rhode Island;4
+2735;M;7;Virgínia;6
+2736;M;12;Colorado;7
+2737;M;3;Iowa;6
+2738;F;2;Maryland;8
+2739;F;7;Califórnia;6
+2740;M;17;Maryland;7
+2741;M;14;Illinois;6
+2742;M;17;Alabama;5
+2743;M;14;Arkansas;6
+2744;M;17;Wisconsin;4
+2745;F;1;Geórgia (Estados Unidos);6
+2746;M;14;Iowa;7
+2747;F;4;Califórnia;4
+2748;M;4;Arizona;6
+2749;M;12;Nova Iorque (estado);5
+2750;F;15;Califórnia;5
+2751;F;16;Carolina do Norte;5
+2752;M;15;Texas;5
+2753;F;20;Carolina do Norte;8
+2754;M;12;Illinois;7
+2755;M;7;Carolina do Sul;7
+2756;M;4;Oregon;4
+2757;M;2;Nova Iorque (estado);6
+2758;M;8;Nova Iorque (estado);8
+2759;M;7;Alabama;5
+2760;M;0;Massachusetts;8
+2761;M;6;Colorado;7
+2762;M;16;Missouri;7
+2763;F;4;Michigan;4
+2764;M;7;Califórnia;5
+2765;M;7;Massachusetts;7
+2766;M;7;Minnesota;7
+2767;M;0;Washington;5
+2768;M;17;Califórnia;5
+2769;M;7;;6
+2770;M;1;Nova Iorque (estado);7
+2771;M;1;Califórnia;4
+2772;M;17;Nova Iorque (estado);7
+2773;M;2;Texas;6
+2774;M;1;Califórnia;5
+2775;F;4;Califórnia;4
+2776;M;14;Maryland;6
+2777;M;4;Califórnia;4
+2778;M;13;Califórnia;8
+2779;M;7;Nova Iorque (estado);6
+2780;M;17;Califórnia;6
+2781;M;4;Ohio;6
+2782;F;4;Michigan;4
+2783;M;17;Texas;7
+2784;M;20;Washington, D.C.;8
+2785;M;13;Carolina do Sul;9
+2786;M;4;Illinois;6
+2787;M;4;Illinois;6
+2788;M;1;Califórnia;8
+2789;M;4;Califórnia;4
+2790;M;20;Arizona;5
+2791;M;7;Nova Iorque (estado);8
+2792;M;4;Massachusetts;4
+2793;M;7;Luisiana;6
+2794;M;2;Washington, D.C.;5
+2795;M;13;Flórida;8
+2796;M;14;Califórnia;5
+2797;F;7;Califórnia;6
+2798;M;20;Nova Iorque (estado);6
+2799;M;0;Minnesota;4
+2800;F;4;Oklahoma;3
+2801;F;3;Nova Iorque (estado);4
+2802;M;20;Nova Iorque (estado);6
+2803;M;7;Califórnia;5
+2804;F;0;Indiana;6
+2805;M;19;Connecticut;8
+2806;M;10;Pensilvânia;2
+2807;F;11;Maryland;6
+2808;M;16;Illinois;8
+2809;M;7;Nova Iorque (estado);5
+2810;F;10;Missouri;2
+2811;M;19;Califórnia;5
+2812;M;17;Illinois;5
+2813;M;20;Minnesota;6
+2814;M;7;Massachusetts;6
+2815;M;17;Illinois;6
+2816;M;7;Illinois;6
+2817;M;12;Wisconsin;6
+2818;M;12;Minnesota;5
+2819;M;14;Ohio;7
+2820;F;0;Massachusetts;6
+2821;M;20;Nova Iorque (estado);4
+2822;M;7;Nova Iorque (estado);7
+2823;M;4;Massachusetts;5
+2824;M;4;Massachusetts;3
+2825;F;20;Califórnia;5
+2826;M;12;Nova Iorque (estado);7
+2827;M;17;Califórnia;5
+2828;M;4;Massachusetts;4
+2829;M;20;Nova Iorque (estado);7
+2830;M;7;Califórnia;7
+2831;M;0;Flórida;5
+2832;M;17;Washington, D.C.;6
+2833;M;15;Arizona;6
+2834;M;1;Flórida;6
+2835;M;20;Illinois;6
+2836;M;12;Nova Jérsia;5
+2837;M;0;Michigan;4
+2838;M;1;Califórnia;4
+2839;M;17;Nova Iorque (estado);5
+2840;M;0;Illinois;6
+2841;M;12;Washington;8
+2842;M;17;Geórgia (Estados Unidos);6
+2843;F;4;Texas;6
+2844;M;20;Novo México;6
+2845;M;4;Oklahoma;6
+2846;F;4;Califórnia;3
+2847;M;4;Nova Iorque (estado);4
+2848;M;0;Indiana;5
+2849;M;11;Califórnia;7
+2850;M;20;Califórnia;4
+2851;F;7;Califórnia;5
+2852;M;12;Washington;5
+2853;M;1;;2
+2854;F;4;Missouri;4
+2855;M;4;Califórnia;5
+2856;M;11;Maryland;6
+2857;M;0;Nova Iorque (estado);5
+2858;F;10;Arkansas;0
+2859;M;1;Califórnia;3
+2860;M;17;Washington, D.C.;7
+2861;M;15;Connecticut;5
+2862;M;7;Minnesota;7
+2863;F;2;Carolina do Norte;5
+2864;F;3;Nova Iorque (estado);6
+2865;F;6;Maryland;6
+2866;M;7;Wisconsin;5
+2867;M;17;Pensilvânia;7
+2868;M;12;Califórnia;7
+2869;M;17;Nova Jérsia;8
+2870;M;18;Califórnia;8
+2871;F;14;Washington;5
+2872;M;20;Califórnia;5
+2873;F;4;Missouri;3
+2874;F;20;Washington, D.C.;7
+2875;M;2;Nova Iorque (estado);6
+2876;M;17;Massachusetts;4
+2877;M;1;Colorado;6
+2878;F;20;Novo México;8
+2879;M;4;Illinois;4
+2880;M;12;Minnesota;4
+2881;F;12;Texas;6
+2882;M;20;Texas;4
+2883;M;20;Geórgia (Estados Unidos);3
+2884;F;3;Wisconsin;7
+2885;F;1;Colorado;4
+2886;M;4;Illinois;4
+2887;M;3;Kansas;5
+2888;M;14;Minnesota;6
+2889;M;3;Minnesota;7
+2890;M;7;Califórnia;7
+2891;F;4;Missouri;4
+2892;M;4;Utah;5
+2893;M;1;Califórnia;6
+2894;M;4;Ohio;4
+2895;M;11;Nova Jérsia;6
+2896;M;14;Illinois;4
+2897;M;5;Oregon;6
+2898;M;4;Massachusetts;4
+2899;M;14;Califórnia;7
+2900;M;12;Califórnia;4
+2901;M;17;Texas;5
+2902;M;12;Washington;6
+2903;M;16;Maryland;6
+2904;M;4;Pensilvânia;6
+2905;M;17;Minnesota;6
+2906;M;19;Minnesota;6
+2907;F;5;Nova Iorque (estado);6
+2908;M;2;Oklahoma;4
+2909;M;7;Ohio;5
+2910;M;19;Texas;0
+2911;F;4;Minnesota;5
+2912;F;4;Michigan;4
+2913;F;20;Washington;6
+2914;M;4;Califórnia;5
+2915;M;7;Virgínia;6
+2916;M;2;Washington;7
+2917;M;0;Illinois;5
+2918;M;12;Washington;5
+2919;M;17;Novo México;4
+2920;M;2;Minnesota;5
+2921;M;1;Wisconsin;8
+2922;M;17;Iowa;6
+2923;M;12;Ohio;6
+2924;F;4;Califórnia;4
+2925;F;4;Virgínia;5
+2926;F;2;Minnesota;3
+2927;M;12;Virgínia;6
+2928;M;2;Califórnia;5
+2929;M;2;Illinois;4
+2930;M;17;Ohio;8
+2931;M;4;Pensilvânia;3
+2932;M;12;Minnesota;4
+2933;M;11;Flórida;7
+2934;F;20;Califórnia;6
+2935;M;0;Minnesota;5
+2936;F;4;Califórnia;4
+2937;F;4;Michigan;4
+2938;F;0;Minnesota;6
+2939;F;15;Califórnia;6
+2940;M;0;Massachusetts;5
+2941;M;12;Washington;6
+2942;F;1;Califórnia;8
+2943;M;12;Califórnia;6
+2944;F;4;Michigan;4
+2945;F;17;Nevada;6
+2946;M;16;Califórnia;6
+2947;F;0;Massachusetts;6
+2948;M;14;Michigan;4
+2949;M;17;Washington;6
+2950;M;0;Arkansas;4
+2951;F;14;Califórnia;6
+2952;M;4;Connecticut;5
+2953;M;20;Virgínia;5
+2954;M;2;Nova Iorque (estado);4
+2955;M;14;Califórnia;7
+2956;M;12;Iowa;5
+2957;M;4;Michigan;3
+2958;M;7;Califórnia;5
+2959;M;17;Connecticut;6
+2960;M;4;Michigan;4
+2961;M;17;Califórnia;8
+2962;M;3;Califórnia;7
+2963;F;4;Michigan;4
+2964;M;17;Nova Jérsia;4
+2965;F;4;Michigan;7
+2966;F;4;Michigan;5
+2967;M;0;Califórnia;6
+2968;F;0;Michigan;4
+2969;M;7;Connecticut;6
+2970;M;4;Michigan;4
+2971;M;4;Michigan;5
+2972;M;4;Oregon;5
+2973;F;4;Michigan;4
+2974;M;4;Michigan;3
+2975;M;11;Maryland;6
+2976;M;20;Arizona;4
+2977;F;4;Michigan;3
+2978;M;20;Ohio;6
+2979;M;2;Ohio;7
+2980;M;7;Califórnia;7
+2981;M;6;Iowa;7
+2982;M;4;Wisconsin;6
+2983;M;4;Oregon;4
+2984;M;4;Michigan;5
+2985;M;4;Oregon;4
+2986;M;4;Virgínia;5
+2987;M;4;Pensilvânia;4
+2988;F;6;Califórnia;3
+2989;M;12;Oregon;6
+2990;M;12;Ohio;6
+2991;M;1;Michigan;8
+2992;M;4;Nova Iorque (estado);4
+2993;M;19;Nova Iorque (estado);3
+2994;M;5;Califórnia;6
+2995;M;15;Oregon;5
+2996;M;0;Missouri;4
+2997;F;16;Ohio;7
+2998;F;1;Ohio;6
+2999;M;7;Flórida;6
+3000;M;4;Minnesota;5
+3001;M;4;Califórnia;4
+3002;M;11;Califórnia;7
+3003;M;15;Califórnia;3
+3004;F;4;Massachusetts;4
+3005;M;17;Califórnia;5
+3006;M;4;Ohio;3
+3007;M;0;Flórida;6
+3008;M;4;Califórnia;3
+3009;F;3;Minnesota;6
+3010;M;12;Texas;5
+3011;M;1;Nova Iorque (estado);4
+3012;M;12;Texas;6
+3013;M;17;Oregon;7
+3014;M;7;Connecticut;6
+3015;M;6;Illinois;9
+3016;M;12;Texas;4
+3017;F;9;Arizona;6
+3018;M;0;Ohio;6
+3019;M;12;Oregon;7
+3020;F;7;Illinois;7
+3021;F;15;Texas;7
+3022;M;17;Texas;6
+3023;F;7;Califórnia;5
+3024;M;17;Nova Iorque (estado);6
+3025;F;0;Califórnia;6
+3026;F;4;Ohio;4
+3027;M;4;Arizona;3
+3028;M;10;Nova Iorque (estado);1
+3029;M;4;Califórnia;4
+3030;M;1;Michigan;6
+3031;M;4;Michigan;4
+3032;M;0;Indiana;4
+3033;M;4;Rhode Island;4
+3034;F;1;Flórida;4
+3035;F;7;Califórnia;5
+3036;M;13;Nova Iorque (estado);8
+3037;F;2;Oregon;5
+3038;F;2;Oregon;7
+3039;F;3;Flórida;8
+3040;M;8;Maryland;6
+3041;M;4;Oregon;5
+3042;M;1;Michigan;8
+3043;M;2;Califórnia;4
+3044;M;16;Texas;7
+3045;M;1;Califórnia;7
+3046;M;4;Indiana;0
+3047;F;4;Califórnia;5
+3048;M;2;Massachusetts;4
+3049;F;0;Massachusetts;8
+3050;M;12;Califórnia;7
+3051;M;17;Califórnia;3
+3052;M;12;Nova Iorque (estado);6
+3053;F;3;Minnesota;6
+3054;M;4;Ohio;4
+3055;F;3;Washington;5
+3056;M;18;Nova Iorque (estado);6
+3057;F;12;Minnesota;4
+3058;M;12;Minnesota;4
+3059;M;0;Texas;6
+3060;F;1;Califórnia;6
+3061;M;2;Carolina do Sul;7
+3062;M;4;Nova Hampshire;4
+3063;M;4;Nova Hampshire;4
+3064;M;17;Califórnia;6
+3065;F;4;Michigan;4
+3066;M;4;Illinois;4
+3067;F;0;Massachusetts;5
+3068;F;9;Kansas;6
+3069;M;4;Oregon;3
+3070;F;4;Nova Iorque (estado);4
+3071;M;1;Massachusetts;6
+3072;M;1;Minnesota;8
+3073;M;0;Califórnia;5
+3074;M;0;Virgínia;6
+3075;F;11;Connecticut;5
+3076;M;17;Geórgia (Estados Unidos);6
+3077;M;4;Ohio;3
+3078;F;1;Massachusetts;7
+3079;F;1;Minnesota;5
+3080;M;20;Minnesota;5
+3081;M;7;Texas;6
+3082;F;6;Ohio;6
+3083;F;0;Oregon;7
+3084;M;16;Massachusetts;4
+3085;M;4;Texas;4
+3086;M;12;Washington;4
+3087;F;1;Califórnia;2
+3088;F;4;Novo México;5
+3089;M;16;Califórnia;7
+3090;M;2;Califórnia;6
+3091;F;0;Pensilvânia;5
+3092;M;15;Washington;6
+3093;F;20;Nevada;7
+3094;M;0;Geórgia (Estados Unidos);6
+3095;F;3;Connecticut;6
+3096;F;3;Tennessee;7
+3097;F;5;Nova Iorque (estado);5
+3098;M;4;Minnesota;5
+3099;M;17;Maryland;6
+3100;F;6;Califórnia;6
+3101;M;15;Califórnia;4
+3102;M;12;Flórida;6
+3103;M;20;Missouri;6
+3104;M;17;Massachusetts;4
+3105;M;12;Washington;7
+3106;M;0;Flórida;5
+3107;M;17;Califórnia;5
+3108;M;6;Maryland;7
+3109;F;11;Ohio;5
+3110;M;0;Nova Iorque (estado);6
+3111;M;4;Minnesota;4
+3112;M;12;Washington;4
+3113;M;10;Minnesota;5
+3114;M;5;Missouri;4
+3115;M;17;Michigan;7
+3116;M;12;Washington;5
+3117;M;0;Idaho;6
+3118;M;0;Texas;5
+3119;M;1;Tennessee;7
+3120;M;4;Minnesota;4
+3121;M;2;Flórida;5
+3122;F;7;Maryland;6
+3123;M;2;Califórnia;5
+3124;M;12;Geórgia (Estados Unidos);5
+3125;M;7;Nova Iorque (estado);6
+3126;M;2;Flórida;5
+3127;F;0;Nova Iorque (estado);5
+3128;M;2;Nova Iorque (estado);3
+3129;M;7;Maryland;4
+3130;M;7;Flórida;6
+3131;F;2;Califórnia;6
+3132;M;7;Washington;6
+3133;M;4;Flórida;4
+3134;M;4;Minnesota;3
+3135;M;15;Nova Iorque (estado);5
+3136;F;4;Arkansas;5
+3137;M;11;Nova Iorque (estado);5
+3138;M;17;Indiana;6
+3139;M;13;Nevada;8
+3140;F;4;Texas;5
+3141;M;14;;6
+3142;M;20;Arizona;5
+3143;F;16;Califórnia;7
+3144;F;7;Arizona;5
+3145;M;4;Massachusetts;4
+3146;M;0;Geórgia (Estados Unidos);5
+3147;M;14;Michigan;6
+3148;M;20;Arkansas;3
+3149;M;4;Califórnia;4
+3150;F;3;Califórnia;5
+3151;F;0;Califórnia;5
+3152;M;4;Illinois;4
+3153;F;4;Oklahoma;5
+3154;F;4;Califórnia;5
+3155;M;7;Minnesota;5
+3156;M;7;Nova Jérsia;6
+3157;M;12;Califórnia;5
+3158;M;15;Pensilvânia;6
+3159;F;15;Pensilvânia;4
+3160;M;17;Texas;5
+3161;M;7;Minnesota;5
+3162;M;1;Nova Jérsia;6
+3163;M;15;Califórnia;3
+3164;M;12;Minnesota;3
+3165;M;7;Illinois;6
+3166;M;4;Flórida;4
+3167;M;2;Texas;5
+3168;F;5;Califórnia;6
+3169;M;0;Virgínia;7
+3170;M;0;Nova Jérsia;5
+3171;F;3;Nova Iorque (estado);8
+3172;M;12;Minnesota;4
+3173;M;12;Minnesota;6
+3174;F;14;Nova Iorque (estado);3
+3175;M;16;Nova Iorque (estado);6
+3176;M;17;Califórnia;5
+3177;F;6;Califórnia;6
+3178;F;5;Ohio;6
+3179;F;20;Massachusetts;4
+3180;M;14;Nova Jérsia;5
+3181;M;12;Nova Jérsia;6
+3182;M;12;Nova Iorque (estado);6
+3183;M;7;Illinois;8
+3184;F;18;Maryland;6
+3185;M;7;Minnesota;4
+3186;M;1;Califórnia;8
+3187;M;12;Flórida;6
+3188;M;13;Minnesota;8
+3189;M;16;Califórnia;5
+3190;M;17;Oregon;0
+3191;M;12;Carolina do Norte;5
+3192;M;4;Rhode Island;4
+3193;M;0;Califórnia;5
+3194;M;15;Califórnia;5
+3195;M;4;Colorado;4
+3196;F;4;Ohio;4
+3197;F;14;Califórnia;4
+3198;M;12;Califórnia;6
+3199;M;0;Dakota do Sul;3
+3200;F;1;Washington;5
+3201;M;7;Alabama;7
+3202;F;4;Virgínia;4
+3203;M;0;Califórnia;6
+3204;M;16;Colorado;7
+3205;F;16;Colorado;6
+3206;M;20;Ohio;4
+3207;M;7;Illinois;6
+3208;M;14;Geórgia (Estados Unidos);6
+3209;M;0;Maryland;6
+3210;F;0;Massachusetts;7
+3211;M;16;Washington, D.C.;8
+3212;F;17;Nova Iorque (estado);5
+3213;F;1;Idaho;6
+3214;F;7;Nova Iorque (estado);9
+3215;F;13;Minnesota;8
+3216;M;1;Wisconsin;6
+3217;F;0;Califórnia;7
+3218;M;6;Michigan;8
+3219;F;4;Wisconsin;3
+3220;M;7;Wisconsin;7
+3221;M;0;Pensilvânia;6
+3222;M;7;Nova Iorque (estado);6
+3223;M;20;Nova Iorque (estado);6
+3224;F;14;Califórnia;5
+3225;M;0;Pensilvânia;4
+3226;M;4;Nova Iorque (estado);7
+3227;F;14;Illinois;6
+3228;M;14;Vermont;5
+3229;F;1;Califórnia;8
+3230;M;16;Califórnia;7
+3231;M;7;Minnesota;5
+3232;M;12;Califórnia;7
+3233;M;2;Illinois;8
+3234;F;0;Califórnia;0
+3235;M;4;Novo México;4
+3236;M;15;Novo México;4
+3237;M;7;Vermont;6
+3238;M;7;Nova Iorque (estado);6
+3239;F;12;Nova Jérsia;5
+3240;M;4;Minnesota;4
+3241;F;0;Washington, D.C.;8
+3242;M;13;Califórnia;7
+3243;M;12;Washington;6
+3244;F;4;Califórnia;4
+3245;M;2;Nova Jérsia;3
+3246;F;1;Arizona;6
+3247;M;15;Califórnia;6
+3248;F;7;Califórnia;5
+3249;F;4;Califórnia;5
+3250;M;4;Califórnia;6
+3251;M;17;Pensilvânia;7
+3252;M;0;Texas;7
+3253;F;4;Virgínia Ocidental;6
+3254;F;6;Califórnia;6
+3255;F;15;Califórnia;6
+3256;M;15;Califórnia;5
+3257;M;14;Califórnia;6
+3258;M;6;Massachusetts;7
+3259;F;4;Califórnia;3
+3260;M;4;Ohio;5
+3261;M;20;Novo México;7
+3262;M;14;Minnesota;5
+3263;M;11;Missouri;8
+3264;F;1;Califórnia;5
+3265;M;15;Wisconsin;5
+3266;F;4;Califórnia;6
+3267;M;4;Texas;5
+3268;M;12;Maine;5
+3269;F;20;Ohio;4
+3270;M;11;Ohio;4
+3271;F;0;Califórnia;6
+3272;M;0;Nova Jérsia;6
+3273;M;7;Nova Iorque (estado);6
+3274;M;20;Massachusetts;5
+3275;M;7;Nova Iorque (estado);6
+3276;M;20;Minnesota;5
+3277;M;17;Califórnia;5
+3278;M;7;Nova Iorque (estado);6
+3279;M;15;Califórnia;7
+3280;M;7;Flórida;5
+3281;M;17;Texas;5
+3282;M;3;Washington, D.C.;7
+3283;M;16;Kansas;7
+3284;M;6;Michigan;6
+3285;M;4;Ohio;5
+3286;F;7;Colorado;6
+3287;M;13;Carolina do Norte;8
+3288;M;14;Califórnia;5
+3289;M;6;Califórnia;7
+3290;M;14;Califórnia;5
+3291;F;7;Carolina do Norte;5
+3292;F;6;Texas;8
+3293;M;14;Tennessee;7
+3294;M;4;Texas;3
+3295;M;18;Califórnia;4
+3296;M;14;Califórnia;4
+3297;M;4;Califórnia;4
+3298;M;10;Maryland;2
+3299;F;4;Pensilvânia;5
+3300;M;5;Pensilvânia;7
+3301;F;2;Arizona;6
+3302;M;17;Oklahoma;6
+3303;M;17;Connecticut;9
+3304;F;5;Califórnia;7
+3305;M;20;Califórnia;8
+3306;M;14;Illinois;7
+3307;M;6;Califórnia;8
+3308;F;20;Pensilvânia;3
+3309;M;17;Maryland;6
+3310;M;14;Nova Iorque (estado);7
+3311;M;4;Califórnia;6
+3312;F;4;Califórnia;3
+3313;M;20;Califórnia;7
+3314;M;7;Connecticut;5
+3315;M;12;Texas;6
+3316;M;19;Califórnia;0
+3317;M;4;Texas;6
+3318;M;13;Geórgia (Estados Unidos);8
+3319;F;13;Califórnia;8
+3320;M;1;Minnesota;5
+3321;M;1;Califórnia;6
+3322;F;4;Nebraska;4
+3323;M;14;Nova Iorque (estado);6
+3324;M;17;Michigan;6
+3325;F;14;Mississippi;7
+3326;M;7;Missouri;7
+3327;M;12;Califórnia;4
+3328;M;19;Califórnia;8
+3329;M;18;Arkansas;8
+3330;F;1;Indiana;7
+3331;F;7;Connecticut;6
+3332;M;7;Connecticut;5
+3333;M;16;Carolina do Sul;4
+3334;M;0;;7
+3335;M;0;Nova Iorque (estado);6
+3336;M;17;Califórnia;6
+3337;M;4;Oregon;5
+3338;M;16;Nova Jérsia;7
+3339;M;17;Ohio;5
+3340;M;16;Michigan;7
+3341;M;20;Califórnia;5
+3342;F;5;Califórnia;6
+3343;F;4;Texas;4
+3344;M;0;Nova Jérsia;7
+3345;M;7;Pensilvânia;5
+3346;M;7;Wisconsin;6
+3347;F;7;Califórnia;6
+3348;M;16;Califórnia;7
+3349;F;4;Califórnia;3
+3350;F;0;Maryland;4
+3351;F;5;Califórnia;3
+3352;M;0;Geórgia (Estados Unidos);6
+3353;M;17;Califórnia;6
+3354;M;7;Pensilvânia;5
+3355;M;1;;6
+3356;M;7;Califórnia;6
+3357;M;18;Missouri;6
+3358;F;1;Califórnia;4
+3359;M;20;Virgínia;6
+3360;F;0;Califórnia;5
+3361;M;4;Califórnia;6
+3362;F;0;Califórnia;5
+3363;F;9;Maine;6
+3364;M;13;Pensilvânia;8
+3365;M;17;Virgínia;7
+3366;M;14;Nova Jérsia;6
+3367;M;16;Nova Iorque (estado);7
+3368;M;14;Minnesota;5
+3369;M;18;Nova Iorque (estado);7
+3370;M;4;Califórnia;4
+3371;M;2;Minnesota;5
+3372;M;13;Minnesota;8
+3373;M;16;Califórnia;4
+3374;M;5;Missouri;6
+3375;M;4;Nevada;5
+3376;M;16;Nova Iorque (estado);6
+3377;M;17;Nova Hampshire;5
+3378;M;4;Michigan;4
+3379;M;1;Washington, D.C.;6
+3380;M;0;Maryland;8
+3381;M;0;;5
+3382;F;10;Minnesota;0
+3383;M;16;Nova Hampshire;8
+3384;M;7;Califórnia;6
+3385;F;9;Flórida;6
+3386;M;4;Minnesota;4
+3387;M;1;Califórnia;3
+3388;F;1;Califórnia;6
+3389;M;0;Nova Iorque (estado);4
+3390;F;20;Massachusetts;7
+3391;M;4;Michigan;4
+3392;M;6;Nova Jérsia;7
+3393;M;12;Illinois;7
+3394;M;7;Califórnia;6
+3395;M;7;Massachusetts;6
+3396;M;12;Pensilvânia;6
+3397;M;5;Minnesota;5
+3398;M;20;Geórgia (Estados Unidos);4
+3399;M;4;Nova Iorque (estado);4
+3400;M;14;Nova Jérsia;5
+3401;M;7;Texas;6
+3402;M;20;Geórgia (Estados Unidos);6
+3403;M;5;Michigan;6
+3404;M;8;Califórnia;5
+3405;M;14;Califórnia;6
+3406;F;7;Arizona;5
+3407;F;5;Illinois;7
+3408;M;17;Nova Iorque (estado);6
+3409;M;4;Michigan;5
+3410;M;1;Maryland;6
+3411;M;4;Massachusetts;4
+3412;M;18;Arizona;5
+3413;F;17;Califórnia;5
+3414;M;17;Texas;5
+3415;M;7;Colorado;6
+3416;M;12;Maryland;5
+3417;F;2;Nova Iorque (estado);4
+3418;F;3;Virgínia;4
+3419;M;1;Pensilvânia;7
+3420;F;7;Michigan;6
+3421;M;7;Califórnia;7
+3422;M;5;Ohio;5
+3423;M;7;Utah;5
+3424;M;6;Califórnia;5
+3425;M;20;Michigan;4
+3426;M;20;Califórnia;5
+3427;M;14;Texas;6
+3428;M;1;Indiana;7
+3429;F;7;Califórnia;4
+3430;F;1;Pensilvânia;7
+3431;F;6;Michigan;7
+3432;M;12;Carolina do Norte;5
+3433;M;12;Minnesota;3
+3434;M;4;Michigan;4
+3435;M;1;Michigan;7
+3436;M;0;Washington;6
+3437;F;0;Tennessee;6
+3438;F;0;Texas;5
+3439;M;17;Texas;4
+3440;M;17;Flórida;9
+3441;F;14;Califórnia;4
+3442;M;12;Maryland;4
+3443;F;17;Michigan;6
+3444;M;14;Flórida;8
+3445;F;20;Califórnia;6
+3446;M;7;Geórgia (Estados Unidos);5
+3447;M;12;Califórnia;6
+3448;F;3;Illinois;4
+3449;M;14;Massachusetts;5
+3450;M;5;Texas;5
+3451;F;11;Califórnia;6
+3452;M;14;Nova Jérsia;4
+3453;M;7;Nova Jérsia;7
+3454;M;0;Califórnia;4
+3455;F;0;Nova Jérsia;5
+3456;M;17;Wisconsin;4
+3457;M;20;Pensilvânia;5
+3458;M;0;Massachusetts;7
+3459;M;4;Texas;3
+3460;M;4;Nova Iorque (estado);2
+3461;M;0;Califórnia;6
+3462;F;4;Oklahoma;5
+3463;M;15;Colorado;5
+3464;F;14;Texas;6
+3465;M;14;Ohio;5
+3466;M;14;Califórnia;5
+3467;M;14;Minnesota;5
+3468;M;20;Califórnia;5
+3469;M;17;Massachusetts;7
+3470;M;17;Michigan;6
+3471;M;4;Colorado;4
+3472;M;6;Flórida;5
+3473;F;16;Massachusetts;7
+3474;M;11;Nova Iorque (estado);6
+3475;M;14;Flórida;5
+3476;M;0;Ohio;8
+3477;F;1;Nova Iorque (estado);8
+3478;M;7;Nova Iorque (estado);6
+3479;M;4;Texas;3
+3480;M;0;Montana;6
+3481;M;4;Califórnia;4
+3482;M;17;Nova Jérsia;8
+3483;F;7;Geórgia (Estados Unidos);7
+3484;M;4;Carolina do Norte;4
+3485;M;0;Califórnia;6
+3486;F;0;Washington;4
+3487;M;4;Illinois;4
+3488;M;17;Colorado;7
+3489;M;4;Illinois;4
+3490;M;0;Oklahoma;6
+3491;M;16;Carolina do Norte;5
+3492;M;7;Texas;6
+3493;M;17;Illinois;5
+3494;M;1;Carolina do Norte;5
+3495;M;4;Califórnia;4
+3496;M;5;Califórnia;6
+3497;F;2;Califórnia;7
+3498;M;17;Carolina do Norte;5
+3499;M;3;Texas;5
+3500;M;7;Maryland;7
+3501;F;7;Geórgia (Estados Unidos);7
+3502;F;7;Colorado;4
+3503;M;4;Montana;4
+3504;M;7;Massachusetts;4
+3505;F;15;Minnesota;6
+3506;M;12;Colorado;4
+3507;M;0;Massachusetts;5
+3508;M;4;Massachusetts;3
+3509;M;4;Massachusetts;3
+3510;F;4;Massachusetts;4
+3511;M;0;Novo México;8
+3512;M;17;Massachusetts;4
+3513;M;16;Massachusetts;6
+3514;M;12;Geórgia (Estados Unidos);4
+3515;M;3;Minnesota;6
+3516;M;4;Kentucky;4
+3517;M;12;Wisconsin;4
+3518;F;7;Nova Iorque (estado);4
+3519;F;14;Nova Iorque (estado);5
+3520;M;0;Kentucky;5
+3521;M;0;Wisconsin;5
+3522;M;0;Oregon;3
+3523;M;7;Wisconsin;6
+3524;F;0;Idaho;6
+3525;F;4;Massachusetts;3
+3526;M;2;Illinois;6
+3527;M;0;Wisconsin;5
+3528;M;5;Kentucky;6
+3529;F;1;Oregon;7
+3530;M;0;Texas;6
+3531;F;11;Minnesota;5
+3532;F;14;Nova Iorque (estado);6
+3533;M;2;Minnesota;4
+3534;M;17;Nebraska;6
+3535;M;18;Texas;7
+3536;M;4;Dakota do Sul;3
+3537;M;10;Oregon;0
+3538;M;0;Kentucky;7
+3539;F;4;Texas;5
+3540;M;17;Dakota do Sul;4
+3541;M;3;Massachusetts;5
+3542;M;15;Nova Iorque (estado);5
+3543;M;17;Illinois;5
+3544;F;4;Califórnia;5
+3545;M;12;Califórnia;7
+3546;M;20;Kentucky;6
+3547;M;16;Califórnia;7
+3548;M;7;Califórnia;7
+3549;F;7;Illinois;7
+3550;M;5;Minnesota;4
+3551;F;0;Washington;8
+3552;F;2;Rhode Island;6
+3553;M;16;Illinois;6
+3554;M;15;Pensilvânia;4
+3555;M;7;Minnesota;8
+3556;M;17;Nova Hampshire;5
+3557;M;5;Michigan;4
+3558;M;17;Missouri;3
+3559;M;4;Nova Iorque (estado);4
+3560;F;6;Oklahoma;6
+3561;M;14;Missouri;6
+3562;F;6;Flórida;6
+3563;M;2;Flórida;4
+3564;M;11;Massachusetts;5
+3565;M;18;Wisconsin;5
+3566;M;0;Wisconsin;7
+3567;M;14;Wisconsin;5
+3568;M;0;Washington;5
+3569;F;2;Michigan;4
+3570;M;12;Pensilvânia;6
+3571;M;4;Nova Iorque (estado);3
+3572;M;11;Maine;7
+3573;M;10;Michigan;2
+3574;F;6;Flórida;6
+3575;M;18;Wisconsin;5
+3576;M;7;Nebraska;7
+3577;F;0;;8
+3578;M;3;Havaí;8
+3579;M;0;Flórida;4
+3580;F;3;Flórida;4
+3581;M;1;Dakota do Sul;4
+3582;F;0;Iowa;7
+3583;F;9;Kentucky;5
+3584;M;0;Texas;3
+3585;M;20;Illinois;6
+3586;M;20;Illinois;6
+3587;M;3;Califórnia;7
+3588;M;2;Califórnia;6
+3589;F;0;Colorado;7
+3590;F;15;Massachusetts;3
+3591;M;6;Califórnia;6
+3592;F;2;Alasca;8
+3593;F;9;Wisconsin;5
+3594;M;0;Massachusetts;1
+3595;M;0;Arizona;5
+3596;F;4;Pensilvânia;7
+3597;M;17;Minnesota;6
+3598;M;1;Califórnia;8
+3599;M;16;Oregon;6
+3600;M;20;Califórnia;7
+3601;F;3;Califórnia;7
+3602;M;12;Minnesota;5
+3603;F;7;Texas;6
+3604;F;10;Rhode Island;0
+3605;M;12;Illinois;4
+3606;F;15;Massachusetts;6
+3607;M;17;Flórida;6
+3608;F;9;Rhode Island;7
+3609;F;17;Michigan;5
+3610;M;6;Geórgia (Estados Unidos);3
+3611;M;2;Utah;6
+3612;M;14;Carolina do Sul;6
+3613;M;0;Tennessee;5
+3614;M;0;Ohio;6
+3615;M;17;Texas;6
+3616;M;0;Flórida;7
+3617;M;7;Michigan;6
+3618;M;17;Virgínia;8
+3619;M;16;Oregon;8
+3620;M;7;Califórnia;6
+3621;M;4;Flórida;4
+3622;M;1;Massachusetts;4
+3623;M;11;Ohio;7
+3624;M;12;Illinois;5
+3625;M;10;Michigan;4
+3626;M;17;Texas;6
+3627;F;1;Arizona;6
+3628;M;7;Texas;5
+3629;F;7;Nova Iorque (estado);8
+3630;M;4;Texas;4
+3631;M;4;Texas;4
+3632;M;11;Flórida;8
+3633;M;18;Illinois;7
+3634;M;1;Novo México;8
+3635;M;1;Illinois;8
+3636;M;0;Connecticut;4
+3637;M;6;Califórnia;5
+3638;M;2;Califórnia;6
+3639;M;4;Texas;4
+3640;M;7;Massachusetts;6
+3641;M;0;Califórnia;5
+3642;F;7;Washington;6
+3643;M;17;Virgínia;6
+3644;F;11;Wisconsin;6
+3645;M;17;Oregon;6
+3646;M;20;Washington;6
+3647;M;7;Colorado;5
+3648;M;4;Arizona;4
+3649;F;0;Califórnia;4
+3650;M;0;Illinois;5
+3651;M;14;Washington;5
+3652;M;12;Califórnia;5
+3653;M;15;;4
+3654;M;17;Califórnia;6
+3655;F;7;Califórnia;5
+3656;F;5;Flórida;7
+3657;M;17;Califórnia;4
+3658;F;7;Nova Jérsia;5
+3659;M;4;Carolina do Sul;4
+3660;M;7;Pensilvânia;7
+3661;M;12;Nova Jérsia;6
+3662;M;16;Nova Jérsia;7
+3663;F;9;Pensilvânia;6
+3664;F;1;Califórnia;6
+3665;M;0;Califórnia;6
+3666;M;0;Nebraska;7
+3667;F;10;Nova Iorque (estado);2
+3668;F;7;Flórida;7
+3669;M;14;Illinois;6
+3670;M;14;Minnesota;7
+3671;M;4;Washington;6
+3672;M;5;Nova Jérsia;6
+3673;M;2;Nova Iorque (estado);5
+3674;M;20;Carolina do Sul;5
+3675;M;7;Connecticut;6
+3676;F;12;Michigan;7
+3677;F;12;Connecticut;5
+3678;M;0;Connecticut;5
+3679;M;4;Nebraska;5
+3680;F;1;Califórnia;5
+3681;M;7;Carolina do Sul;6
+3682;F;1;Nova Iorque (estado);8
+3683;M;2;Geórgia (Estados Unidos);5
+3684;M;17;Idaho;6
+3685;M;5;Minnesota;5
+3686;M;7;Michigan;5
+3687;F;1;Illinois;7
+3688;M;6;Maryland;4
+3689;M;0;Colorado;5
+3690;M;0;Missouri;4
+3691;M;7;Maryland;5
+3692;M;17;Nevada;7
+3693;M;15;Califórnia;6
+3694;M;12;Carolina do Norte;5
+3695;M;2;Washington;6
+3696;M;7;Pensilvânia;7
+3697;M;15;Nebraska;5
+3698;M;7;Wisconsin;5
+3699;F;3;Geórgia (Estados Unidos);9
+3700;M;14;Nova Iorque (estado);5
+3701;M;1;Califórnia;7
+3702;M;15;Wisconsin;6
+3703;M;12;Oregon;3
+3704;F;0;Maine;6
+3705;M;7;Geórgia (Estados Unidos);7
+3706;M;12;Indiana;5
+3707;F;0;Flórida;4
+3708;M;7;Geórgia (Estados Unidos);8
+3709;M;12;Nevada;5
+3710;M;10;Rhode Island;0
+3711;M;0;Flórida;6
+3712;M;17;Illinois;6
+3713;F;7;Maryland;5
+3714;M;17;Califórnia;6
+3715;M;5;Minnesota;4
+3716;M;12;Alabama;4
+3717;M;17;Califórnia;6
+3718;M;17;Nova Jérsia;8
+3719;M;1;Mississippi;5
+3720;M;7;Ohio;7
+3721;M;15;Califórnia;5
+3722;M;18;Colorado;5
+3723;M;14;Wisconsin;6
+3724;M;6;Texas;6
+3725;M;4;Flórida;4
+3726;M;17;Califórnia;5
+3727;M;7;Oklahoma;7
+3728;M;4;Nova Jérsia;4
+3729;M;4;Washington, D.C.;4
+3730;M;1;Michigan;6
+3731;M;17;Kansas;5
+3732;M;17;Illinois;5
+3733;M;4;Massachusetts;3
+3734;M;4;Texas;3
+3735;M;0;Nova Iorque (estado);6
+3736;M;1;Ohio;6
+3737;M;14;Tennessee;6
+3738;M;7;Massachusetts;7
+3739;M;11;Michigan;9
+3740;M;5;Minnesota;4
+3741;M;0;Havaí;5
+3742;M;0;Califórnia;4
+3743;F;7;Nevada;7
+3744;M;0;Illinois;5
+3745;F;9;Michigan;6
+3746;M;5;Wisconsin;5
+3747;M;13;Nevada;7
+3748;M;4;Massachusetts;4
+3749;F;0;Illinois;5
+3750;F;4;Califórnia;4
+3751;F;12;Minnesota;6
+3752;F;1;Arizona;4
+3753;M;7;Kentucky;5
+3754;M;7;Califórnia;9
+3755;F;14;Nova Jérsia;7
+3756;M;12;Wisconsin;4
+3757;M;7;Califórnia;6
+3758;F;5;Massachusetts;7
+3759;M;6;Wisconsin;7
+3760;M;0;Minnesota;7
+3761;M;17;Carolina do Norte;5
+3762;M;6;Nova Iorque (estado);7
+3763;M;2;Washington;5
+3764;M;1;Connecticut;6
+3765;F;3;Flórida;8
+3766;F;1;Ohio;3
+3767;M;0;Califórnia;5
+3768;M;4;Arizona;6
+3769;M;15;Massachusetts;6
+3770;F;3;Iowa;7
+3771;M;1;Nova Iorque (estado);5
+3772;M;17;Connecticut;6
+3773;M;6;Iowa;6
+3774;M;0;Iowa;6
+3775;M;12;Nova Iorque (estado);6
+3776;F;4;Iowa;5
+3777;M;4;Virgínia;4
+3778;M;0;Illinois;6
+3779;F;2;Washington;7
+3780;M;0;Indiana;0
+3781;F;11;Wisconsin;8
+3782;F;0;Califórnia;5
+3783;M;7;Oregon;6
+3784;F;1;Washington;5
+3785;F;20;Califórnia;5
+3786;F;0;Califórnia;5
+3787;F;0;Califórnia;5
+3788;F;0;Califórnia;4
+3789;F;0;Califórnia;6
+3790;F;17;Califórnia;5
+3791;M;18;Illinois;7
+3792;M;6;Nebraska;5
+3793;M;4;Maryland;4
+3794;F;4;Wisconsin;3
+3795;F;4;Califórnia;4
+3796;M;14;Massachusetts;7
+3797;M;7;Massachusetts;5
+3798;M;7;Michigan;5
+3799;M;0;Pensilvânia;3
+3800;M;1;Ohio;4
+3801;M;12;Alabama;4
+3802;M;0;Califórnia;4
+3803;F;9;Pensilvânia;6
+3804;M;6;Connecticut;5
+3805;F;1;Nevada;6
+3806;M;4;Minnesota;4
+3807;F;19;Flórida;7
+3808;M;7;Illinois;5
+3809;M;6;Maryland;7
+3810;M;7;Washington, D.C.;7
+3811;M;15;Washington;6
+3812;M;17;Texas;6
+3813;M;7;Colorado;7
+3814;M;15;Washington;5
+3815;M;17;Wisconsin;6
+3816;F;3;Califórnia;6
+3817;M;3;;6
+3818;M;17;Flórida;7
+3819;M;12;Alabama;6
+3820;M;17;Califórnia;4
+3821;M;20;Ohio;5
+3822;M;20;Washington;7
+3823;M;7;Califórnia;8
+3824;M;17;Flórida;6
+3825;M;1;Connecticut;3
+3826;M;1;Michigan;5
+3827;M;2;Novo México;7
+3828;M;20;Califórnia;5
+3829;F;1;Virgínia;6
+3830;M;4;Illinois;4
+3831;F;6;Utah;4
+3832;F;7;Ohio;6
+3833;M;1;Nebraska;6
+3834;M;2;Massachusetts;4
+3835;M;7;Kentucky;6
+3836;F;8;Utah;8
+3837;M;17;Carolina do Norte;5
+3838;F;14;Nova Iorque (estado);5
+3839;M;14;Massachusetts;8
+3840;F;0;Massachusetts;5
+3841;M;18;Virgínia Ocidental;7
+3842;F;16;Califórnia;6
+3843;F;10;Flórida;0
+3844;M;4;Oklahoma;4
+3845;M;12;Califórnia;5
+3846;M;0;Flórida;7
+3847;M;7;Nova Iorque (estado);5
+3848;M;15;Luisiana;5
+3849;M;0;Nova Iorque (estado);6
+3850;M;3;Califórnia;3
+3851;M;12;Illinois;6
+3852;M;16;Illinois;8
+3853;M;14;Califórnia;5
+3854;M;14;Geórgia (Estados Unidos);6
+3855;M;17;Maryland;5
+3856;F;20;Califórnia;6
+3857;M;14;Nova Jérsia;3
+3858;F;9;Missouri;7
+3859;M;0;Nevada;6
+3860;M;17;Ohio;7
+3861;M;4;Nova Iorque (estado);3
+3862;M;17;Nova Iorque (estado);4
+3863;M;0;Califórnia;5
+3864;M;20;Carolina do Sul;7
+3865;F;10;Califórnia;1
+3866;M;14;Missouri;7
+3867;M;3;Ohio;7
+3868;M;12;Oklahoma;4
+3869;M;17;Missouri;4
+3870;M;17;Califórnia;5
+3871;M;4;Missouri;4
+3872;M;1;Nova Iorque (estado);5
+3873;F;2;Califórnia;7
+3874;M;7;Califórnia;6
+3875;M;0;Kansas;5
+3876;M;0;Nova Iorque (estado);5
+3877;M;1;Flórida;7
+3878;M;16;Maryland;6
+3879;M;3;Idaho;6
+3880;M;7;Wisconsin;5
+3881;M;2;Ohio;4
+3882;M;14;Minnesota;8
+3883;M;16;Texas;8
+3884;M;4;Texas;4
+3885;M;12;Califórnia;5
+3886;M;7;Califórnia;7
+3887;M;4;Colorado;4
+3888;M;17;Massachusetts;7
+3889;M;6;Kansas;7
+3890;M;4;Flórida;4
+3891;F;16;Califórnia;8
+3892;M;20;Califórnia;5
+3893;M;6;Texas;5
+3894;M;16;Massachusetts;7
+3895;F;0;Maryland;7
+3896;M;0;Illinois;6
+3897;M;17;Califórnia;8
+3898;M;11;Massachusetts;7
+3899;M;17;Massachusetts;6
+3900;F;14;Minnesota;5
+3901;M;14;Arizona;4
+3902;M;5;Indiana;5
+3903;M;0;Massachusetts;6
+3904;M;10;Michigan;1
+3905;M;17;;5
+3906;M;17;Wisconsin;8
+3907;F;14;Maryland;4
+3908;M;0;Nova Iorque (estado);5
+3909;M;17;Pensilvânia;3
+3910;M;20;Califórnia;5
+3911;M;0;Califórnia;4
+3912;M;4;Pensilvânia;4
+3913;M;17;Kentucky;4
+3914;M;4;Utah;6
+3915;F;3;Luisiana;6
+3916;M;4;Massachusetts;5
+3917;F;9;Illinois;6
+3918;M;18;Geórgia (Estados Unidos);6
+3919;M;0;Oklahoma;7
+3920;M;17;Missouri;7
+3921;M;14;Califórnia;6
+3922;M;4;Wisconsin;4
+3923;M;2;Califórnia;6
+3924;M;12;Califórnia;8
+3925;M;12;Texas;5
+3926;M;2;Califórnia;5
+3927;F;16;Kansas;6
+3928;M;0;Minnesota;6
+3929;M;5;Colorado;4
+3930;M;3;Iowa;9
+3931;M;5;Califórnia;5
+3932;M;7;Michigan;5
+3933;F;6;Michigan;6
+3934;M;0;Ohio;5
+3935;M;18;Arkansas;7
+3936;F;12;Massachusetts;6
+3937;M;2;Califórnia;9
+3938;M;2;Califórnia;6
+3939;M;7;Califórnia;7
+3940;M;20;Flórida;6
+3941;M;17;Kentucky;7
+3942;M;4;Michigan;4
+3943;F;7;Washington;6
+3944;F;16;Colorado;7
+3945;F;1;Havaí;7
+3946;F;12;Maryland;5
+3947;M;0;Califórnia;6
+3948;F;12;Illinois;7
+3949;M;0;Ohio;7
+3950;M;4;Illinois;5
+3951;F;4;Illinois;4
+3952;F;1;Nova Iorque (estado);7
+3953;M;12;Minnesota;5
+3954;M;4;Flórida;4
+3955;M;0;Nova Iorque (estado);6
+3956;M;0;Califórnia;5
+3957;M;11;Kentucky;7
+3958;M;7;Indiana;7
+3959;F;1;Nova Hampshire;7
+3960;F;14;Minnesota;6
+3961;M;1;Ohio;4
+3962;F;0;Washington;9
+3963;M;20;Geórgia (Estados Unidos);8
+3964;M;16;Kansas;9
+3965;M;11;Missouri;3
+3966;M;0;Geórgia (Estados Unidos);6
+3967;F;2;Nova Iorque (estado);3
+3968;M;2;Rhode Island;6
+3969;M;7;Nova Iorque (estado);8
+3970;F;2;Rhode Island;5
+3971;F;4;Colorado;4
+3972;F;6;Virgínia;6
+3973;M;7;Illinois;6
+3974;M;0;Geórgia (Estados Unidos);6
+3975;F;5;Ohio;5
+3976;F;0;Ohio;5
+3977;M;14;Maryland;6
+3978;M;13;Texas;7
+3979;F;9;Montana;7
+3980;M;4;Kansas;5
+3981;F;0;Oregon;7
+3982;M;13;Califórnia;8
+3983;M;0;Geórgia (Estados Unidos);5
+3984;M;7;Texas;6
+3985;M;16;Massachusetts;7
+3986;M;7;Flórida;5
+3987;F;4;Massachusetts;4
+3988;F;14;Illinois;5
+3989;M;12;Geórgia (Estados Unidos);7
+3990;M;16;Pensilvânia;4
+3991;M;7;Flórida;6
+3992;M;4;Flórida;5
+3993;M;0;Maryland;6
+3994;M;7;Ohio;8
+3995;M;17;Virgínia;6
+3996;M;14;Flórida;4
+3997;M;17;Ohio;6
+3998;M;0;Oklahoma;7
+3999;M;17;Geórgia (Estados Unidos);7
+4000;M;7;Nova Jérsia;6
+4001;F;1;Massachusetts;5
+4002;M;16;Maryland;7
+4003;M;13;Indiana;8
+4004;M;0;Maryland;8
+4005;M;7;Nova Iorque (estado);6
+4006;M;7;Michigan;1
+4007;M;12;Novo México;6
+4008;M;1;Califórnia;4
+4009;M;7;Ohio;4
+4010;M;14;Califórnia;5
+4011;M;17;Arizona;5
+4012;M;4;Michigan;4
+4013;M;1;Texas;5
+4014;M;0;Michigan;6
+4015;F;3;Texas;7
+4016;M;0;Flórida;8
+4017;M;14;Pensilvânia;5
+4018;F;20;Texas;7
+4019;M;17;Wisconsin;6
+4020;M;6;Texas;5
+4021;M;20;Califórnia;8
+4022;M;14;Wisconsin;7
+4023;F;9;Flórida;7
+4024;M;5;Ohio;4
+4025;F;6;Texas;8
+4026;M;7;Nebraska;4
+4027;F;7;Nova Iorque (estado);5
+4028;M;4;Massachusetts;5
+4029;F;3;Maryland;8
+4030;M;7;Nevada;7
+4031;M;0;Kentucky;5
+4032;M;12;Minnesota;5
+4033;M;6;Ohio;6
+4034;M;0;Maryland;5
+4035;M;4;Ohio;4
+4036;M;1;Indiana;5
+4037;M;16;Colorado;8
+4038;M;6;Nova Iorque (estado);8
+4039;M;16;Oregon;5
+4040;M;20;Texas;5
+4041;M;3;Michigan;4
+4042;M;15;Califórnia;7
+4043;F;15;Califórnia;5
+4044;F;3;Califórnia;7
+4045;M;13;Kentucky;8
+4046;M;17;Wisconsin;7
+4047;M;4;Geórgia (Estados Unidos);4
+4048;F;1;Nevada;6
+4049;M;11;Flórida;7
+4050;M;6;Illinois;6
+4051;M;14;Massachusetts;4
+4052;M;2;Ohio;5
+4053;M;18;Alabama;5
+4054;M;3;Nebraska;7
+4055;M;0;Washington;7
+4056;M;10;Carolina do Norte;1
+4057;M;6;Pensilvânia;6
+4058;M;6;Oklahoma;5
+4059;M;14;Colorado;5
+4060;M;18;Minnesota;5
+4061;M;6;Flórida;8
+4062;M;7;Illinois;5
+4063;F;1;Carolina do Sul;7
+4064;M;0;Maryland;7
+4065;F;5;Michigan;7
+4066;M;0;Pensilvânia;5
+4067;M;20;Califórnia;7
+4068;M;3;Nevada;8
+4069;M;15;Pensilvânia;6
+4070;M;15;Califórnia;5
+4071;M;17;Flórida;5
+4072;M;6;Califórnia;8
+4073;M;6;Luisiana;5
+4074;M;6;Texas;6
+4075;M;16;Indiana;6
+4076;M;17;Minnesota;4
+4077;F;2;Maryland;6
+4078;M;15;Carolina do Norte;5
+4079;M;17;Virgínia Ocidental;7
+4080;M;1;Michigan;6
+4081;M;12;Pensilvânia;3
+4082;M;20;Texas;6
+4083;M;14;Califórnia;9
+4084;M;13;Nova Iorque (estado);9
+4085;F;6;Texas;6
+4086;F;10;Minnesota;0
+4087;M;4;Missouri;0
+4088;M;3;Texas;5
+4089;M;7;Texas;6
+4090;M;6;Texas;9
+4091;M;17;Minnesota;6
+4092;F;0;Pensilvânia;6
+4093;M;4;Luisiana;6
+4094;M;17;Michigan;6
+4095;M;0;Nova Iorque (estado);5
+4096;M;15;Illinois;5
+4097;M;7;Missouri;5
+4098;M;7;Wisconsin;7
+4099;M;17;Califórnia;7
+4100;M;6;Texas;9
+4101;M;4;Virgínia;3
+4102;M;10;Michigan;0
+4103;M;16;Nova Iorque (estado);4
+4104;M;16;Kentucky;4
+4105;M;7;Flórida;8
+4106;M;16;Califórnia;5
+4107;F;0;Virgínia;5
+4108;M;17;Texas;7
+4109;M;3;Oregon;7
+4110;F;7;Kentucky;7
+4111;M;15;Flórida;6
+4112;M;18;Indiana;7
+4113;M;17;Dakota do Norte;7
+4114;M;14;Michigan;6
+4115;M;15;Washington;4
+4116;M;7;Nova Jérsia;6
+4117;M;4;Ohio;4
+4118;M;3;Califórnia;6
+4119;M;1;Mississippi;8
+4120;M;16;Luisiana;6
+4121;M;7;Nova Jérsia;7
+4122;M;19;Wyoming;4
+4123;F;4;Indiana;6
+4124;M;18;Illinois;4
+4125;M;2;Nova Iorque (estado);6
+4126;M;17;Wisconsin;6
+4127;M;17;Pensilvânia;8
+4128;M;6;Illinois;6
+4129;M;11;Nova Iorque (estado);8
+4130;M;6;Michigan;7
+4131;M;7;Oregon;7
+4132;M;17;Colorado;6
+4133;M;4;Texas;7
+4134;F;12;Arizona;7
+4135;M;10;Indiana;1
+4136;M;16;Illinois;8
+4137;M;7;Califórnia;5
+4138;M;7;Califórnia;6
+4139;M;14;Kentucky;8
+4140;M;0;Flórida;6
+4141;M;17;Califórnia;6
+4142;M;7;Massachusetts;9
+4143;F;5;Illinois;5
+4144;M;4;Massachusetts;4
+4145;F;1;Texas;8
+4146;M;17;Ohio;6
+4147;F;7;Rhode Island;8
+4148;F;7;Minnesota;7
+4149;M;1;Flórida;6
+4150;M;0;Carolina do Sul;4
+4151;M;20;Ohio;7
+4152;M;14;Oklahoma;5
+4153;M;17;Pensilvânia;7
+4154;M;1;Carolina do Sul;5
+4155;M;17;Arizona;8
+4156;M;20;Califórnia;9
+4157;M;18;Oregon;8
+4158;F;10;Califórnia;1
+4159;F;9;Massachusetts;8
+4160;M;20;Nova Iorque (estado);7
+4161;M;0;Califórnia;7
+4162;F;14;Virgínia;5
+4163;M;7;Nova Jérsia;9
+4164;M;1;Iowa;6
+4165;F;14;Califórnia;6
+4166;F;7;Texas;5
+4167;M;20;Maryland;5
+4168;F;6;Tennessee;7
+4169;M;0;Missouri;8
+4170;M;7;Wisconsin;7
+4171;M;16;Texas;8
+4172;M;7;Delaware;7
+4173;F;11;Carolina do Sul;3
+4174;F;3;;7
+4175;M;0;Kansas;7
+4176;M;7;Pensilvânia;7
+4177;M;17;Califórnia;6
+4178;F;16;Nova Jérsia;8
+4179;F;20;Califórnia;6
+4180;M;13;Nova Iorque (estado);9
+4181;F;7;Flórida;6
+4182;M;18;Colorado;5
+4183;M;1;Califórnia;5
+4184;M;7;Flórida;8
+4185;M;14;Califórnia;6
+4186;M;7;Flórida;5
+4187;F;20;Missouri;9
+4188;M;7;Oklahoma;8
+4189;M;14;Califórnia;6
+4190;M;17;Nevada;7
+4191;F;15;Minnesota;7
+4192;M;17;Texas;7
+4193;M;13;Califórnia;9
+4194;M;4;Illinois;4
+4195;F;13;Califórnia;8
+4196;M;14;Nova Iorque (estado);6
+4197;F;1;Pensilvânia;7
+4198;M;4;Colorado;4
+4199;F;9;Flórida;6
+4200;M;7;Nova Iorque (estado);7
+4201;F;0;Missouri;5
+4202;M;7;Maryland;5
+4203;M;18;Dakota do Norte;5
+4204;M;7;Connecticut;7
+4205;F;15;Novo México;5
+4206;F;1;Virgínia;6
+4207;M;1;Califórnia;6
+4208;F;0;Califórnia;6
+4209;M;0;Tennessee;9
+4210;M;17;Arizona;4
+4211;M;5;Texas;7
+4212;M;18;Minnesota;8
+4213;M;7;Missouri;6
+4214;F;0;;5
+4215;M;7;Texas;6
+4216;M;17;Massachusetts;5
+4217;M;4;Pensilvânia;4
+4218;M;17;Virgínia;8
+4219;M;17;Califórnia;6
+4220;M;0;Oregon;6
+4221;M;4;Wisconsin;6
+4222;F;17;Minnesota;7
+4223;F;17;Illinois;6
+4224;F;1;Michigan;7
+4225;F;3;Michigan;4
+4226;F;6;Texas;6
+4227;M;19;Nova Iorque (estado);6
+4228;M;18;Maryland;7
+4229;M;17;Califórnia;7
+4230;M;13;Flórida;9
+4231;F;18;Maryland;8
+4232;F;20;Texas;6
+4233;M;4;Tennessee;6
+4234;F;3;Michigan;7
+4235;M;2;Califórnia;8
+4236;F;3;Nova Jérsia;6
+4237;M;14;Texas;5
+4238;M;16;Ohio;6
+4239;M;7;Iowa;8
+4240;M;17;Minnesota;6
+4241;M;7;Nova Iorque (estado);6
+4242;M;7;Texas;8
+4243;M;7;Flórida;8
+4244;M;17;Michigan;7
+4245;M;12;Ohio;8
+4246;F;7;Michigan;7
+4247;M;4;Wyoming;5
+4248;M;4;Virgínia Ocidental;6
+4249;F;17;Missouri;4
+4250;F;0;Flórida;8
+4251;M;7;Illinois;7
+4252;F;3;Carolina do Norte;6
+4253;M;11;Nova Hampshire;7
+4254;M;17;Mississippi;5
+4255;M;12;Nova Iorque (estado);8
+4256;F;2;Texas;0
+4257;M;16;Tennessee;8
+4258;M;17;Delaware;5
+4259;M;17;Ohio;6
+4260;M;16;Montana;6
+4261;F;6;Nova Jérsia;6
+4262;F;6;Connecticut;6
+4263;M;7;Kentucky;5
+4264;M;1;Illinois;7
+4265;M;12;Nova Hampshire;5
+4266;M;13;Texas;8
+4267;M;7;Massachusetts;7
+4268;F;20;Maine;7
+4269;M;18;Carolina do Norte;6
+4270;M;7;Nova Iorque (estado);7
+4271;M;7;Idaho;6
+4272;M;17;Tennessee;7
+4273;M;13;Geórgia (Estados Unidos);7
+4274;F;1;Maine;7
+4275;F;16;Nova Iorque (estado);7
+4276;F;0;Havaí;7
+4277;M;16;Washington;6
+4278;F;7;;7
+4279;M;16;Ohio;5
+4280;M;17;Carolina do Norte;6
+4281;M;13;Califórnia;9
+4282;M;0;Pensilvânia;6
+4283;F;9;Washington;5
+4284;M;7;Kentucky;8
+4285;M;0;Illinois;6
+4286;M;17;Nova Iorque (estado);6
+4287;M;7;Alabama;6
+4288;F;9;Indiana;5
+4289;M;14;Flórida;6
+4290;M;17;Washington;5
+4291;M;14;Washington;7
+4292;M;0;Washington;6
+4293;F;9;Minnesota;7
+4294;M;10;Texas;2
+4295;M;18;Califórnia;4
+4296;M;6;Flórida;8
+4297;M;15;Minnesota;7
+4298;F;14;Arizona;4
+4299;F;2;Ohio;5
+4300;F;4;Washington;4
+4301;M;11;Tennessee;6
+4302;M;1;Ohio;8
+4303;M;2;Califórnia;5
+4304;M;0;Indiana;4
+4305;F;17;Carolina do Norte;7
+4306;M;7;Kansas;7
+4307;M;0;Califórnia;6
+4308;M;0;Flórida;5
+4309;M;0;Alabama;6
+4310;M;4;Dakota do Sul;5
+4311;M;13;Nebraska;8
+4312;M;18;Texas;5
+4313;F;7;Nova Jérsia;5
+4314;M;17;Texas;4
+4315;M;4;Ohio;4
+4316;M;6;Texas;5
+4317;F;14;Illinois;6
+4318;M;5;Rhode Island;5
+4319;M;7;Ohio;6
+4320;M;5;Nevada;6
+4321;M;7;Colorado;7
+4322;F;6;Texas;8
+4323;M;4;Wyoming;4
+4324;M;5;Illinois;5
+4325;M;0;Geórgia (Estados Unidos);5
+4326;F;13;Califórnia;7
+4327;M;17;Tennessee;7
+4328;M;3;Texas;7
+4329;F;14;Texas;5
+4330;F;6;Arizona;7
+4331;M;6;Ohio;6
+4332;F;3;Illinois;6
+4333;M;2;Flórida;8
+4334;M;1;Luisiana;5
+4335;M;0;Oklahoma;7
+4336;F;0;Kentucky;6
+4337;M;20;Texas;3
+4338;F;5;Indiana;3
+4339;M;2;Texas;5
+4340;F;17;Texas;5
+4341;M;17;Flórida;7
+4342;M;0;Kansas;5
+4343;M;12;Texas;5
+4344;M;1;Ohio;5
+4345;F;14;Ohio;4
+4346;M;17;Ohio;4
+4347;F;20;Texas;4
+4348;M;0;Geórgia (Estados Unidos);7
+4349;M;2;Califórnia;4
+4350;M;2;Carolina do Sul;4
+4351;M;12;Tennessee;5
+4352;M;4;Nova Iorque (estado);4
+4353;M;7;Nova Iorque (estado);6
+4354;M;14;Texas;6
+4355;M;14;Nova Jérsia;8
+4356;M;16;Arizona;6
+4357;F;9;Idaho;6
+4358;M;17;Maine;7
+4359;M;4;Flórida;3
+4360;F;9;Washington;6
+4361;M;15;Idaho;6
+4362;M;17;Arizona;5
+4363;M;14;Califórnia;6
+4364;M;18;Washington;5
+4365;F;16;Indiana;8
+4366;M;15;Massachusetts;4
+4367;M;0;Iowa;7
+4368;M;17;Maryland;4
+4369;M;7;Geórgia (Estados Unidos);7
+4370;M;16;Nova Jérsia;5
+4371;F;4;Missouri;4
+4372;M;17;Texas;7
+4373;M;12;Flórida;8
+4374;M;4;Ohio;3
+4375;F;5;Kentucky;4
+4376;F;5;Carolina do Norte;5
+4377;M;0;Flórida;5
+4378;M;17;Connecticut;4
+4379;M;4;Carolina do Norte;5
+4380;F;1;Tennessee;6
+4381;M;4;Missouri;6
+4382;M;18;Nova Iorque (estado);5
+4383;F;4;Califórnia;4
+4384;M;0;Ohio;5
+4385;M;4;Califórnia;6
+4386;M;5;Oklahoma;4
+4387;F;4;Missouri;3
+4388;M;3;Texas;7
+4389;M;4;Michigan;5
+4390;M;0;Nova Iorque (estado);6
+4391;F;4;Ohio;4
+4392;M;4;Ohio;4
+4393;M;4;Ohio;4
+4394;M;4;Ohio;5
+4395;M;6;Ohio;7
+4396;M;1;Ohio;4
+4397;M;4;Ohio;4
+4398;F;4;Ohio;3
+4399;F;4;Ohio;4
+4400;F;4;Ohio;4
+4401;M;4;Nova Iorque (estado);4
+4402;F;14;Ohio;4
+4403;M;15;Califórnia;6
+4404;M;1;Dakota do Sul;6
+4405;M;14;Washington;5
+4406;M;16;Colorado;6
+4407;M;4;Massachusetts;4
+4408;F;2;Pensilvânia;7
+4409;M;14;Missouri;5
+4410;M;19;Kentucky;3
+4411;M;4;Califórnia;4
+4412;M;4;Pensilvânia;4
+4413;M;13;Tennessee;1
+4414;M;4;Kentucky;5
+4415;M;0;Massachusetts;4
+4416;M;4;Massachusetts;4
+4417;M;15;Massachusetts;5
+4418;F;0;Massachusetts;8
+4419;F;12;Pensilvânia;7
+4420;M;15;Califórnia;5
+4421;M;0;Califórnia;7
+4422;M;5;Nova Iorque (estado);4
+4423;M;4;Iowa;4
+4424;M;7;Califórnia;5
+4425;M;7;Washington;6
+4426;M;17;Califórnia;7
+4427;M;0;Iowa;4
+4428;M;14;Indiana;5
+4429;M;5;Arizona;6
+4430;F;0;Califórnia;5
+4431;M;14;Colorado;2
+4432;M;12;Maryland;5
+4433;M;0;Ohio;5
+4434;F;7;Illinois;7
+4435;M;7;Texas;5
+4436;M;12;Pensilvânia;5
+4437;F;5;Indiana;7
+4438;M;0;Nova Iorque (estado);8
+4439;M;6;Tennessee;6
+4440;M;1;Colorado;6
+4441;M;4;Washington;3
+4442;M;15;Califórnia;8
+4443;M;2;Califórnia;9
+4444;F;12;Colorado;5
+4445;M;3;Delaware;5
+4446;M;18;Illinois;4
+4447;M;5;Flórida;7
+4448;M;14;Connecticut;4
+4449;M;12;Carolina do Norte;5
+4450;M;15;Illinois;5
+4451;M;14;Geórgia (Estados Unidos);6
+4452;F;7;Texas;5
+4453;M;0;Califórnia;6
+4454;M;20;;5
+4455;M;7;Carolina do Norte;6
+4456;F;2;Michigan;6
+4457;M;14;Califórnia;6
+4458;F;4;Pensilvânia;6
+4459;M;1;Carolina do Norte;5
+4460;M;14;Luisiana;5
+4461;M;20;Colorado;4
+4462;F;0;Illinois;5
+4463;M;7;Nova Jérsia;8
+4464;F;1;Illinois;8
+4465;M;4;Massachusetts;4
+4466;M;11;Nova Iorque (estado);6
+4467;F;6;Pensilvânia;7
+4468;F;7;Texas;7
+4469;F;12;Califórnia;7
+4470;M;12;Pensilvânia;6
+4471;M;6;Califórnia;5
+4472;F;16;Nova Iorque (estado);7
+4473;M;1;Califórnia;6
+4474;M;7;Carolina do Norte;6
+4475;M;4;Nova Iorque (estado);3
+4476;M;1;Iowa;7
+4477;M;7;Washington;6
+4478;M;12;Massachusetts;0
+4479;M;13;Flórida;7
+4480;M;0;Califórnia;5
+4481;M;18;Virgínia Ocidental;4
+4482;F;1;Califórnia;6
+4483;F;6;Arkansas;5
+4484;F;17;Califórnia;6
+4485;M;4;Missouri;6
+4486;M;8;Washington;6
+4487;M;7;Massachusetts;6
+4488;M;7;Arkansas;6
+4489;M;4;Texas;4
+4490;M;5;Luisiana;6
+4491;M;4;Iowa;4
+4492;M;13;Ohio;8
+4493;F;10;Nova Iorque (estado);0
+4494;M;0;Flórida;7
+4495;M;4;Virgínia;4
+4496;M;2;Connecticut;7
+4497;M;0;Carolina do Sul;8
+4498;M;7;Texas;8
+4499;M;6;Illinois;6
+4500;M;7;Texas;7
+4501;M;17;Califórnia;5
+4502;M;0;Massachusetts;8
+4503;M;1;Arizona;9
+4504;F;0;Missouri;4
+4505;M;7;Mississippi;8
+4506;M;16;Carolina do Sul;8
+4507;M;4;Illinois;4
+4508;M;20;Pensilvânia;4
+4509;M;7;Tennessee;6
+4510;M;7;Califórnia;7
+4511;M;7;Illinois;6
+4512;M;1;Pensilvânia;6
+4513;M;0;Illinois;9
+4514;M;3;Michigan;4
+4515;M;13;Carolina do Sul;8
+4516;M;4;Wisconsin;4
+4517;F;1;Michigan;3
+4518;M;0;Colorado;6
+4519;M;7;Tennessee;8
+4520;M;4;Ohio;5
+4521;M;12;Pensilvânia;6
+4522;M;1;Colorado;7
+4523;M;2;Minnesota;4
+4524;M;2;Minnesota;5
+4525;M;14;Nova Iorque (estado);6
+4526;M;20;Nova Iorque (estado);5
+4527;M;0;Tennessee;3
+4528;M;14;Carolina do Norte;5
+4529;M;6;Utah;7
+4530;F;1;Califórnia;6
+4531;M;4;Arizona;4
+4532;M;7;Nova Iorque (estado);5
+4533;M;12;Wisconsin;5
+4534;M;4;Arkansas;4
+4535;M;19;Pensilvânia;4
+4536;M;12;Wisconsin;4
+4537;F;1;Massachusetts;7
+4538;M;12;;6
+4539;M;19;Massachusetts;6
+4540;F;14;Califórnia;5
+4541;M;10;Minnesota;0
+4542;M;0;Califórnia;6
+4543;M;2;Nova Iorque (estado);5
+4544;M;1;Wisconsin;8
+4545;M;16;Indiana;5
+4546;M;7;Michigan;6
+4547;M;12;Massachusetts;4
+4548;M;2;Carolina do Norte;4
+4549;F;10;Washington;1
+4550;M;16;Virgínia;4
+4551;M;12;Illinois;3
+4552;M;0;Virgínia;5
+4553;F;16;Michigan;6
+4554;F;9;Michigan;5
+4555;F;9;Oklahoma;4
+4556;M;16;Minnesota;7
+4557;M;14;Massachusetts;6
+4558;M;14;Michigan;6
+4559;M;7;Vermont;6
+4560;M;0;Nebraska;5
+4561;F;9;Utah;6
+4562;M;10;Califórnia;6
+4563;F;6;Virgínia;6
+4564;M;12;Pensilvânia;6
+4565;M;14;Califórnia;7
+4566;M;17;Pensilvânia;6
+4567;M;4;Washington;4
+4568;F;4;Califórnia;5
+4569;M;0;Maryland;5
+4570;M;17;Illinois;7
+4571;M;7;Maryland;6
+4572;F;10;Pensilvânia;2
+4573;M;16;Nova Iorque (estado);8
+4574;M;4;Illinois;5
+4575;F;10;Nova Hampshire;0
+4576;F;7;Michigan;5
+4577;M;7;Michigan;7
+4578;M;0;Massachusetts;6
+4579;F;4;Missouri;4
+4580;F;13;Oregon;9
+4581;M;1;Pensilvânia;6
+4582;F;0;Minnesota;5
+4583;M;1;Michigan;8
+4584;F;0;Nova Iorque (estado);7
+4585;M;7;Geórgia (Estados Unidos);6
+4586;M;4;Massachusetts;5
+4587;M;14;Nova Jérsia;6
+4588;F;4;Michigan;5
+4589;M;17;Massachusetts;5
+4590;F;20;Minnesota;3
+4591;M;15;Massachusetts;6
+4592;M;4;Missouri;3
+4593;F;1;Ohio;7
+4594;M;16;Minnesota;6
+4595;M;18;Oregon;6
+4596;F;4;Califórnia;4
+4597;F;4;Maryland;5
+4598;F;3;Michigan;7
+4599;F;0;Maine;7
+4600;M;0;Indiana;5
+4601;M;14;Minnesota;6
+4602;M;7;Nova Iorque (estado);6
+4603;F;2;Flórida;7
+4604;M;15;Nova Iorque (estado);5
+4605;M;15;Califórnia;5
+4606;F;10;Califórnia;0
+4607;M;0;Carolina do Norte;5
+4608;F;0;Massachusetts;4
+4609;F;4;Wisconsin;6
+4610;F;4;Wisconsin;6
+4611;F;4;Texas;4
+4612;F;4;Califórnia;3
+4613;M;12;Kentucky;6
+4614;F;1;Nova Iorque (estado);7
+4615;M;17;Illinois;5
+4616;M;20;Nova Iorque (estado);5
+4617;F;6;Minnesota;6
+4618;M;14;Oregon;5
+4619;F;1;Oregon;5
+4620;F;17;Califórnia;4
+4621;M;4;Califórnia;6
+4622;M;12;Minnesota;5
+4623;M;16;Maryland;5
+4624;M;12;Utah;5
+4625;M;7;Califórnia;6
+4626;M;14;Oregon;5
+4627;M;1;Ohio;8
+4628;F;6;Virgínia;8
+4629;F;4;Califórnia;4
+4630;F;4;Califórnia;6
+4631;M;4;Califórnia;4
+4632;M;0;Washington;6
+4633;M;0;Michigan;0
+4634;M;20;Washington;7
+4635;M;4;Califórnia;4
+4636;M;2;Nova Iorque (estado);3
+4637;F;9;Michigan;6
+4638;M;4;Minnesota;6
+4639;M;11;Maryland;6
+4640;M;4;Minnesota;5
+4641;M;7;Washington, D.C.;5
+4642;M;0;Ohio;5
+4643;M;0;Washington;5
+4644;M;1;Pensilvânia;8
+4645;F;6;Michigan;8
+4646;F;6;Califórnia;5
+4647;M;20;Colorado;6
+4648;M;4;Oklahoma;3
+4649;M;13;Nova Iorque (estado);8
+4650;M;7;Geórgia (Estados Unidos);5
+4651;F;0;Nova Iorque (estado);7
+4652;F;7;Califórnia;5
+4653;M;12;Califórnia;7
+4654;M;20;Califórnia;6
+4655;F;1;Califórnia;5
+4656;M;17;Califórnia;5
+4657;M;14;Minnesota;7
+4658;M;4;Washington;6
+4659;F;14;Tennessee;5
+4660;F;4;Connecticut;3
+4661;M;15;Arizona;7
+4662;F;4;Utah;4
+4663;M;4;Califórnia;5
+4664;F;7;Texas;7
+4665;M;2;Nova Hampshire;6
+4666;M;1;Wisconsin;6
+4667;M;14;Califórnia;5
+4668;M;14;Oklahoma;6
+4669;M;7;Pensilvânia;6
+4670;M;5;Califórnia;7
+4671;M;12;Califórnia;6
+4672;M;13;Califórnia;8
+4673;M;16;Califórnia;6
+4674;F;7;Nova Jérsia;6
+4675;F;4;Carolina do Norte;4
+4676;M;14;Indiana;7
+4677;M;6;Vermont;8
+4678;M;2;Califórnia;6
+4679;M;13;Texas;8
+4680;M;0;Maine;6
+4681;F;15;Connecticut;6
+4682;M;7;Vermont;4
+4683;M;0;Maryland;5
+4684;F;0;Maine;5
+4685;M;1;Minnesota;7
+4686;M;1;Iowa;4
+4687;M;14;Massachusetts;7
+4688;M;9;Ohio;5
+4689;M;12;Massachusetts;3
+4690;F;10;Texas;1
+4691;F;17;Minnesota;7
+4692;F;7;Texas;6
+4693;M;1;Illinois;4
+4694;M;7;Kentucky;8
+4695;M;18;Minnesota;4
+4696;M;12;Nova Iorque (estado);4
+4697;M;10;Texas;4
+4698;F;6;Minnesota;5
+4699;F;0;Califórnia;3
+4700;F;4;Michigan;3
+4701;M;17;Pensilvânia;7
+4702;M;11;Nova Iorque (estado);6
+4703;M;7;Massachusetts;5
+4704;M;20;Massachusetts;4
+4705;F;0;Texas;4
+4706;M;14;Nebraska;4
+4707;M;0;Califórnia;0
+4708;M;0;Illinois;6
+4709;M;0;Connecticut;7
+4710;F;16;Virgínia;6
+4711;M;17;Flórida;5
+4712;M;17;Nova Hampshire;6
+4713;M;17;Califórnia;5
+4714;M;1;Minnesota;8
+4715;M;2;Oregon;5
+4716;F;16;Massachusetts;5
+4717;M;17;Michigan;7
+4718;M;7;Nova Hampshire;6
+4719;F;9;Rhode Island;6
+4720;M;2;Califórnia;5
+4721;M;11;Califórnia;6
+4722;M;12;Minnesota;6
+4723;M;7;Califórnia;6
+4724;F;6;Massachusetts;8
+4725;M;5;Havaí;6
+4726;F;16;Califórnia;6
+4727;F;0;Washington;9
+4728;M;19;Geórgia (Estados Unidos);5
+4729;M;16;Minnesota;8
+4730;M;11;Maine;8
+4731;M;17;Washington;5
+4732;M;14;Virgínia;6
+4733;M;18;Iowa;3
+4734;M;1;Califórnia;7
+4735;M;3;Iowa;7
+4736;M;20;Califórnia;4
+4737;M;16;Pensilvânia;6
+4738;M;1;Virgínia;8
+4739;M;3;Flórida;5
+4740;F;3;Tennessee;5
+4741;M;7;Pensilvânia;7
+4742;M;3;Califórnia;5
+4743;M;13;Missouri;8
+4744;M;15;Nova Iorque (estado);8
+4745;F;4;Connecticut;4
+4746;M;1;Pensilvânia;7
+4747;M;4;Virgínia Ocidental;3
+4748;M;16;Illinois;7
+4749;M;0;Virgínia;7
+4750;F;0;Califórnia;6
+4751;M;15;Massachusetts;8
+4752;F;4;Califórnia;4
+4753;M;1;Nova Hampshire;8
+4754;F;0;Califórnia;4
+4755;F;7;Califórnia;8
+4756;M;16;Minnesota;9
+4757;M;17;Virgínia;6
+4758;F;13;Nova Hampshire;8
+4759;F;0;Maine;8
+4760;M;17;Connecticut;6
+4761;M;15;Maryland;3
+4762;F;14;Califórnia;4
+4763;M;11;Maine;8
+4764;M;10;Nova Hampshire;0
+4765;F;16;Nova Hampshire;7
+4766;M;16;Nova Iorque (estado);6
+4767;F;9;Nova Hampshire;6
+4768;M;4;Maryland;5
+4769;M;1;Massachusetts;6
+4770;F;7;Nova Iorque (estado);7
+4771;F;4;Maine;5
+4772;M;17;Nova Hampshire;8
+4773;M;1;Virgínia;7
+4774;M;14;Nova Jérsia;7
+4775;M;17;Virgínia;5
+4776;F;3;Indiana;6
+4777;M;2;Indiana;6
+4778;M;0;Indiana;6
+4779;M;3;Maine;7
+4780;M;12;Califórnia;5
+4781;F;6;Maine;8
+4782;M;1;Texas;7
+4783;M;0;Illinois;5
+4784;F;6;Michigan;7
+4785;F;14;Minnesota;5
+4786;M;6;Virgínia;7
+4787;M;11;Califórnia;0
+4788;M;7;Arizona;7
+4789;M;2;Minnesota;7
+4790;F;2;Califórnia;5
+4791;M;4;Minnesota;4
+4792;F;7;Califórnia;8
+4793;F;6;Michigan;5
+4794;F;0;Indiana;7
+4795;M;16;Nova Iorque (estado);7
+4796;M;7;Washington;6
+4797;F;17;Utah;6
+4798;M;1;Pensilvânia;4
+4799;F;4;Rhode Island;4
+4800;M;4;Colorado;4
+4801;M;4;Geórgia (Estados Unidos);5
+4802;M;1;Kentucky;8
+4803;F;16;Ohio;6
+4804;F;1;Ohio;6
+4805;M;1;Ohio;7
+4806;M;17;Califórnia;5
+4807;M;2;Maine;0
+4808;M;0;Havaí;6
+4809;F;4;Maryland;8
+4810;M;12;Colorado;4
+4811;M;1;Massachusetts;7
+4812;M;14;Virgínia Ocidental;3
+4813;F;9;Indiana;7
+4814;M;14;Colorado;3
+4815;F;18;Maine;8
+4816;F;6;Maine;7
+4817;M;1;Maryland;6
+4818;F;17;Califórnia;6
+4819;M;18;Pensilvânia;7
+4820;M;11;Maine;8
+4821;M;19;Texas;4
+4822;F;0;Massachusetts;7
+4823;M;4;Indiana;4
+4824;M;7;Minnesota;5
+4825;M;17;Califórnia;5
+4826;M;12;Minnesota;7
+4827;M;0;Nova Iorque (estado);7
+4828;F;20;Illinois;4
+4829;M;0;Washington, D.C.;5
+4830;M;10;Minnesota;0
+4831;F;1;Maine;5
+4832;M;14;Pensilvânia;6
+4833;M;16;Colorado;7
+4834;F;9;Nova Hampshire;7
+4835;M;20;Nova Iorque (estado);5
+4836;F;16;Maine;7
+4837;M;5;Indiana;6
+4838;M;1;Michigan;7
+4839;F;6;Califórnia;8
+4840;F;6;Missouri;7
+4841;M;12;Califórnia;5
+4842;F;1;Virgínia;6
+4843;M;1;Maine;9
+4844;M;7;Nova Hampshire;7
+4845;F;1;Minnesota;6
+4846;F;2;Califórnia;5
+4847;M;12;Califórnia;6
+4848;F;6;Wisconsin;6
+4849;F;4;Ohio;4
+4850;F;3;Ohio;7
+4851;M;17;Ohio;4
+4852;M;0;Kentucky;6
+4853;M;7;Minnesota;5
+4854;F;13;Nova Hampshire;8
+4855;M;12;Califórnia;5
+4856;M;7;Califórnia;5
+4857;M;14;Virgínia;6
+4858;M;1;Maine;5
+4859;F;14;Iowa;4
+4860;M;2;Illinois;4
+4861;M;4;Maine;5
+4862;M;0;Califórnia;5
+4863;F;9;Utah;5
+4864;M;20;Missouri;3
+4865;F;14;Massachusetts;7
+4866;M;12;Maine;8
+4867;M;16;Maine;6
+4868;M;17;Nova Hampshire;7
+4869;F;6;Maine;7
+4870;F;3;Maine;6
+4871;M;12;Maine;4
+4872;M;1;Maine;7
+4873;M;11;Nova Iorque (estado);9
+4874;F;4;Luisiana;6
+4875;M;0;Oregon;7
+4876;F;17;Washington;7
+4877;M;4;Califórnia;5
+4878;M;4;Califórnia;7
+4879;M;3;Illinois;6
+4880;F;9;Califórnia;7
+4881;M;16;Minnesota;7
+4882;M;11;Nova Hampshire;7
+4883;F;10;Rhode Island;0
+4884;M;14;Califórnia;6
+4885;M;1;Virgínia;9
+4886;F;17;Califórnia;6
+4887;M;2;Pensilvânia;4
+4888;F;0;Nova Jérsia;8
+4889;M;4;Missouri;4
+4890;F;1;Texas;5
+4891;M;17;Califórnia;6
+4892;M;12;Minnesota;5
+4893;M;17;Michigan;5
+4894;M;7;Nova Iorque (estado);7
+4895;F;3;Iowa;6
+4896;M;6;Utah;7
+4897;M;16;Pensilvânia;7
+4898;M;1;Carolina do Norte;5
+4899;M;12;Califórnia;5
+4900;M;20;Flórida;5
+4901;M;7;Nova Iorque (estado);6
+4902;M;14;Utah;7
+4903;M;12;Califórnia;7
+4904;M;15;Missouri;7
+4905;F;1;Illinois;7
+4906;M;17;Michigan;7
+4907;F;7;Minnesota;8
+4908;M;15;Arizona;7
+4909;F;12;Califórnia;7
+4910;M;12;Utah;3
+4911;F;0;Minnesota;5
+4912;F;20;Washington;8
+4913;F;1;;6
+4914;F;1;Massachusetts;6
+4915;M;12;Califórnia;4
+4916;M;20;Arizona;4
+4917;M;0;Carolina do Norte;7
+4918;F;12;Utah;4
+4919;M;0;Utah;4
+4920;M;1;Massachusetts;6
+4921;F;15;Califórnia;5
+4922;M;17;Washington;3
+4923;M;18;Alasca;7
+4924;F;0;Alasca;6
+4925;F;6;Minnesota;6
+4926;M;10;Minnesota;0
+4927;M;0;Oregon;7
+4928;F;3;Califórnia;4
+4929;M;1;Missouri;7
+4930;M;17;Missouri;8
+4931;M;17;Califórnia;8
+4932;M;7;Missouri;5
+4933;M;15;Califórnia;6
+4934;F;0;Minnesota;5
+4935;M;17;Illinois;6
+4936;F;4;Missouri;4
+4937;M;0;Massachusetts;7
+4938;F;4;Minnesota;4
+4939;M;7;Missouri;6
+4940;F;11;Califórnia;8
+4941;M;20;Ohio;8
+4942;M;12;Kentucky;7
+4943;F;0;Minnesota;8
+4944;M;17;Nova Iorque (estado);8
+4945;M;0;Illinois;8
+4946;F;1;Califórnia;7
+4947;M;17;Califórnia;6
+4948;M;2;Califórnia;7
+4949;M;4;Minnesota;4
+4950;M;16;Minnesota;5
+4951;F;17;Califórnia;6
+4952;F;14;Michigan;5
+4953;M;12;Minnesota;6
+4954;M;0;Califórnia;7
+4955;M;13;Minnesota;9
+4956;M;15;Texas;6
+4957;M;2;Michigan;6
+4958;M;7;Minnesota;4
+4959;M;17;Virgínia;6
+4960;M;1;Minnesota;8
+4961;M;7;Indiana;6
+4962;M;6;Minnesota;5
+4963;M;17;Califórnia;7
+4964;M;0;Califórnia;7
+4965;M;10;Missouri;0
+4966;M;14;Minnesota;7
+4967;M;4;Califórnia;4
+4968;F;20;Califórnia;8
+4969;M;19;Califórnia;4
+4970;F;12;Califórnia;6
+4971;M;7;Califórnia;6
+4972;M;0;Califórnia;6
+4973;F;2;;8
+4974;M;20;Califórnia;6
+4975;M;0;Califórnia;6
+4976;M;11;Missouri;6
+4977;M;4;Califórnia;5
+4978;M;14;Nebraska;7
+4979;M;2;Minnesota;7
+4980;M;1;Minnesota;6
+4981;M;1;Minnesota;7
+4982;M;12;Missouri;5
+4983;F;16;Minnesota;7
+4984;M;0;Minnesota;6
+4985;M;0;Carolina do Sul;6
+4986;M;12;Minnesota;3
+4987;F;8;Califórnia;8
+4988;M;17;Minnesota;5
+4989;M;0;Minnesota;5
+4990;F;4;Minnesota;5
+4991;F;14;Califórnia;8
+4992;F;2;Minnesota;6
+4993;M;17;Wisconsin;7
+4994;M;17;Minnesota;7
+4995;M;20;Minnesota;8
+4996;M;7;Califórnia;7
+4997;M;10;Califórnia;0
+4998;F;4;Michigan;4
+4999;F;13;Califórnia;8
+5000;M;4;Indiana;6
+5001;F;2;Missouri;5
+5002;M;17;Califórnia;6
+5003;M;12;Michigan;6
+5004;F;1;Califórnia;8
+5005;M;16;Califórnia;7
+5006;M;3;Michigan;7
+5007;F;4;Califórnia;4
+5008;M;20;Illinois;5
+5009;F;16;Missouri;7
+5010;M;15;Missouri;7
+5011;M;4;Missouri;4
+5012;M;15;Michigan;8
+5013;M;4;Virgínia Ocidental;4
+5014;M;0;Califórnia;7
+5015;M;6;Califórnia;6
+5016;F;1;Nevada;6
+5017;M;12;Califórnia;6
+5018;F;12;Califórnia;9
+5019;M;7;Nova Iorque (estado);6
+5020;F;13;Califórnia;8
+5021;M;6;Califórnia;8
+5022;M;7;Califórnia;6
+5023;M;20;Califórnia;7
+5024;F;1;Nova Iorque (estado);7
+5025;M;20;Illinois;6
+5026;M;17;Califórnia;5
+5027;F;14;Vermont;5
+5028;M;12;Califórnia;5
+5029;M;4;Luisiana;5
+5030;M;1;Luisiana;4
+5031;F;4;Nevada;5
+5032;M;17;Massachusetts;4
+5033;F;13;Illinois;8
+5034;F;15;Illinois;5
+5035;F;17;Delaware;5
+5036;M;7;Nova Iorque (estado);6
+5037;M;12;Nova Iorque (estado);7
+5038;M;20;Nova Iorque (estado);6
+5039;F;4;Oregon;6
+5040;M;12;Ohio;7
+5041;F;6;Illinois;7
+5042;F;2;Minnesota;3
+5043;F;6;Califórnia;4
+5044;F;6;Virgínia;6
+5045;M;0;Ohio;7
+5046;M;16;Illinois;5
+5047;M;6;Virgínia;7
+5048;F;7;Geórgia (Estados Unidos);6
+5049;M;12;Illinois;6
+5050;F;4;Nova Iorque (estado);4
+5051;F;7;Nova Iorque (estado);8
+5052;M;16;Massachusetts;7
+5053;M;4;Utah;5
+5054;M;2;Maryland;6
+5055;F;16;Oregon;6
+5056;M;1;Pensilvânia;7
+5057;M;7;Utah;8
+5058;M;17;Utah;9
+5059;M;16;Virgínia;7
+5060;M;17;Utah;7
+5061;F;19;Vermont;4
+5062;M;16;Missouri;8
+5063;F;10;Virgínia;0
+5064;M;4;Ohio;4
+5065;M;14;Carolina do Norte;5
+5066;F;1;Virgínia;5
+5067;M;13;Oregon;9
+5068;M;7;Pensilvânia;7
+5069;F;0;Califórnia;8
+5070;M;2;Minnesota;5
+5071;F;7;Texas;5
+5072;M;17;Oregon;7
+5073;M;2;Califórnia;8
+5074;M;0;;0
+5075;M;6;Oregon;8
+5076;M;3;Pensilvânia;6
+5077;M;2;Washington, D.C.;6
+5078;M;7;Pensilvânia;7
+5079;M;4;Luisiana;6
+5080;F;12;Califórnia;7
+5081;F;4;Pensilvânia;4
+5082;M;1;Virgínia;6
+5083;M;4;Pensilvânia;4
+5084;M;4;Nova Iorque (estado);3
+5085;M;17;Texas;9
+5086;M;1;Virgínia;4
+5087;F;6;Pensilvânia;5
+5088;M;17;Tennessee;5
+5089;F;16;Texas;6
+5090;F;19;Texas;7
+5091;M;17;Delaware;5
+5092;M;14;Pensilvânia;9
+5093;M;7;Pensilvânia;8
+5094;M;10;Kansas;3
+5095;F;1;Virgínia;6
+5096;M;11;Texas;5
+5097;M;16;Pensilvânia;8
+5098;M;7;Pensilvânia;8
+5099;M;0;Massachusetts;4
+5100;M;6;;8
+5101;M;0;Califórnia;6
+5102;M;12;Califórnia;6
+5103;F;16;Texas;6
+5104;M;20;Pensilvânia;6
+5105;M;7;Pensilvânia;7
+5106;F;1;Pensilvânia;6
+5107;F;0;Nova Jérsia;7
+5108;F;9;Califórnia;6
+5109;F;6;Delaware;7
+5110;M;15;Texas;6
+5111;M;2;Texas;6
+5112;M;13;Nevada;6
+5113;M;0;Minnesota;5
+5114;F;10;Virgínia;0
+5115;M;12;Massachusetts;8
+5116;M;6;Califórnia;6
+5117;F;0;Luisiana;6
+5118;M;10;Califórnia;2
+5119;F;0;Nova Iorque (estado);5
+5120;M;7;Colorado;8
+5121;M;7;Califórnia;5
+5122;M;0;Washington, D.C.;5
+5123;M;12;Flórida;8
+5124;M;2;Maryland;7
+5125;M;0;Nova Iorque (estado);7
+5126;M;11;Massachusetts;6
+5127;M;5;Washington;7
+5128;M;7;Califórnia;8
+5129;M;17;Kentucky;7
+5130;F;1;Flórida;7
+5131;F;1;Texas;5
+5132;M;7;Texas;6
+5133;M;11;Nova Iorque (estado);3
+5134;M;17;Califórnia;5
+5135;M;7;Missouri;6
+5136;M;12;Califórnia;5
+5137;M;18;Missouri;4
+5138;M;17;Alabama;5
+5139;M;16;Nova Iorque (estado);7
+5140;M;6;Alabama;6
+5141;M;17;Minnesota;4
+5142;M;1;Califórnia;5
+5143;M;4;Ohio;4
+5144;F;0;Kansas;8
+5145;M;7;Texas;6
+5146;M;1;Maine;8
+5147;M;0;Michigan;4
+5148;M;20;Washington;5
+5149;M;1;Nova Iorque (estado);6
+5150;M;3;Washington;6
+5151;M;19;Geórgia (Estados Unidos);4
+5152;F;4;Ohio;5
+5153;M;7;Illinois;5
+5154;M;16;Washington, D.C.;6
+5155;M;16;Flórida;5
+5156;M;14;Nova Iorque (estado);4
+5157;M;1;Oklahoma;7
+5158;F;4;Ohio;4
+5159;M;7;Tennessee;7
+5160;F;4;Califórnia;4
+5161;M;4;Geórgia (Estados Unidos);5
+5162;M;17;Califórnia;5
+5163;M;6;Wisconsin;7
+5164;F;17;Califórnia;6
+5165;M;6;Califórnia;7
+5166;M;6;Kentucky;7
+5167;M;15;Connecticut;4
+5168;M;7;Massachusetts;6
+5169;F;4;Wisconsin;8
+5170;M;4;Missouri;4
+5171;M;17;Califórnia;8
+5172;F;11;Vermont;6
+5173;M;10;Illinois;0
+5174;M;1;Ohio;7
+5175;F;9;Flórida;6
+5176;M;10;Illinois;0
+5177;M;14;Geórgia (Estados Unidos);7
+5178;M;0;Ohio;8
+5179;M;12;Califórnia;5
+5180;M;11;Arizona;7
+5181;M;7;Pensilvânia;5
+5182;F;7;Minnesota;7
+5183;F;20;Ohio;4
+5184;M;20;Kansas;3
+5185;F;4;Ohio;7
+5186;M;12;;7
+5187;M;16;Connecticut;3
+5188;F;9;Ohio;6
+5189;F;7;Colorado;7
+5190;F;0;Arizona;6
+5191;F;4;Minnesota;6
+5192;M;7;Colorado;6
+5193;M;12;Nova Iorque (estado);6
+5194;M;7;Minnesota;4
+5195;M;7;Colorado;7
+5196;M;7;Maryland;9
+5197;F;3;Texas;8
+5198;F;4;Minnesota;3
+5199;F;1;Alabama;5
+5200;F;15;Ohio;6
+5201;M;7;Califórnia;8
+5202;M;4;Rhode Island;4
+5203;F;6;Massachusetts;7
+5204;M;13;Minnesota;8
+5205;M;1;Rhode Island;5
+5206;M;7;Califórnia;6
+5207;M;0;Washington;6
+5208;M;4;Minnesota;6
+5209;M;1;Indiana;8
+5210;F;17;Illinois;6
+5211;M;1;Kentucky;5
+5212;M;2;Califórnia;3
+5213;M;0;Geórgia (Estados Unidos);4
+5214;F;9;Nova Jérsia;6
+5215;F;6;Califórnia;9
+5216;M;2;Colorado;4
+5217;M;17;Massachusetts;5
+5218;M;0;Nevada;4
+5219;M;4;Califórnia;3
+5220;M;7;Califórnia;5
+5221;F;1;Havaí;8
+5222;M;12;Califórnia;5
+5223;M;10;Nova Iorque (estado);8
+5224;M;1;Nova Iorque (estado);6
+5225;M;4;Minnesota;4
+5226;M;0;Washington;7
+5227;M;10;Missouri;3
+5228;M;0;Texas;0
+5229;M;0;Illinois;5
+5230;M;12;Califórnia;5
+5231;M;7;Califórnia;6
+5232;M;4;Nova Iorque (estado);5
+5233;M;5;Oregon;5
+5234;F;0;Illinois;5
+5235;M;4;Nova Iorque (estado);5
+5236;M;14;Indiana;5
+5237;M;7;Minnesota;5
+5238;F;16;Nova Jérsia;7
+5239;M;7;Nova Jérsia;6
+5240;F;0;Califórnia;5
+5241;F;4;Massachusetts;5
+5242;M;1;Nova Iorque (estado);5
+5243;M;10;Wisconsin;1
+5244;M;4;Massachusetts;3
+5245;F;1;Carolina do Norte;7
+5246;F;0;Missouri;4
+5247;F;10;Massachusetts;0
+5248;F;14;Maryland;7
+5249;F;14;Texas;7
+5250;M;6;Massachusetts;8
+5251;F;17;Oregon;6
+5252;M;20;Illinois;5
+5253;F;13;Rhode Island;9
+5254;M;4;Flórida;4
+5255;M;10;Minnesota;0
+5256;M;16;Geórgia (Estados Unidos);5
+5257;F;2;Nova Iorque (estado);6
+5258;M;4;Dakota do Norte;6
+5259;M;6;Califórnia;5
+5260;M;7;Texas;7
+5261;M;12;Nova Iorque (estado);6
+5262;F;14;Indiana;6
+5263;M;7;Kentucky;6
+5264;M;4;Pensilvânia;4
+5265;M;1;Oregon;7
+5266;M;1;Kentucky;6
+5267;M;7;;7
+5268;F;2;Nebraska;6
+5269;M;0;Tennessee;4
+5270;M;12;Novo México;4
+5271;F;0;Califórnia;5
+5272;M;7;Califórnia;5
+5273;M;20;Califórnia;8
+5274;M;0;Illinois;6
+5275;M;17;Illinois;6
+5276;F;4;Califórnia;6
+5277;M;20;Califórnia;6
+5278;F;7;Minnesota;6
+5279;F;14;Minnesota;5
+5280;M;4;Nova Iorque (estado);4
+5281;M;2;Califórnia;6
+5282;F;4;Missouri;3
+5283;M;2;Missouri;4
+5284;M;16;Minnesota;5
+5285;M;4;Minnesota;4
+5286;M;16;Oregon;7
+5287;M;8;Arizona;5
+5288;M;13;Califórnia;8
+5289;M;2;Califórnia;7
+5290;F;4;Illinois;4
+5291;M;1;Ohio;7
+5292;M;0;Oregon;5
+5293;M;12;Califórnia;4
+5294;M;2;Illinois;5
+5295;M;7;Minnesota;6
+5296;F;0;Carolina do Norte;0
+5297;M;12;Pensilvânia;5
+5298;M;17;Minnesota;6
+5299;M;2;Ohio;5
+5300;M;20;Califórnia;5
+5301;M;17;;5
+5302;F;10;Massachusetts;0
+5303;F;6;Ohio;8
+5304;F;9;Minnesota;7
+5305;F;4;Califórnia;3
+5306;F;17;Califórnia;4
+5307;M;5;Arizona;5
+5308;M;7;Carolina do Norte;8
+5309;M;0;Massachusetts;4
+5310;F;1;Illinois;8
+5311;M;0;Illinois;7
+5312;M;1;Nova Iorque (estado);5
+5313;M;0;Minnesota;9
+5314;F;0;Califórnia;4
+5315;M;12;Virgínia;5
+5316;M;4;Minnesota;4
+5317;F;0;Massachusetts;6
+5318;M;17;Washington;3
+5319;M;17;Califórnia;4
+5320;F;5;Ohio;3
+5321;M;4;Massachusetts;6
+5322;M;17;Oregon;7
+5323;M;20;Califórnia;4
+5324;M;7;Massachusetts;5
+5325;F;7;Arizona;8
+5326;M;2;Minnesota;5
+5327;M;7;Minnesota;6
+5328;F;4;Califórnia;5
+5329;F;5;Califórnia;6
+5330;F;0;Pensilvânia;5
+5331;M;14;Connecticut;7
+5332;M;4;Geórgia (Estados Unidos);4
+5333;F;7;Massachusetts;5
+5334;F;13;Indiana;8
+5335;M;14;Texas;6
+5336;M;7;Texas;9
+5337;F;3;Massachusetts;6
+5338;M;17;Carolina do Norte;5
+5339;M;17;Illinois;3
+5340;F;3;Califórnia;8
+5341;F;3;Arizona;6
+5342;F;7;Maryland;6
+5343;F;9;Illinois;6
+5344;F;1;Washington;8
+5345;F;17;Colorado;6
+5346;F;3;Oregon;6
+5347;M;6;Wisconsin;5
+5348;M;5;Minnesota;3
+5349;F;2;Oregon;7
+5350;M;5;Minnesota;4
+5351;F;1;Arizona;7
+5352;F;5;Minnesota;6
+5353;M;6;Texas;4
+5354;F;3;Texas;7
+5355;M;0;Texas;8
+5356;M;0;Texas;7
+5357;F;20;Illinois;4
+5358;M;7;Nova Iorque (estado);6
+5359;M;16;Carolina do Norte;3
+5360;M;12;Ohio;4
+5361;F;16;Califórnia;8
+5362;M;13;Missouri;6
+5363;M;13;Geórgia (Estados Unidos);8
+5364;F;3;Minnesota;5
+5365;M;12;Califórnia;3
+5366;M;12;Califórnia;4
+5367;M;4;Minnesota;3
+5368;F;17;;5
+5369;M;15;Massachusetts;5
+5370;M;12;Washington;5
+5371;M;11;Minnesota;5
+5372;M;4;Nova Iorque (estado);6
+5373;M;12;Minnesota;4
+5374;M;7;Tennessee;7
+5375;M;0;Massachusetts;5
+5376;M;17;Califórnia;5
+5377;F;3;Nova Iorque (estado);4
+5378;M;18;Nova Iorque (estado);7
+5379;M;7;Utah;6
+5380;M;4;Massachusetts;3
+5381;M;14;Nova Iorque (estado);6
+5382;M;4;Nova Jérsia;4
+5383;M;1;Minnesota;6
+5384;F;3;Califórnia;5
+5385;M;12;Arizona;5
+5386;M;14;Illinois;5
+5387;F;1;Ohio;5
+5388;F;4;Nova Iorque (estado);3
+5389;M;7;Massachusetts;7
+5390;M;0;Texas;0
+5391;M;7;Nova Iorque (estado);5
+5392;M;1;Washington;8
+5393;M;7;Nova Iorque (estado);6
+5394;M;0;Illinois;3
+5395;M;1;Nova Iorque (estado);8
+5396;M;6;Nevada;5
+5397;M;0;Illinois;4
+5398;M;17;Luisiana;8
+5399;M;1;Nova Iorque (estado);5
+5400;F;4;Geórgia (Estados Unidos);3
+5401;F;1;Washington, D.C.;3
+5402;F;0;Geórgia (Estados Unidos);4
+5403;M;10;Montana;0
+5404;M;0;Geórgia (Estados Unidos);6
+5405;F;7;Nova Iorque (estado);8
+5406;F;0;Michigan;7
+5407;F;17;Geórgia (Estados Unidos);6
+5408;M;20;Nova Iorque (estado);5
+5409;M;1;Illinois;7
+5410;F;2;Maryland;7
+5411;F;19;Nova Iorque (estado);0
+5412;M;12;Oregon;5
+5413;M;1;Montana;6
+5414;M;10;Nova Jérsia;0
+5415;F;7;Nova Hampshire;6
+5416;F;5;Massachusetts;6
+5417;M;17;Pensilvânia;3
+5418;F;0;Wisconsin;6
+5419;F;12;Vermont;4
+5420;F;19;Nova Iorque (estado);0
+5421;M;17;Maryland;7
+5422;M;7;Califórnia;8
+5423;F;5;Illinois;8
+5424;F;2;Colorado;7
+5425;M;4;Wisconsin;4
+5426;M;14;Califórnia;5
+5427;M;19;Nova Iorque (estado);6
+5428;F;6;Carolina do Norte;5
+5429;F;1;Massachusetts;5
+5430;F;1;Virgínia Ocidental;7
+5431;M;1;Pensilvânia;8
+5432;M;13;Massachusetts;8
+5433;F;17;Ohio;6
+5434;F;7;Illinois;5
+5435;M;18;Massachusetts;7
+5436;M;4;Califórnia;3
+5437;M;11;Minnesota;6
+5438;M;14;Illinois;5
+5439;M;13;Pensilvânia;8
+5440;F;2;Tennessee;7
+5441;M;7;Califórnia;8
+5442;M;7;Missouri;5
+5443;M;12;Massachusetts;4
+5444;F;4;Minnesota;4
+5445;M;0;Ohio;5
+5446;F;1;Missouri;8
+5447;M;2;Illinois;7
+5448;M;19;Illinois;7
+5449;M;12;Massachusetts;4
+5450;M;12;Massachusetts;3
+5451;F;1;Washington;6
+5452;M;6;Nova Iorque (estado);6
+5453;M;4;Geórgia (Estados Unidos);4
+5454;M;7;Nova Iorque (estado);6
+5455;F;17;Minnesota;4
+5456;M;1;Flórida;6
+5457;M;12;Minnesota;4
+5458;F;2;Washington;4
+5459;F;10;Washington;0
+5460;M;4;Massachusetts;4
+5461;M;0;Califórnia;8
+5462;M;17;Nevada;5
+5463;M;0;Wisconsin;7
+5464;M;7;Texas;6
+5465;F;0;Nova Iorque (estado);5
+5466;M;12;Washington;5
+5467;M;0;Missouri;6
+5468;M;12;Califórnia;5
+5469;M;12;;6
+5470;M;7;Washington, D.C.;8
+5471;M;7;Nova Iorque (estado);4
+5472;M;1;Carolina do Norte;6
+5473;M;1;;5
+5474;M;12;Washington, D.C.;5
+5475;M;4;Califórnia;5
+5476;F;0;Washington, D.C.;6
+5477;M;1;Minnesota;6
+5478;M;7;Massachusetts;6
+5479;M;1;Iowa;6
+5480;F;14;Nova Jérsia;5
+5481;M;12;Minnesota;7
+5482;M;7;Nova Iorque (estado);4
+5483;F;6;Pensilvânia;6
+5484;M;17;Maryland;7
+5485;M;4;Nova Jérsia;5
+5486;M;0;Pensilvânia;4
+5487;M;17;Califórnia;6
+5488;M;15;Califórnia;5
+5489;M;7;Califórnia;4
+5490;M;17;Colorado;7
+5491;M;7;Nova Iorque (estado);3
+5492;M;4;Minnesota;4
+5493;M;12;Havaí;6
+5494;F;17;Califórnia;6
+5495;F;4;Califórnia;3
+5496;M;7;Califórnia;5
+5497;M;4;Illinois;6
+5498;F;1;Illinois;8
+5499;F;19;Illinois;6
+5500;F;20;Nova Iorque (estado);7
+5501;M;2;Flórida;6
+5502;M;2;Missouri;4
+5503;F;9;Minnesota;5
+5504;M;7;Arizona;7
+5505;F;4;Massachusetts;5
+5506;F;14;Illinois;4
+5507;M;7;Ohio;7
+5508;M;20;Califórnia;5
+5509;M;0;Nova Iorque (estado);5
+5510;M;4;;4
+5511;M;1;Califórnia;7
+5512;F;17;Massachusetts;5
+5513;M;1;Califórnia;7
+5514;F;10;Texas;1
+5515;M;4;Pensilvânia;4
+5516;F;16;Washington;7
+5517;M;0;Colorado;9
+5518;M;17;Texas;8
+5519;M;15;Flórida;6
+5520;M;1;Pensilvânia;7
+5521;F;6;Massachusetts;5
+5522;M;14;Massachusetts;5
+5523;M;0;Illinois;7
+5524;F;10;Virgínia Ocidental;0
+5525;F;10;Minnesota;0
+5526;F;2;Carolina do Norte;6
+5527;M;1;Luisiana;5
+5528;M;1;Ohio;7
+5529;M;6;Vermont;3
+5530;F;4;Missouri;4
+5531;M;17;;7
+5532;M;17;Carolina do Norte;5
+5533;F;2;Nova Iorque (estado);8
+5534;M;16;Geórgia (Estados Unidos);7
+5535;M;15;Califórnia;5
+5536;M;16;Kansas;5
+5537;F;1;Nova Iorque (estado);9
+5538;M;12;Minnesota;7
+5539;F;20;Califórnia;5
+5540;M;1;Pensilvânia;7
+5541;M;7;Califórnia;8
+5542;M;7;Nova Iorque (estado);7
+5543;M;17;Oregon;5
+5544;M;15;Nova Jérsia;5
+5545;F;16;Washington;7
+5546;M;14;Virgínia Ocidental;4
+5547;F;4;Nova Iorque (estado);4
+5548;F;4;Massachusetts;3
+5549;F;9;Texas;7
+5550;M;15;Michigan;6
+5551;F;20;Washington;6
+5552;M;7;Virgínia;8
+5553;M;3;Carolina do Sul;6
+5554;M;1;Califórnia;6
+5555;M;10;Tennessee;1
+5556;M;6;Califórnia;7
+5557;M;14;Flórida;6
+5558;M;10;Massachusetts;1
+5559;M;1;Texas;8
+5560;F;17;Washington;7
+5561;F;3;Oklahoma;5
+5562;F;1;Wisconsin;6
+5563;F;7;Nova Iorque (estado);5
+5564;M;20;Massachusetts;7
+5565;M;17;Massachusetts;4
+5566;M;7;Maryland;7
+5567;M;3;Texas;8
+5568;M;4;Michigan;4
+5569;F;1;Nova Jérsia;4
+5570;M;1;Nova Jérsia;5
+5571;F;9;Nova Jérsia;5
+5572;F;4;Missouri;5
+5573;F;1;Nova Iorque (estado);7
+5574;M;0;Maryland;5
+5575;M;7;Delaware;6
+5576;M;4;Minnesota;5
+5577;M;1;Nova Iorque (estado);8
+5578;F;1;Massachusetts;4
+5579;F;7;Nova Jérsia;7
+5580;M;7;Massachusetts;7
+5581;M;0;Nova Iorque (estado);5
+5582;M;1;Iowa;7
+5583;M;15;Tennessee;9
+5584;F;0;Nova Iorque (estado);8
+5585;M;4;Nova Iorque (estado);5
+5586;M;20;Califórnia;6
+5587;M;17;Maryland;5
+5588;F;20;Illinois;5
+5589;F;0;Maine;6
+5590;F;12;Califórnia;7
+5591;M;0;Nova Iorque (estado);4
+5592;M;1;Wisconsin;5
+5593;M;16;Califórnia;7
+5594;F;0;Minnesota;7
+5595;M;20;Califórnia;6
+5596;M;12;Maryland;6
+5597;F;4;Califórnia;4
+5598;M;4;Carolina do Norte;4
+5599;M;7;Califórnia;7
+5600;F;0;Nova Iorque (estado);7
+5601;M;1;Washington;7
+5602;M;0;Oregon;7
+5603;M;7;Massachusetts;8
+5604;M;15;Missouri;6
+5605;F;2;Califórnia;3
+5606;F;14;Maryland;5
+5607;M;4;Nova Iorque (estado);3
+5608;M;3;Texas;3
+5609;F;1;Geórgia (Estados Unidos);7
+5610;F;1;Wisconsin;6
+5611;F;7;Maine;6
+5612;F;1;Massachusetts;5
+5613;F;0;Washington;7
+5614;M;0;Nova Iorque (estado);6
+5615;M;7;Nova Jérsia;6
+5616;M;1;Nova Jérsia;7
+5617;M;14;Michigan;6
+5618;F;4;Califórnia;4
+5619;F;4;Virgínia;4
+5620;M;14;Minnesota;7
+5621;M;7;Massachusetts;5
+5622;M;15;Massachusetts;7
+5623;M;11;Utah;5
+5624;M;7;Pensilvânia;5
+5625;M;1;Massachusetts;5
+5626;M;16;Flórida;8
+5627;M;0;Nova Jérsia;6
+5628;M;4;Califórnia;4
+5629;M;14;Massachusetts;6
+5630;M;17;Connecticut;6
+5631;M;12;Massachusetts;6
+5632;F;4;Texas;4
+5633;M;1;Washington;7
+5634;M;14;Minnesota;6
+5635;F;9;Connecticut;6
+5636;M;7;Washington;5
+5637;M;10;Nova Iorque (estado);0
+5638;M;1;Flórida;4
+5639;F;4;Illinois;4
+5640;M;17;Texas;6
+5641;F;17;Michigan;5
+5642;M;10;Oklahoma;2
+5643;F;1;Utah;6
+5644;F;4;Califórnia;3
+5645;M;2;Novo México;5
+5646;M;4;Havaí;4
+5647;M;1;Illinois;4
+5648;M;17;Michigan;6
+5649;F;4;Califórnia;3
+5650;F;12;Califórnia;6
+5651;F;6;Oklahoma;5
+5652;M;0;Indiana;4
+5653;M;1;Oklahoma;8
+5654;M;4;Califórnia;6
+5655;F;6;Texas;6
+5656;M;15;Nova Hampshire;5
+5657;M;14;Califórnia;8
+5658;M;0;Flórida;8
+5659;M;0;Maryland;6
+5660;M;2;Texas;5
+5661;F;15;Nova Hampshire;5
+5662;M;10;Nova Jérsia;2
+5663;F;20;Texas;6
+5664;M;4;Michigan;3
+5665;M;4;Nova Iorque (estado);3
+5666;M;16;Nova Iorque (estado);4
+5667;M;7;Nova Iorque (estado);6
+5668;F;3;Kentucky;5
+5669;M;1;Califórnia;8
+5670;M;4;Michigan;4
+5671;M;1;Massachusetts;5
+5672;F;4;Ohio;5
+5673;F;1;Minnesota;6
+5674;M;7;Califórnia;6
+5675;M;14;Geórgia (Estados Unidos);6
+5676;M;20;Texas;5
+5677;M;1;Nova Iorque (estado);6
+5678;M;17;Washington;6
+5679;M;2;Flórida;6
+5680;M;20;Califórnia;8
+5681;F;7;Califórnia;6
+5682;M;0;Virgínia;4
+5683;F;9;Califórnia;4
+5684;M;16;Califórnia;4
+5685;M;17;Califórnia;6
+5686;M;16;Illinois;8
+5687;F;0;Minnesota;0
+5688;F;4;Texas;4
+5689;M;0;Utah;6
+5690;M;4;Texas;4
+5691;M;14;Missouri;6
+5692;F;7;Carolina do Sul;6
+5693;F;4;Califórnia;6
+5694;F;12;Califórnia;5
+5695;F;3;Maryland;6
+5696;F;14;Oregon;4
+5697;M;0;Califórnia;6
+5698;M;14;Minnesota;6
+5699;M;15;Califórnia;7
+5700;F;14;Minnesota;4
+5701;M;7;Minnesota;5
+5702;M;0;Califórnia;4
+5703;M;1;Nova Iorque (estado);8
+5704;F;4;Califórnia;4
+5705;F;4;Califórnia;4
+5706;M;17;Nova Jérsia;4
+5707;M;12;Massachusetts;6
+5708;M;1;Califórnia;7
+5709;M;4;Califórnia;4
+5710;M;15;Califórnia;5
+5711;M;7;Indiana;5
+5712;M;1;Califórnia;6
+5713;F;7;Califórnia;8
+5714;M;2;Havaí;6
+5715;M;4;Califórnia;4
+5716;M;10;Nova Hampshire;0
+5717;M;0;Nova Hampshire;5
+5718;F;14;Tennessee;6
+5719;M;7;Maryland;9
+5720;M;0;Illinois;5
+5721;M;11;Califórnia;7
+5722;M;20;Michigan;5
+5723;M;12;Minnesota;4
+5724;M;15;Califórnia;6
+5725;M;2;Nova Iorque (estado);4
+5726;M;1;Texas;5
+5727;M;4;Califórnia;5
+5728;F;20;;6
+5729;M;10;Washington;3
+5730;M;0;Califórnia;4
+5731;F;11;Nova Iorque (estado);6
+5732;F;11;Massachusetts;6
+5733;M;4;Michigan;5
+5734;F;14;Nova Iorque (estado);5
+5735;M;6;Pensilvânia;5
+5736;M;1;Nova Jérsia;5
+5737;M;15;Califórnia;7
+5738;M;12;Minnesota;5
+5739;M;7;Califórnia;5
+5740;M;1;Illinois;5
+5741;M;13;Illinois;8
+5742;F;12;Maryland;6
+5743;F;0;Minnesota;6
+5744;F;4;Missouri;5
+5745;F;4;Califórnia;4
+5746;M;15;Califórnia;4
+5747;M;0;Nova Hampshire;5
+5748;M;0;Califórnia;5
+5749;M;2;Califórnia;4
+5750;M;1;Maine;4
+5751;F;0;Nova Iorque (estado);0
+5752;F;0;Nova Iorque (estado);9
+5753;M;17;Texas;4
+5754;F;1;Illinois;3
+5755;F;2;Texas;6
+5756;F;10;Washington;0
+5757;M;10;Vermont;0
+5758;F;1;Carolina do Sul;8
+5759;F;1;Nova Jérsia;6
+5760;M;12;Nova Iorque (estado);4
+5761;M;20;Califórnia;6
+5762;F;6;Minnesota;7
+5763;F;1;Nova Jérsia;5
+5764;F;12;Texas;7
+5765;M;11;Ohio;6
+5766;M;14;Havaí;9
+5767;M;2;Texas;5
+5768;F;7;Maryland;0
+5769;M;14;Vermont;7
+5770;M;0;Colorado;5
+5771;M;7;Califórnia;5
+5772;M;7;Pensilvânia;7
+5773;M;6;Nevada;5
+5774;M;4;Califórnia;4
+5775;M;11;Nova Iorque (estado);5
+5776;M;12;Oregon;4
+5777;M;0;Vermont;1
+5778;M;12;Arizona;7
+5779;M;5;Nova Iorque (estado);5
+5780;M;17;Califórnia;4
+5781;M;2;Nova Iorque (estado);6
+5782;F;0;Minnesota;7
+5783;F;1;Califórnia;7
+5784;M;10;Minnesota;4
+5785;F;7;Illinois;5
+5786;M;6;Wisconsin;5
+5787;M;20;Califórnia;5
+5788;M;0;Califórnia;5
+5789;M;17;Califórnia;6
+5790;F;0;Minnesota;6
+5791;M;4;Ohio;4
+5792;M;17;Ohio;5
+5793;M;2;Califórnia;5
+5794;M;17;Wisconsin;6
+5795;M;1;Califórnia;6
+5796;F;7;Nova Iorque (estado);5
+5797;M;7;Texas;6
+5798;M;0;Colorado;7
+5799;M;5;Colorado;5
+5800;M;18;Califórnia;7
+5801;M;16;Maine;5
+5802;F;0;Washington;5
+5803;M;10;Massachusetts;0
+5804;F;7;Califórnia;7
+5805;F;0;Califórnia;5
+5806;F;1;Nova Jérsia;8
+5807;M;7;Massachusetts;6
+5808;F;7;Tennessee;5
+5809;M;7;Tennessee;6
+5810;M;16;Califórnia;8
+5811;M;4;Illinois;4
+5812;F;7;Califórnia;6
+5813;M;7;Califórnia;6
+5814;M;0;Califórnia;6
+5815;M;20;Califórnia;5
+5816;M;0;Luisiana;5
+5817;M;17;Flórida;6
+5818;M;4;Califórnia;6
+5819;M;6;Luisiana;8
+5820;M;0;Ohio;7
+5821;M;15;Massachusetts;5
+5822;F;4;Texas;6
+5823;M;12;Massachusetts;5
+5824;M;12;Pensilvânia;4
+5825;F;4;Ohio;6
+5826;M;4;Illinois;4
+5827;M;2;Minnesota;5
+5828;M;17;Califórnia;5
+5829;F;4;Texas;5
+5830;F;4;Texas;4
+5831;M;1;Califórnia;4
+5832;F;0;Texas;6
+5833;F;0;Texas;6
+5834;M;16;Califórnia;8
+5835;F;0;Minnesota;7
+5836;M;0;Califórnia;5
+5837;M;7;Illinois;6
+5838;F;7;Massachusetts;7
+5839;M;1;Carolina do Norte;5
+5840;F;0;Ohio;0
+5841;F;7;Nova Iorque (estado);6
+5842;M;4;Ohio;5
+5843;M;1;Idaho;7
+5844;F;10;Massachusetts;0
+5845;F;3;Texas;5
+5846;M;16;Texas;7
+5847;F;4;Massachusetts;3
+5848;M;20;Washington, D.C.;8
+5849;M;17;Oregon;6
+5850;F;7;Texas;5
+5851;F;20;Minnesota;3
+5852;F;1;Califórnia;6
+5853;M;19;Nova Iorque (estado);8
+5854;M;7;Flórida;7
+5855;M;7;Pensilvânia;8
+5856;F;7;Texas;5
+5857;F;2;Ohio;7
+5858;M;4;Massachusetts;5
+5859;M;7;Nevada;6
+5860;F;4;Califórnia;5
+5861;F;1;Washington;8
+5862;F;9;Texas;6
+5863;F;14;Nevada;5
+5864;F;1;Carolina do Norte;8
+5865;M;17;Califórnia;6
+5866;F;6;Connecticut;6
+5867;F;3;Califórnia;7
+5868;M;14;Arizona;6
+5869;F;7;Pensilvânia;5
+5870;M;14;Washington;6
+5871;F;4;Massachusetts;6
+5872;M;17;Illinois;5
+5873;M;12;Nova Iorque (estado);4
+5874;M;4;Massachusetts;6
+5875;M;4;Pensilvânia;5
+5876;M;7;Geórgia (Estados Unidos);8
+5877;M;12;Massachusetts;4
+5878;F;0;Illinois;5
+5879;M;7;Massachusetts;6
+5880;M;1;Nova Jérsia;5
+5881;M;17;Geórgia (Estados Unidos);6
+5882;M;7;Illinois;7
+5883;F;0;Massachusetts;3
+5884;M;4;Washington, D.C.;3
+5885;M;1;;5
+5886;M;20;Massachusetts;5
+5887;F;20;Illinois;6
+5888;M;20;Missouri;5
+5889;M;20;Connecticut;8
+5890;M;20;Texas;6
+5891;M;4;Minnesota;3
+5892;M;2;Nova Iorque (estado);7
+5893;M;7;Massachusetts;6
+5894;M;0;Luisiana;7
+5895;M;1;Ohio;6
+5896;M;0;Illinois;5
+5897;M;20;Massachusetts;5
+5898;F;0;Massachusetts;3
+5899;M;17;Geórgia (Estados Unidos);7
+5900;M;7;Illinois;5
+5901;F;7;Califórnia;6
+5902;M;16;Texas;7
+5903;M;11;Connecticut;5
+5904;F;12;;7
+5905;F;20;Texas;7
+5906;F;4;Delaware;4
+5907;M;2;Nova Iorque (estado);5
+5908;M;4;Delaware;5
+5909;M;20;Califórnia;4
+5910;F;20;Nova Iorque (estado);7
+5911;F;17;Colorado;5
+5912;M;1;Texas;5
+5913;F;0;Indiana;4
+5914;M;2;Califórnia;6
+5915;M;4;Dakota do Norte;3
+5916;M;20;Michigan;8
+5917;F;1;Califórnia;8
+5918;M;12;Minnesota;5
+5919;M;0;Indiana;4
+5920;F;1;Vermont;5
+5921;M;6;Pensilvânia;6
+5922;M;3;Califórnia;8
+5923;M;7;Vermont;6
+5924;M;0;Minnesota;6
+5925;F;0;Califórnia;6
+5926;F;7;Missouri;7
+5927;M;14;Nova Iorque (estado);6
+5928;M;1;Nova Iorque (estado);7
+5929;F;0;Flórida;6
+5930;F;17;Texas;7
+5931;F;7;Califórnia;3
+5932;M;14;Califórnia;4
+5933;M;2;Washington;5
+5934;M;14;Texas;5
+5935;M;0;Alabama;3
+5936;M;4;Tennessee;4
+5937;M;12;Illinois;6
+5938;M;1;Alabama;5
+5939;F;15;Texas;7
+5940;M;12;Nova Hampshire;8
+5941;F;0;Illinois;6
+5942;M;1;Massachusetts;7
+5943;F;1;Delaware;7
+5944;F;10;Carolina do Norte;3
+5945;F;2;Alabama;6
+5946;F;1;Minnesota;8
+5947;F;16;Oregon;7
+5948;M;13;Nova Iorque (estado);9
+5949;M;17;Indiana;3
+5950;M;4;Delaware;6
+5951;M;4;Texas;4
+5952;F;1;Texas;7
+5953;M;10;Maryland;2
+5954;M;11;Luisiana;7
+5955;F;7;Flórida;5
+5956;F;4;Massachusetts;4
+5957;M;20;Massachusetts;4
+5958;M;14;Califórnia;7
+5959;F;4;Nova Iorque (estado);4
+5960;F;0;Luisiana;7
+5961;F;0;Texas;7
+5962;M;7;Colorado;6
+5963;M;15;Massachusetts;6
+5964;M;5;Oregon;4
+5965;M;17;Texas;6
+5966;F;9;Nova Iorque (estado);7
+5967;M;16;Oklahoma;8
+5968;M;7;Washington;9
+5969;M;13;Texas;7
+5970;M;11;Minnesota;6
+5971;M;7;Michigan;6
+5972;F;20;Minnesota;6
+5973;M;10;Wisconsin;1
+5974;F;1;Flórida;5
+5975;M;14;Minnesota;6
+5976;F;1;Virgínia Ocidental;6
+5977;M;1;Califórnia;6
+5978;M;1;Michigan;7
+5979;M;1;Ohio;4
+5980;M;1;Kentucky;8
+5981;M;7;Massachusetts;7
+5982;M;1;Minnesota;6
+5983;M;3;Carolina do Sul;5
+5984;M;1;Illinois;5
+5985;F;4;Texas;4
+5986;F;1;Massachusetts;9
+5987;M;16;Nova Iorque (estado);6
+5988;M;15;Califórnia;5
+5989;F;10;Oklahoma;0
+5990;F;20;Califórnia;5
+5991;F;20;Califórnia;6
+5992;F;4;Maryland;3
+5993;F;20;Iowa;8
+5994;M;1;Flórida;7
+5995;F;1;Nova Iorque (estado);6
+5996;F;0;Novo México;5
+5997;F;7;Nova Iorque (estado);5
+5998;M;4;Illinois;3
+5999;F;1;Minnesota;5
+6000;M;17;Geórgia (Estados Unidos);7
+6001;F;7;Califórnia;5
+6002;M;0;Ohio;7
+6003;F;17;Texas;7
+6004;F;15;Carolina do Norte;5
+6005;F;5;Carolina do Norte;6
+6006;F;0;Massachusetts;0
+6007;M;17;Colorado;6
+6008;M;4;Texas;4
+6009;F;12;Illinois;6
+6010;M;0;Texas;6
+6011;M;15;Colorado;6
+6012;M;15;Rhode Island;6
+6013;F;20;Flórida;5
+6014;M;1;Colorado;7
+6015;F;9;Colorado;5
+6016;M;1;Tennessee;7
+6017;F;7;Maryland;6
+6018;M;1;Michigan;6
+6019;M;0;Nova Iorque (estado);5
+6020;M;16;Nova Iorque (estado);8
+6021;M;12;Nova Jérsia;6
+6022;M;17;Dakota do Sul;5
+6023;M;0;Ohio;5
+6024;M;12;Wisconsin;5
+6025;F;1;Flórida;4
+6026;M;6;Nova Iorque (estado);6
+6027;M;4;Maryland;3
+6028;M;4;Califórnia;3
+6029;F;1;Virgínia;6
+6030;M;17;Flórida;6
+6031;F;0;Ohio;4
+6032;M;7;Minnesota;7
+6033;M;13;Texas;7
+6034;M;14;Califórnia;6
+6035;F;1;Texas;5
+6036;F;15;Flórida;5
+6037;F;1;Texas;7
+6038;F;1;Nova Iorque (estado);8
+6039;F;0;Massachusetts;7
+6040;M;6;Nova Iorque (estado);6
