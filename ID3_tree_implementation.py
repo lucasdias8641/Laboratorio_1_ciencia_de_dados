@@ -1,6 +1,8 @@
 import concurrent.futures
 import ID3_functions as id3f
 
+#Esse classificador foi construido para predizer datasets em que a classificação é um valor númerico
+
 class Tree():
 
     #Inicializar a classe com o nome para ser um identificador e a list_dict que funcionara como método de decisão
@@ -46,7 +48,7 @@ class Tree():
             category,value = sorted(entropy_gain.items(), key = lambda item: item[1], reverse = True)[0]
 
             #Caso exista ganho de entropia
-            if value > 0.01:
+            if value > 0.1:
 
                 #Adicionar o valor 
                 self.__get_node(path,tree)[attribute] = {}
@@ -63,10 +65,14 @@ class Tree():
                 path.pop()
                 path.pop()
 
-            #Caso não exista ganho de entropia, escolher a nota que sera dada
+            #Caso não exista ganho de entropia, escolher a nota que sera dada, que sera calculada pela média
             else:
                 self.__get_node(path,tree)[attribute] = df_principal.Rating.value_counts().index[0]
-                
+    
+    #Função para retornar as chaves de um dicionario
+    def __get_key(self,tree):
+        for key in tree.keys():
+            return key               
 
     #Função para definir a arvore
     def define_tree(self,list_categories,path,df_aux):
@@ -133,6 +139,47 @@ class Tree():
             
             #Transferir a arvore treinada para a principal
             self.tree.get(self.first_category).update(auxiliar_tree)
+
+    #Predizer a nota do filme baseado nos dados fornecidos        
+    def predict(self,df):
+
+        #Inicializar variavel que armazenara os resultados
+        results = []
+
+        #Percorrer todas as linhas
+        for _,line in df.iterrows():
+
+            #Definir a primeira chave de busca
+            key = self.first_category
+
+            #Encontrar o primeiro ramo da árvore
+            auxiliar_tree = self.tree.get(self.first_category)
+
+            #Percorrer a árvore de acordo com as informações da linha e encontrar o rating desejado
+            while 1:
+
+                #Obter o valor correspondente a chave para esse caso
+                result = line.loc[key]
+                
+                #Reduzir a árvore
+                auxiliar_tree = auxiliar_tree.get(result)
+
+                #Caso tenha encontrado o valor que se desejava prever
+                if not isinstance(auxiliar_tree,dict):
+                    break
+
+                #Caso ainda seja necessario percorrer a árvore:
+                else:
+                    print(auxiliar_tree)
+                    #Obter a nova chave
+                    key = self.__get_key(auxiliar_tree)
+
+                    #Reduzir a árvore
+                    auxiliar_tree = auxiliar_tree.get(key)
+
+            results.append(auxiliar_tree)
+        
+        return results
 
     def get_tree(self):
         return self.tree
