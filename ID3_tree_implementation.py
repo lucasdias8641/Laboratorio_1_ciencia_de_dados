@@ -1,8 +1,6 @@
 import concurrent.futures
 import ID3_functions as id3f
 
-#Esse classificador foi construido para predizer datasets em que a classificação é um valor númerico
-
 class Tree():
 
     #Inicializar a classe com o nome para ser um identificador e a list_dict que funcionara como método de decisão
@@ -26,11 +24,14 @@ class Tree():
     #Definir a função que a partir de um atributo decide qual o proximo que deve ser avaliado
     def __chose_next_node(self,list_categories,path,df,tree):
 
+        #Definir a classificação mais comum 
+        most_commom = df.iloc[:,0].value_counts().index[0]
+
         #Escolher um dataframe que contenha só as linhas que correspondem a categoria indicada em path
         for attribute,df_principal in df.groupby(path[-1]):
 
             #Definir entropia inicial desse nó:
-            inicial_entropy = df_principal.Rating.value_counts(normalize = True).map(lambda x: -x*id3f.log(x)).sum()
+            inicial_entropy = df_principal.iloc[:,0].value_counts(normalize = True).map(lambda x: -x*id3f.log(x)).sum()
 
             #Definir a entropia para cada categoria disponivel
             entropy_gain = {}
@@ -38,8 +39,8 @@ class Tree():
                 total = 0
                 soma = 0
 
-                for p,df_subselected in df_principal.groupby(category):
-                    attribute_column = df_subselected.Rating
+                for _,df_subselected in df_principal.groupby(category):
+                    attribute_column = df_subselected.iloc[:,0]
                     total += attribute_column.count()
                     soma += (attribute_column.value_counts(normalize = True).map(lambda x: -x*id3f.log(x)).sum())*attribute_column.count()
                 entropy_gain[category] = inicial_entropy - soma/total
@@ -48,7 +49,7 @@ class Tree():
             category,value = sorted(entropy_gain.items(), key = lambda item: item[1], reverse = True)[0]
 
             #Caso exista ganho de entropia
-            if value > 0.1:
+            if value > 0.01:
 
                 #Adicionar o valor 
                 self.__get_node(path,tree)[attribute] = {}
@@ -59,6 +60,7 @@ class Tree():
                 path.append(category)
 
                 #escolher proxima categoria
+                self.__get_node(path,tree).update({'other': most_commom})
                 self.__chose_next_node(list_categories,path,df_principal,tree)
 
                 #Retirar os parametros de profundidade do nó
@@ -67,7 +69,7 @@ class Tree():
 
             #Caso não exista ganho de entropia, escolher a nota que sera dada, que sera calculada pela média
             else:
-                self.__get_node(path,tree)[attribute] = df_principal.Rating.value_counts().index[0]
+                self.__get_node(path,tree)[attribute] = df_principal.iloc[:,0].value_counts().index[0]
     
     #Função para retornar as chaves de um dicionario
     def __get_key(self,tree):
@@ -89,7 +91,7 @@ class Tree():
         list_categories = df.columns[1::]
 
         #Definir a entropia inicial do dataset
-        inicial_entropy = df.Rating.value_counts(normalize = True).map(lambda x: -x*id3f.log(x)).sum()
+        inicial_entropy = df.iloc[:,0].value_counts(normalize = True).map(lambda x: -x*id3f.log(x)).sum()
 
         #Definir a entropia de cada categoria para o primeiro nó
         entropy_gain = {}
@@ -97,7 +99,7 @@ class Tree():
             total = 0
             soma = 0
             for _,line in df.groupby(attribute):
-                attribute_column =line.Rating
+                attribute_column =line.iloc[:,0]
                 total += attribute_column.count()
                 soma += (attribute_column.value_counts(normalize = True).map(lambda x: -x*id3f.log(x)).sum())*attribute_column.count()
             entropy_gain[attribute] = inicial_entropy - soma/total
@@ -153,7 +155,7 @@ class Tree():
             key = self.first_category
 
             #Encontrar o primeiro ramo da árvore
-            auxiliar_tree = self.tree.get(self.first_category)
+            local_tree = self.tree.get(self.first_category)
 
             #Percorrer a árvore de acordo com as informações da linha e encontrar o rating desejado
             while 1:
@@ -162,22 +164,27 @@ class Tree():
                 result = line.loc[key]
                 
                 #Reduzir a árvore
-                auxiliar_tree = auxiliar_tree.get(result)
+                auxiliar_tree = local_tree.get(result)
+
+                #Caso o caso não esteja na árvore é necessário generalizar 
+                if(auxiliar_tree == None):
+                    local_tree = local_tree.get('other')
+                else:
+                    local_tree = auxiliar_tree
 
                 #Caso tenha encontrado o valor que se desejava prever
-                if not isinstance(auxiliar_tree,dict):
+                if not isinstance(local_tree,dict):
                     break
 
                 #Caso ainda seja necessario percorrer a árvore:
                 else:
-                    print(auxiliar_tree)
                     #Obter a nova chave
-                    key = self.__get_key(auxiliar_tree)
+                    key = self.__get_key(local_tree)
 
                     #Reduzir a árvore
-                    auxiliar_tree = auxiliar_tree.get(key)
+                    local_tree = local_tree.get(key)
 
-            results.append(auxiliar_tree)
+            results.append(local_tree)
         
         return results
 
