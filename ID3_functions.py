@@ -11,7 +11,3 @@ def log(x):
         return 0
     else:
         return ValueError
-
-
-
-
